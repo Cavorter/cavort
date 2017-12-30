@@ -1,0 +1,10 @@
+version: 1.0.{build}
+build_script:
+- ps: >-
+    choco install hugo -y
+
+    hugo
+
+    Compress-Archive -Path .\public -DestinationPath "cavort.org.$($env:APPVEYOR_BUILD_VERSION).zip" -CompressionLevel Optimal
+artifacts:
+- path: cavort.org.$($env:APPVEYOR_BUILD_VERSION).zip
