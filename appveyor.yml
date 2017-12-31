@@ -7,7 +7,7 @@ build_script:
 
     Compress-Archive -Path .\public -DestinationPath "cavort.org.$($env:APPVEYOR_BUILD_VERSION).zip" -CompressionLevel Optimal
 artifacts:
-- path: cavort.org.{version}.zip
+- path: cavort.org.*.zip
 deploy:
 - provider: AzureBlob
   storage_account_name: cavort001
