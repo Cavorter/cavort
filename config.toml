@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://cavort001.blob.core.windows.net/blog/"
 languageCode = "en"
 title = "Itty Bitty Rants"
 theme = "hugo-nuo"
