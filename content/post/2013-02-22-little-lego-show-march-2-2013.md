@@ -28,4 +28,4 @@ So it'll be a little show for only 2 hours. Not a whole lot to see, but hopefull
 
 ![View Larger Map](https://maps.google.com/maps?f=q&source=embed&hl=en&geocode=&q=St+Anthony+Park+Library,+Como+Avenue,+Saint+Paul,+MN&aq=0&oq=st+anthony+park+libra&sll=44.819586,-93.348354&sspn=0.157076,0.32753&t=m&ie=UTF8&hq=St+Anthony+Park+Library,+Como+Avenue,+Saint+Paul,+MN&ll=44.98095,-93.193674&spn=0.021249,0.036478&z=14&iwloc=A)
 
-Small update: [The flyer up top is available in PDF format too.](http://www.cavort.org/wp-content/uploads/2013/02/LibraryShowFlyer.pdf")
+Small update: [The flyer up top is available in PDF format too.](wp-content/uploads/2013/02/LibraryShowFlyer.pdf")
