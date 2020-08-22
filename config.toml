@@ -1,5 +1,5 @@
 #baseURL = "https://cavort001.blob.core.windows.net/blog/"
-baseURL = "https://test.cavort.org/"
+baseURL = "https://www.cavort.org/"
 languageCode = "en-us"
 title = "Itty Bitty Rants"
 copyright = "Copyright &copy; 2020 - Nathan Stohlmann"
