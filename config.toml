@@ -8,6 +8,7 @@ theme = "hugo-kiera-modified"
 
 paginate = 4
 
+disableKinds = "tags"
 summaryLength = 100
 enableEmoji = true
 pygmentsCodeFences = true
