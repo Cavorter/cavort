@@ -5,7 +5,8 @@ layout: about
 date: 2006-05-26T23:33:34+00:00
 short-url:
   - http://bit.ly/hxd8Tc
-
+menu: "main"
+meta: "false"
 ---
 The following is the contents of the login quote file from [L-Space](/l-space):
 

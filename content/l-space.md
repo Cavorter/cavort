@@ -3,6 +3,7 @@ title: L-Space
 
 layout: "about"
 menu: "main"
+meta: "false"
 weight: 100
 comments: false
 

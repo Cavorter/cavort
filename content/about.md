@@ -3,6 +3,7 @@ title: "About"
 date: 2017-12-29
 layout: "about"
 menu: "main"
+meta: "false"
 weight: 20
 comments: false
 short-url:

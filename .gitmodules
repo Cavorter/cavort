@@ -1,3 +1,9 @@
 [submodule ".\\themes\\hugo-nuo\\"]
 	path = .\\themes\\hugo-nuo\\
 	url = https://github.com/laozhu/hugo-nuo
+[submodule "themes/--force"]
+	path = themes/--force
+	url = https://github.com/funkydan2/hugo-kiera.git
+[submodule "themes/hugo-kiera"]
+	path = themes/hugo-kiera
+	url = https://github.com/funkydan2/hugo-kiera.git

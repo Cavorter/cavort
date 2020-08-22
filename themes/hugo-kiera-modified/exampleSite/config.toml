@@ -1,14 +1,12 @@
-#baseURL = "https://cavort001.blob.core.windows.net/blog/"
-baseURL = "https://test.cavort.org/"
-languageCode = "en-us"
-title = "Itty Bitty Rants"
-copyright = "Copyright &copy; 2020 - Nathan Stohlmann"
+baseurl = "https://www.example.org/"
+title = "Kiera"
+copyright = "Copyright &copy; 2019 - Author Name"
 canonifyurls = true
-theme = "hugo-kiera-modified"
+theme = "hugo-kiera"
 
-paginate = 4
+paginate = 3
 
-summaryLength = 100
+summaryLength = 30
 enableEmoji = true
 pygmentsCodeFences = true
 
@@ -16,20 +14,20 @@ pygmentsCodeFences = true
 
 # Note: to disable a social network icon delete or comment out the corresponding line
 [author]
-    name = "Nathan Stohlmann"
-    twitter = "cavorter"
-    github = "Cavorter"
+    name = "Example"
+    github = "funkydan2"
     #gitlab = "username"
     #linkedin = "username"
     #facebook = "username"
+    twitter = "ds_says"
     #instagram = "username"
     #stackoverflow = "username"
     #youtube = "user/username" # or channel/channelname
     #devto = "username"
 
 [params]
-    tagline = "Infrequent posts about stuff."
-    description = "Personal blog for Nathan Stohlmann. Infrequently updated."
+    tagline = "A Hugo theme for creative and technical writing"
+    description = "Kiera: A Hugo theme for creative and technical writing."
     #images = [""] #This is used for opengraph/twitter cards.
     customCSS = []  #Optional Customised CSS
     #favicon = ""
@@ -43,15 +41,15 @@ pygmentsCodeFences = true
     #disableDarkModeCSS = false # disables css style for users using dark-mode
 
 # uncomment to enable the Tags link on the main toolbar
-[[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags"
-    weight = 1
+#  [[menu.main]]
+#    identifier = "tags"
+#    name = "Tags"
+#    url = "/tags"
+#    weight = 1
 
 # uncomment to enable the Categories link on the main toolbar
-[[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories"
-    weight = 1
+#  [[menu.main]]
+#    identifier = "categories"
+#    name = "Categories"
+#    url = "/categories"
+#    weight = 1

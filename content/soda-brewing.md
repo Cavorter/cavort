@@ -2,6 +2,7 @@
 title: "Soda Brewing"
 layout: "about"
 menu: "main"
+meta: "false"
 weight: 60
 date: 2005-12-18T16:24:59+00:00
 short-url:
