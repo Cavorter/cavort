@@ -48,6 +48,7 @@ time {
 
 #container header h1 a {
   color: #ffffff;
+  text-decoration: none;
 }
 
 #container header ul {
