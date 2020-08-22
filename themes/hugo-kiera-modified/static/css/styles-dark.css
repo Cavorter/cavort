@@ -265,7 +265,7 @@ width: 100%;
 
 a {
   color: #ffffff;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .image, figure img, img {
