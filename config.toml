@@ -6,12 +6,12 @@ copyright = "Copyright &copy; 2020 - Nathan Stohlmann"
 canonifyurls = true
 theme = "hugo-kiera-modified"
 
-paginate = 4
+paginate = 10
 
 [taxonomies]
   category = "categories"
 
-summaryLength = 100
+summaryLength = 20
 enableEmoji = true
 pygmentsCodeFences = true
 
