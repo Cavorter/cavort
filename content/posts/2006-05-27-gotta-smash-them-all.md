@@ -1,7 +1,5 @@
 ---
 title: Gotta smash them all
-
-
 date: 2006-05-27T14:24:47+00:00
 url: /2006/05/27/gotta-smash-them-all/
 short-url:

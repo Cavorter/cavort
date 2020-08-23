@@ -1,7 +1,5 @@
 ---
 title: It’s a dessert topping…
-
-
 date: 2007-03-05T16:07:12+00:00
 url: /2007/03/05/its-a-dessert-topping/
 short-url:

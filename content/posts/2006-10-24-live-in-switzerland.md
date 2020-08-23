@@ -1,7 +1,5 @@
 ---
 title: Live in Switzerland
-
-
 date: 2006-10-24T17:25:59+00:00
 url: /2006/10/24/live-in-switzerland/
 short-url:

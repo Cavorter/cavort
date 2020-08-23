@@ -1,7 +1,5 @@
 ---
 title: 'Video Test: Grouper'
-
-
 date: 2006-07-29T15:47:26+00:00
 url: /2006/07/29/video-test-grouper/
 enclosure:

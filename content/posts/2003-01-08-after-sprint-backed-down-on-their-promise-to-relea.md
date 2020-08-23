@@ -1,7 +1,5 @@
 ---
 title: After Sprint backed down on their promise to relea…
-
-
 date: 2003-01-08T20:12:34+00:00
 url: /2003/01/08/after-sprint-backed-down-on-their-promise-to-relea/
 short-url:

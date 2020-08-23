@@ -1,7 +1,5 @@
 ---
 title: MSN Messenger
-
-
 date: 2005-12-22T17:52:09+00:00
 url: /2005/12/22/msn-messenger/
 short-url:

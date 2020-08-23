@@ -1,7 +1,5 @@
 ---
 title: Friendly voting
-
-
 date: 2007-03-06T15:59:46+00:00
 url: /2007/03/06/friendly-voting/
 short-url:

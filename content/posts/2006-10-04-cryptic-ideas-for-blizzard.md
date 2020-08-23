@@ -1,7 +1,5 @@
 ---
 title: Cryptic ideas for Blizzard
-
-
 date: 2006-10-04T23:48:51+00:00
 url: /2006/10/04/cryptic-ideas-for-blizzard/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: Now Playing
-
-
 date: 2006-08-14T22:38:03+00:00
 url: /2006/08/14/now-playing/
 short-url:

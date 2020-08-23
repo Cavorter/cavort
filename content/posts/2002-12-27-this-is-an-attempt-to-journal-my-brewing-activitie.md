@@ -1,7 +1,5 @@
 ---
 title: This is an attempt to journal my brewing activitie…
-
-
 date: 2002-12-27T16:36:45+00:00
 url: /2002/12/27/this-is-an-attempt-to-journal-my-brewing-activitie/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: The trickle continues…
-
-
 date: 2006-10-04T22:55:46+00:00
 url: /2006/10/04/the-trickle-continues/
 short-url:

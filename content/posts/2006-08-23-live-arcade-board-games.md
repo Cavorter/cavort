@@ -1,7 +1,5 @@
 ---
 title: Live Arcade Board Games!
-
-
 date: 2006-08-23T15:15:58+00:00
 url: /2006/08/23/live-arcade-board-games/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: Speaking of too many hobbies, I’ve actually done s…
-
-
 date: 2003-02-17T13:41:55+00:00
 url: /2003/02/17/speaking-of-too-many-hobbies-ive-actually-done-s/
 short-url:

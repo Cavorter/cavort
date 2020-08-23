@@ -1,7 +1,5 @@
 ---
 title: More specific information about streaming from a T…
-
-
 date: 2003-04-21T20:44:01+00:00
 url: /2003/04/21/more-specific-information-about-streaming-from-a-t/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: Coming soon
-
-
 date: 2006-06-29T17:05:34+00:00
 url: /2006/06/29/coming-soon/
 short-url:

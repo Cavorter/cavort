@@ -1,7 +1,5 @@
 ---
 title: Minding my own business, as I so often am
-
-
 date: 2006-06-22T19:43:50+00:00
 url: /2006/06/22/minding-my-own-business-as-i-so-often-am/
 short-url:

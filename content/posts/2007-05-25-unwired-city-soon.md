@@ -1,7 +1,5 @@
 ---
 title: Unwired city soon
-
-
 date: 2007-05-25T19:17:31+00:00
 url: /2007/05/25/unwired-city-soon/
 short-url:

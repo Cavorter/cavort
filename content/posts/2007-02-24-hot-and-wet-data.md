@@ -1,7 +1,5 @@
 ---
 title: Hot and wet data
-
-
 date: 2007-02-24T18:57:20+00:00
 url: /2007/02/24/hot-and-wet-data/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: Honey as a topical antibacterial agent for treatment of infected wounds
-
-
 date: 2005-12-28T17:34:50+00:00
 url: /2005/12/28/honey-as-a-topical-antibacterial-agent-for-treatment-of-infected-wounds/
 short-url:

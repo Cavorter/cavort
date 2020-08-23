@@ -1,7 +1,5 @@
 ---
 title: Continuing with a short run of car related posts, …
-
-
 date: 2002-06-12T15:30:21+00:00
 url: /2002/06/12/continuing-with-a-short-run-of-car-related-posts/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: Music in my ears
-
-
 date: 2006-06-27T21:55:52+00:00
 url: /2006/06/27/music-in-my-ears/
 short-url:

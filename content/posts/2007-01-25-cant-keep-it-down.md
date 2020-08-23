@@ -1,7 +1,5 @@
 ---
 title: Can’t keep it down
-
-
 date: 2007-01-25T16:52:29+00:00
 url: /2007/01/25/cant-keep-it-down/
 short-url:

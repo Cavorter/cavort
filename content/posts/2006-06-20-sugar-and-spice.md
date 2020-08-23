@@ -1,7 +1,5 @@
 ---
 title: Sugar and Spice
-
-
 date: 2006-06-20T15:08:08+00:00
 url: /2006/06/20/sugar-and-spice/
 short-url:

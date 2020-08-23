@@ -1,7 +1,5 @@
 ---
 title: Since I wasn’t really using it anyway
-
-
 date: 2006-08-16T14:15:50+00:00
 url: /2006/08/16/since-i-wasnt-really-using-it-anyway/
 short-url:

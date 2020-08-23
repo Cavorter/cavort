@@ -1,7 +1,5 @@
 ---
 title: 'Odd experience: A distant relative from Germany (I…'
-
-
 date: 2003-03-20T18:30:53+00:00
 url: /2003/03/20/odd-experience-a-distant-relative-from-germany-i/
 short-url:

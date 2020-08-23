@@ -14,8 +14,6 @@ categories:
 
 One more thing while I'm thinking of it, Icon was quite good. My friend actually invited me up to sit on the homebrewing panel he ran and I think I was able to add to the discussion reasonably well. I think the big problem is that there wasn't anything for people to hang the information we were putting out onto. Maybe the next panel like it should be done as a demo instead, or at least we should have some examples of equipment and etc.
 
-
-
 One of the really cool things was that there was someone at the panel who was there to get information about brewing sodas! We talked for quite awhile in the SuperCon party after the panel, and I'm hoping that I hear from him when he gets a chance to try soda brewing for himself.
 
 </div>

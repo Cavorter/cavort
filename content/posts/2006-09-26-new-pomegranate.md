@@ -1,7 +1,5 @@
 ---
 title: New Pomegranate
-
-
 date: 2006-09-26T15:07:17+00:00
 url: /2006/09/26/new-pomegranate/
 short-url:

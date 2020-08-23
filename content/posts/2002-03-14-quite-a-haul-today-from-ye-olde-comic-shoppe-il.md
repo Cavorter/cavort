@@ -1,7 +1,5 @@
 ---
 title: Quite a haul today from ye’ olde comic shoppe. I’l…
-
-
 date: 2002-03-14T04:46:41+00:00
 url: /2002/03/14/quite-a-haul-today-from-ye-olde-comic-shoppe-il/
 short-url:

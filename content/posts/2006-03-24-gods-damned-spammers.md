@@ -1,7 +1,5 @@
 ---
 title: Gods damned spammers…
-
-
 date: 2006-03-23T20:41:09+00:00
 url: /2006/03/24/gods-damned-spammers/
 short-url:

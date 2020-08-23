@@ -1,7 +1,5 @@
 ---
 title: One last irritation
-
-
 date: 2006-11-14T16:26:23+00:00
 url: /2006/11/14/one-last-irritation/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: 'Video Test: ClipShack'
-
-
 date: 2006-07-29T18:24:18+00:00
 url: /2006/07/29/video-test-clipshack/
 short-url:

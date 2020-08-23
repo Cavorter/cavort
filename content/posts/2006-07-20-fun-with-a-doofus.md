@@ -1,7 +1,5 @@
 ---
 title: Fun with a doofus
-
-
 date: 2006-07-20T15:36:12+00:00
 url: /2006/07/20/fun-with-a-doofus/
 short-url:

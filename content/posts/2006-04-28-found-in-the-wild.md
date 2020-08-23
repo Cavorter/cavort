@@ -1,7 +1,5 @@
 ---
 title: Found in the wild…
-
-
 date: 2006-04-27T19:58:07+00:00
 url: /2006/04/28/found-in-the-wild/
 short-url:

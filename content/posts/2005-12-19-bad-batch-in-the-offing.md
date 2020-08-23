@@ -1,7 +1,5 @@
 ---
 title: Bad batch in the offing?
-
-
 date: 2005-12-19T17:59:33+00:00
 url: /2005/12/19/bad-batch-in-the-offing/
 short-url:

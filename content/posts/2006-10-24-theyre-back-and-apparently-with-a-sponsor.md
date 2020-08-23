@@ -1,7 +1,5 @@
 ---
 title: They’re back, and apparently with a sponsor
-
-
 date: 2006-10-24T13:52:35+00:00
 url: /2006/10/24/theyre-back-and-apparently-with-a-sponsor/
 short-url:

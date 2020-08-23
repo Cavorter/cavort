@@ -1,7 +1,5 @@
 ---
 title: Build your own solar cell
-
-
 date: 2006-08-14T19:30:03+00:00
 url: /2006/08/14/build-your-own-solar-cell/
 short-url:

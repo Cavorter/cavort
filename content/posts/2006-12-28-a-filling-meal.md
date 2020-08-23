@@ -1,7 +1,5 @@
 ---
 title: A filling meal
-
-
 date: 2006-12-28T14:23:27+00:00
 url: /2006/12/28/a-filling-meal/
 short-url:

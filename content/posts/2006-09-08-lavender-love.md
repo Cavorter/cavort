@@ -1,7 +1,5 @@
 ---
 title: Lavender Love
-
-
 date: 2006-09-08T17:48:30+00:00
 url: /2006/09/08/lavender-love/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: 'Video Test: DropShots'
-
-
 date: 2006-07-29T17:46:11+00:00
 url: /2006/07/29/video-test-dropshots/
 short-url:

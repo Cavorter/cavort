@@ -1,7 +1,5 @@
 ---
 title: Selling the house
-
-
 date: 2005-09-27T15:29:59+00:00
 url: /2005/09/27/selling-the-house/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: So I think that I have found what I would like to …
-
-
 date: 2003-04-10T14:40:41+00:00
 url: /2003/04/10/so-i-think-that-i-have-found-what-i-would-like-to/
 short-url:

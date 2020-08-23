@@ -1,7 +1,5 @@
 ---
 title: Oh, this is just so…. well, after sending off th…
-
-
 date: 2003-05-01T13:24:59+00:00
 url: /2003/05/01/oh-this-is-just-so-well-after-sending-off-th/
 short-url:

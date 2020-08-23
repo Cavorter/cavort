@@ -1,7 +1,5 @@
 ---
 title: Salon is characteristicly assanine in their review…
-
-
 date: 2002-07-03T16:57:50+00:00
 url: /2002/07/03/salon-is-characteristicly-assanine-in-their-review/
 short-url:

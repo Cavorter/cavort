@@ -1,7 +1,5 @@
 ---
 title: Twitter Haiku
-
-
 date: 2008-07-29T15:49:03+00:00
 url: /2008/07/29/twitter-haiku/
 aktt_tweeted:

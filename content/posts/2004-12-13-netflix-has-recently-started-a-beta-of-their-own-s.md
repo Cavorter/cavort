@@ -15,8 +15,6 @@ categories:
 
 Netflix has recently started a beta of their own social networking-sort-of service called <a href="http://www.netflix.com/FriendPage">Netflix Friends</a>.
 
-
-
 If you want an invitation, contact me and I'll be glad to send you an invite!
 
 </div>

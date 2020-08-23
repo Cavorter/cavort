@@ -1,7 +1,5 @@
 ---
 title: Finding things in odd places…
-
-
 date: 2006-05-22T15:18:07+00:00
 url: /2006/05/22/finding-things-in-odd-places/
 short-url:

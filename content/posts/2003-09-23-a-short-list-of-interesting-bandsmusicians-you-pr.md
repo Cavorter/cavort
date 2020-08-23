@@ -13,8 +13,6 @@ categories:
 <div class='microid-http+http:sha1:7eae2140d68ac35b04d3e2bc8920fd5ee2a6d5ee'>
 
 A short list of interesting bands/musicians you probably haven't heard, but definitely should:
-
-
 <ul>
 <li>
 <a href="http://www.dentmusic.com/">The Dent</a> is a pop trio out of the northeast that has a great sound, and incredibly catchy lyrics. <a href="http://www.cdbaby.com/cd/dent2">Available on CD Baby!</a>

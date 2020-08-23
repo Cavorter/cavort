@@ -1,7 +1,5 @@
 ---
 title: I haven’t really had time to check, but I’m guessi…
-
-
 date: 2002-11-07T16:59:23+00:00
 url: /2002/11/07/i-havent-really-had-time-to-check-but-im-guessi/
 short-url:

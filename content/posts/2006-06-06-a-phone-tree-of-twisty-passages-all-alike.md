@@ -1,7 +1,5 @@
 ---
 title: A phone tree of twisty passages, all alike?
-
-
 date: 2006-06-06T16:56:23+00:00
 url: /2006/06/06/a-phone-tree-of-twisty-passages-all-alike/
 short-url:

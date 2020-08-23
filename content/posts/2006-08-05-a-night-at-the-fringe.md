@@ -1,7 +1,5 @@
 ---
 title: A night at the fringe
-
-
 date: 2006-08-05T05:01:23+00:00
 url: /2006/08/05/a-night-at-the-fringe/
 short-url:

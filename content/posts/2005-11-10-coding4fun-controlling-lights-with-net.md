@@ -1,7 +1,5 @@
 ---
 title: 'Coding4Fun: Controlling Lights with .NET'
-
-
 date: 2005-11-09T22:46:15+00:00
 url: /2005/11/10/coding4fun-controlling-lights-with-net/
 short-url:

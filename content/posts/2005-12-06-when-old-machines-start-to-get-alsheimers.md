@@ -1,7 +1,5 @@
 ---
 title: When old machines start to get alsheimers…
-
-
 date: 2005-12-06T02:28:09+00:00
 url: /2005/12/06/when-old-machines-start-to-get-alsheimers/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: I feel like dancing!
-
-
 date: 2006-06-06T22:07:22+00:00
 url: /2006/06/06/i-feel-like-dancing/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: Timing is everything…
-
-
 date: 2006-05-22T14:22:27+00:00
 url: /2006/05/22/timing-is-everything/
 short-url:

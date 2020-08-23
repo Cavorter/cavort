@@ -1,7 +1,5 @@
 ---
 title: I was digging through my couple of web sites today…
-
-
 date: 2002-07-23T22:05:06+00:00
 url: /2002/07/23/i-was-digging-through-my-couple-of-web-sites-today/
 short-url:

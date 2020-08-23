@@ -1,7 +1,5 @@
 ---
 title: 'Video Test: DailyMotion'
-
-
 date: 2006-07-29T18:45:25+00:00
 url: /2006/07/29/video-test-dailymotion-3/
 short-url:

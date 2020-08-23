@@ -1,7 +1,5 @@
 ---
 title: A sweeter future
-
-
 date: 2006-12-05T20:42:15+00:00
 url: /2006/12/05/a-sweeter-future/
 short-url:

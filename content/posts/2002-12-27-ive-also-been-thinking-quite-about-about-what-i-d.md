@@ -1,7 +1,5 @@
 ---
 title: I’ve also been thinking quite about about what I d…
-
-
 date: 2002-12-27T14:28:42+00:00
 url: /2002/12/27/ive-also-been-thinking-quite-about-about-what-i-d/
 short-url:

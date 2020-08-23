@@ -1,7 +1,5 @@
 ---
 title: Happy Holidays to Me!
-
-
 date: 2005-12-18T19:37:02+00:00
 url: /2005/12/19/happy-holidays-to-me/
 short-url:

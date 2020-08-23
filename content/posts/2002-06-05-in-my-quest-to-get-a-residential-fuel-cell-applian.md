@@ -1,7 +1,5 @@
 ---
 title: In my quest to get a residential fuel cell applian…
-
-
 date: 2002-06-05T21:13:01+00:00
 url: /2002/06/05/in-my-quest-to-get-a-residential-fuel-cell-applian/
 short-url:

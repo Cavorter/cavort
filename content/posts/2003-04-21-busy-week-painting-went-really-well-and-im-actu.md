@@ -1,7 +1,5 @@
 ---
 title: 'Busy week: Painting went really well, and I’m actu…'
-
-
 date: 2003-04-21T20:40:15+00:00
 url: /2003/04/21/busy-week-painting-went-really-well-and-im-actu/
 short-url:

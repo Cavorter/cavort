@@ -1,7 +1,5 @@
 ---
 title: Snow still lying around at Byerly’s
-
-
 date: 2006-04-03T15:20:48+00:00
 url: /2006/04/03/snow-still-lying-around-at-byerlys/
 short-url:

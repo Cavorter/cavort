@@ -1,7 +1,5 @@
 ---
 title: Yellow no. 5! Yellow no. 5!
-
-
 date: 2007-11-09T19:02:04+00:00
 url: /2007/11/09/yellow-no-5-yellow-no-5/
 aktt_tweeted:
@@ -15,8 +13,6 @@ categories:
 <div class='microid-mailto+http:sha1:ef02694de3e6e7ee0927dc9bdb20370dbb15a296'>
 
 A friend who knows me well got a four pack of the "treat-sized" Jones Candy Corn soda and brought it in to work for me today. Good thing since I had not been able to find it at my local Target. A couple of notes:
-
-
 <ol>
 <li>
 It is Yellow. (FD&C Yellow no. 5 to be specific)
@@ -37,8 +33,6 @@ The flavor is not quite perfect, but in some ways that's a good thing since it h
 Did I mention "yellow"?
 </li>
 </ol>
-
-
 Anyway, fun stuff. Not recomended for daily drinking. Though if you can find some of their other holiday flavor, "Monster Mojito", buy a case. It's great stuff and this year's cane sugar can only have improved it over last year.
 
 </div>

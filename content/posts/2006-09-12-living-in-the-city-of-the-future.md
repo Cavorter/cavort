@@ -1,7 +1,5 @@
 ---
 title: Living in the city of the future?
-
-
 date: 2006-09-12T07:38:19+00:00
 url: /2006/09/12/living-in-the-city-of-the-future/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: Little LEGO Show – March 2, 2013
-
-
 date: 2013-02-22T22:14:06+00:00
 url: /2013/02/22/little-lego-show-march-2-2013/
 short-url:

@@ -14,7 +14,5 @@ categories:
 
 Just a new post so I can test something. Not too much going on. Icon the weekend after next. Lots of birthdays, as usual. Getting started on Christmas shopping (I want to be done long before Thanksgiving this year).
 
-
-
 That sort of thing.
 

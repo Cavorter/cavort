@@ -1,7 +1,5 @@
 ---
 title: On Monday (Dec 31), Betsy and I stopped by the Toy…
-
-
 date: 2002-01-02T22:28:24+00:00
 url: /2002/01/02/on-monday-dec-31-betsy-and-i-stopped-by-the-toy/
 short-url:

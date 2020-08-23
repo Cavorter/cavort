@@ -1,7 +1,5 @@
 ---
 title: So I’ve been playing with Mandrake linux the last …
-
-
 date: 2002-01-16T12:58:07+00:00
 url: /2002/01/16/so-ive-been-playing-with-mandrake-linux-the-last/
 short-url:

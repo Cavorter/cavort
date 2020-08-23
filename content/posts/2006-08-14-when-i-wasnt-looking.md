@@ -1,7 +1,5 @@
 ---
 title: When I wasn’t looking
-
-
 date: 2006-08-14T19:45:04+00:00
 url: /2006/08/14/when-i-wasnt-looking/
 short-url:

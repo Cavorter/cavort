@@ -1,7 +1,5 @@
 ---
 title: Thomas Dolby Update!
-
-
 date: 2006-04-28T23:20:17+00:00
 url: /2006/04/28/thomas-dolby-update/
 short-url:

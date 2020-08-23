@@ -1,7 +1,5 @@
 ---
 title: 'Lessons Learned: Pictures'
-
-
 date: 2005-12-27T17:25:23+00:00
 url: /2005/12/27/lessons-learned-pictures/
 short-url:

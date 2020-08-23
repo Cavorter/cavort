@@ -1,7 +1,5 @@
 ---
 title: Thomas Dolby back on tour!
-
-
 date: 2006-04-13T20:57:06+00:00
 url: /2006/04/14/thomas-dolby-back-on-tour/
 short-url:

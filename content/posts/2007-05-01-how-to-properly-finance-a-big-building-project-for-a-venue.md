@@ -1,7 +1,5 @@
 ---
 title: How to properly finance a big building project for a venue
-
-
 date: 2007-05-01T15:55:22+00:00
 url: /2007/05/01/how-to-properly-finance-a-big-building-project-for-a-venue/
 short-url:

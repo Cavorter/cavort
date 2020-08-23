@@ -1,7 +1,5 @@
 ---
 title: How not to sell a new product
-
-
 date: 2005-12-22T14:07:52+00:00
 url: /2005/12/22/how-not-to-sell-a-new-product/
 short-url:

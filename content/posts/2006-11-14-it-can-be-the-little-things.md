@@ -1,7 +1,5 @@
 ---
 title: It can be the little things
-
-
 date: 2006-11-14T14:56:16+00:00
 url: /2006/11/14/it-can-be-the-little-things/
 short-url:

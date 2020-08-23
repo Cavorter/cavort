@@ -1,7 +1,5 @@
 ---
 title: Late season, late night
-
-
 date: 2005-12-18T16:05:57+00:00
 url: /2005/12/18/late-season-late-night/
 short-url:

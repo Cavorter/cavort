@@ -1,7 +1,5 @@
 ---
 title: Google Talk
-
-
 date: 2005-08-24T04:01:14+00:00
 url: /2005/08/24/google-talk/
 short-url:

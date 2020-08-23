@@ -1,7 +1,5 @@
 ---
 title: Lack of Urge-ency?
-
-
 date: 2006-05-16T19:23:01+00:00
 url: /2006/05/16/lack-of-urge-ency/
 short-url:

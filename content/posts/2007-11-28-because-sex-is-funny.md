@@ -1,7 +1,5 @@
 ---
 title: Because sex is funny
-
-
 date: 2007-11-28T20:03:00+00:00
 url: /2007/11/28/because-sex-is-funny/
 aktt_tweeted:

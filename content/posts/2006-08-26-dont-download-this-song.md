@@ -1,7 +1,5 @@
 ---
 title: Don’t download this song
-
-
 date: 2006-08-26T06:12:51+00:00
 url: /2006/08/26/dont-download-this-song/
 short-url:

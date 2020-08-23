@@ -13,7 +13,5 @@ categories = [
 
 Ah:.. The couch is a nice place to run a laptop from!
 
-
-
 The wireless is running, the new Dell Inspiron 1100 is humming away downloading critical updates and such. Almost ready for the trip to Toronto. Life is good.
 

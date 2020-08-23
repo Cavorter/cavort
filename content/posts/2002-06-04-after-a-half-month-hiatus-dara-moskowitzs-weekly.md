@@ -1,7 +1,5 @@
 ---
 title: After a half month hiatus, Dara Moskowitz’s weekly…
-
-
 date: 2002-06-04T15:30:03+00:00
 url: /2002/06/04/after-a-half-month-hiatus-dara-moskowitzs-weekly/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: A Great Migration
-
-
 date: 2006-06-05T03:23:40+00:00
 url: /2006/06/04/a-great-migration/
 short-url:

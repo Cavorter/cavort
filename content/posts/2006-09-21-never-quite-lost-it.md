@@ -1,7 +1,5 @@
 ---
 title: Never quite Lost it
-
-
 date: 2006-09-21T15:42:27+00:00
 url: /2006/09/21/never-quite-lost-it/
 short-url:

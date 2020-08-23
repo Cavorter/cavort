@@ -14,8 +14,6 @@ categories:
 
 <a href="http://inlet.org/adwatch/opencolaformula.htm">A cola recipe!</a>
 
-
-
 Funny what you don't find even when you're looking sometimes. Interestingly enough it does not contain any cola nuts that I can see, though I haven't looked into the details about how the various oils in the recipe are produced. I hope to be able to give this one a try in the next few weeks, with the modification of using yeast for carbonation, of course. I have some concerns about the phosphoric acid killing of the yeast, but I'll certainly find out then.
 
 </div>

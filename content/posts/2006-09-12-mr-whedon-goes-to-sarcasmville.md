@@ -1,7 +1,5 @@
 ---
 title: Mr Whedon goes to Sarcasmville
-
-
 date: 2006-09-12T20:35:22+00:00
 url: /2006/09/12/mr-whedon-goes-to-sarcasmville/
 short-url:

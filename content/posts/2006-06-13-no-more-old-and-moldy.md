@@ -1,7 +1,5 @@
 ---
 title: No more old and moldy?
-
-
 date: 2006-06-13T15:27:38+00:00
 url: /2006/06/13/no-more-old-and-moldy/
 short-url:

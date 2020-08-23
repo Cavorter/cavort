@@ -1,7 +1,5 @@
 ---
 title: Making your drive a bit more surreal
-
-
 date: 2007-03-26T18:20:38+00:00
 url: /2007/03/26/making-your-drive-a-bit-more-surreal/
 short-url:

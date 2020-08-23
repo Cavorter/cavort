@@ -1,7 +1,5 @@
 ---
 title: And so it ends…
-
-
 date: 2006-05-23T03:17:58+00:00
 url: /2006/05/22/and-so-it-ends/
 short-url:

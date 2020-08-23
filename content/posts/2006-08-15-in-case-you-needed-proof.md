@@ -1,7 +1,5 @@
 ---
 title: In case you needed proof
-
-
 date: 2006-08-15T17:55:12+00:00
 url: /2006/08/15/in-case-you-needed-proof/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: When it rains it pours
-
-
 date: 2006-05-24T21:59:52+00:00
 url: /2006/05/24/when-it-rains-it-pours/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: Well that was quick…
-
-
 date: 2006-05-16T21:21:21+00:00
 url: /2006/05/16/well-that-was-quick/
 short-url:

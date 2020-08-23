@@ -1,7 +1,5 @@
 ---
 title: Library Opening 013
-
-
 date: 2006-05-23T04:35:48+00:00
 url: /2006/05/22/library-opening-013/
 short-url:

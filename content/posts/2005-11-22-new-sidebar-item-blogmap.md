@@ -1,7 +1,5 @@
 ---
 title: 'New sidebar item: BlogMap'
-
-
 date: 2005-11-21T21:12:35+00:00
 url: /2005/11/22/new-sidebar-item-blogmap/
 short-url:

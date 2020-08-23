@@ -1,7 +1,5 @@
 ---
 title: Differing output from Where and Where-Object
-
-
 date: 2017-01-20T00:11:36+00:00
 url: /2017/01/19/differing-output-from-where-and-where-object/
 categories:

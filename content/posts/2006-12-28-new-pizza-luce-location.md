@@ -1,7 +1,5 @@
 ---
 title: New Pizza Luce location…
-
-
 date: 2006-12-28T14:51:01+00:00
 url: /2006/12/28/new-pizza-luce-location/
 short-url:

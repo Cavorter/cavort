@@ -1,7 +1,5 @@
 ---
 title: Blogburst!
-
-
 date: 2005-12-18T19:26:34+00:00
 url: /2005/12/19/blogburst/
 short-url:

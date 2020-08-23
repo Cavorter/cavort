@@ -1,7 +1,5 @@
 ---
 title: Little changes
-
-
 date: 2006-06-14T16:47:47+00:00
 url: /2006/06/14/wordpress-203-tuneup-tempus-fugit-txfxnet/
 short-url:

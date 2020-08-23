@@ -1,7 +1,5 @@
 ---
 title: Intermitent immediate gratification
-
-
 date: 2007-01-24T00:25:32+00:00
 url: /2007/01/23/intermitent-immediate-gratification/
 short-url:

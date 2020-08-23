@@ -1,7 +1,5 @@
 ---
 title: Hidden Gem
-
-
 date: 2007-01-27T22:36:53+00:00
 url: /2007/01/27/hidden-gem/
 short-url:

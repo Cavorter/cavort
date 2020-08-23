@@ -1,7 +1,5 @@
 ---
 title: To the universe, with thanks
-
-
 date: 2005-11-24T18:15:47+00:00
 url: /2005/11/25/to-the-universe-with-thanks/
 short-url:

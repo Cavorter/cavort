@@ -1,7 +1,5 @@
 ---
 title: I was waiting for this to happen, and sure enough,…
-
-
 date: 2002-06-12T15:27:13+00:00
 url: /2002/06/12/i-was-waiting-for-this-to-happen-and-sure-enough/
 short-url:

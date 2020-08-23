@@ -1,7 +1,5 @@
 ---
 title: Real Choice (Maybe)!
-
-
 date: 2006-11-08T16:12:22+00:00
 url: /2006/11/08/real-choice-maybe/
 short-url:

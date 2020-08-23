@@ -1,7 +1,5 @@
 ---
 title: This morning I realized, again, that I have too ma…
-
-
 date: 2003-01-19T17:54:13+00:00
 url: /2003/01/19/this-morning-i-realized-again-that-i-have-too-ma/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: Extra credit
-
-
 date: 2006-09-03T00:35:00+00:00
 url: /2006/09/02/extra-credit/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: TiVo to Offer Tighter Rein on Children’s Viewing – New York Times
-
-
 date: 2006-03-02T14:30:31+00:00
 url: /2006/03/02/tivo-to-offer-tighter-rein-on-childrens-viewing-new-york-times/
 short-url:

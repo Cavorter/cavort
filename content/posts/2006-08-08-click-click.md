@@ -1,7 +1,5 @@
 ---
 title: Click Click
-
-
 date: 2006-08-08T20:26:27+00:00
 url: /2006/08/08/click-click/
 short-url:

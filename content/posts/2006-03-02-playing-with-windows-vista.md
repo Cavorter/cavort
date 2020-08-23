@@ -1,7 +1,5 @@
 ---
 title: Playing with Windows Vista
-
-
 date: 2006-03-02T14:47:26+00:00
 url: /2006/03/02/playing-with-windows-vista/
 short-url:

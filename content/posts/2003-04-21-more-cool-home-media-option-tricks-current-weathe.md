@@ -1,7 +1,5 @@
 ---
 title: 'More cool Home Media Option tricks: Current weathe…'
-
-
 date: 2003-04-21T21:02:15+00:00
 url: /2003/04/21/more-cool-home-media-option-tricks-current-weathe/
 short-url:

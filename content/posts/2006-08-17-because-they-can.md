@@ -1,7 +1,5 @@
 ---
 title: Because they can
-
-
 date: 2006-08-17T16:36:20+00:00
 url: /2006/08/17/because-they-can/
 short-url:

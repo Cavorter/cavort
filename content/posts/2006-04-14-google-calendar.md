@@ -1,7 +1,5 @@
 ---
 title: Google Calendar
-
-
 date: 2006-04-13T21:22:39+00:00
 url: /2006/04/14/google-calendar/
 short-url:

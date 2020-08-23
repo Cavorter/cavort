@@ -1,7 +1,5 @@
 ---
 title: Miles’ First Rocket
-
-
 date: 2007-08-15T18:47:30+00:00
 url: /2007/08/15/miles-first-rocket/
 short-url:
@@ -16,8 +14,6 @@ categories:
 <div style="width:320px;text-align:left;">
 
 <br /><span style="margin-top:0px;"><a href="http://www.dailymotion.com/video/x2rj7o_miles-first-rocket_family">Miles' First Rocket</a><br />Video sent by <a href="http://www.dailymotion.com/nstohlma">nstohlma</a><br /></span></div> </div> 
-
-
 Miles' first model rocket launch. The model is the Estes "Black Diamond" from the <a href="http://www.estesrockets.com/products.php?number=1452">"Launchables" Starter Kit</a>.
 </div> 
 

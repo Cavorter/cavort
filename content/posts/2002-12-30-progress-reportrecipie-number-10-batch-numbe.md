@@ -1,7 +1,5 @@
 ---
 title: Progress Report
-
-
 date: 2002-12-30T15:21:45+00:00
 url: /2002/12/30/progress-reportrecipe-number-10-batch-numbe/
 short-url:

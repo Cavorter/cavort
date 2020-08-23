@@ -1,7 +1,5 @@
 ---
 title: A friend posted a link in a discussion about this …
-
-
 date: 2002-12-27T16:41:58+00:00
 url: /2002/12/27/a-friend-posted-a-link-in-a-discussion-about-this/
 short-url:

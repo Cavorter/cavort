@@ -1,7 +1,5 @@
 ---
 title: Scott Rosenberg fairly clearly states some comment…
-
-
 date: 2002-04-12T16:01:59+00:00
 url: /2002/04/12/scott-rosenberg-fairly-clearly-states-some-comment/
 short-url:

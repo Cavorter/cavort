@@ -14,8 +14,6 @@ categories:
 
 Oh, and I got more birthday presents a couple of weekend's ago, and one of them was from my In-Law's who had made a trip up to a home-brew place and bought a bunch of supplies, including a brew pail with spigot, racking cane and tubing, some Gnome extracts, and a case of bottles!
 
-
-
 Quite nice of them all told, though I think I'll only be able to use the pail for non-root beer brewing given how badly it contaminates everything.
 
 </div>

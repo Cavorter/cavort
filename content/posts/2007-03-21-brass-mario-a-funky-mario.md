@@ -1,7 +1,5 @@
 ---
 title: Brass Mario, a funky Mario
-
-
 date: 2007-03-21T14:00:11+00:00
 url: /2007/03/21/brass-mario-a-funky-mario/
 short-url:

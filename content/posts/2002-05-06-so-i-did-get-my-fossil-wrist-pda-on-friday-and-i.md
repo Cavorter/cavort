@@ -1,7 +1,5 @@
 ---
 title: So I did get my Fossil Wrist PDA on Friday, and I …
-
-
 date: 2002-05-06T17:20:37+00:00
 url: /2002/05/06/so-i-did-get-my-fossil-wrist-pda-on-friday-and-i/
 short-url:

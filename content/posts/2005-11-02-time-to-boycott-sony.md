@@ -1,7 +1,5 @@
 ---
 title: Time to boycott Sony?
-
-
 date: 2005-11-02T13:21:40+00:00
 url: /2005/11/02/time-to-boycott-sony/
 short-url:

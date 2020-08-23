@@ -1,7 +1,5 @@
 ---
 title: Breaking Not News!
-
-
 date: 2006-07-20T12:43:29+00:00
 url: /2006/07/20/breaking-not-news/
 short-url:

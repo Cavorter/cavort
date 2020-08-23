@@ -1,7 +1,5 @@
 ---
 title: Standardized Tests for Standardized Parameters
-
-
 date: 2016-05-20T15:01:48+00:00
 url: /2016/05/20/standardized-tests-for-standardized-parameters/
 short-url:
@@ -64,6 +62,4 @@ $someVar2 | Should Be "that"
 Invoke-StandardTests
 }
 ```
-
-
 The only thing left is to run the tests!<br /> <a href="http://www.cavort.org/wp-content/uploads/2016/05/Pester-StandardizedTestOutput.png"><img class="alignleft size-full wp-image-1160" src="http://www.cavort.org/wp-content/uploads/2016/05/Pester-StandardizedTestOutput.png" alt="Successful Test output" width="508" height="121" srcset="http://www.cavort.org/wp-content/uploads/2016/05/Pester-StandardizedTestOutput.png 508w, http://www.cavort.org/wp-content/uploads/2016/05/Pester-StandardizedTestOutput-300x71.png 300w" sizes="(max-width: 508px) 85vw, 508px" /></a>

@@ -1,7 +1,5 @@
 ---
 title: Retaliation
-
-
 date: 2007-03-26T18:06:05+00:00
 url: /2007/03/26/retaliation/
 short-url:
@@ -16,8 +14,6 @@ categories:
 You know, I'm amazed at how much news there is out there. I mean, when you really think about it.
 
 </blockquote>
-
-
 From the guy who skunked me at one game of cribbage during lunch, and won the next fairly handily.
 
 </div>

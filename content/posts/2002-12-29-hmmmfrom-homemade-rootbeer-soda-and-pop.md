@@ -1,7 +1,5 @@
 ---
 title: Hmmm….
-
-
 date: 2002-12-29T15:49:36+00:00
 url: /2002/12/29/hmmmfrom-homemade-rootbeer-soda-and-pop/
 short-url:

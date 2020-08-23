@@ -1,7 +1,5 @@
 ---
 title: Politics is a four letter word
-
-
 date: 2006-11-16T19:39:56+00:00
 url: /2006/11/16/politics-is-a-four-letter-word/
 short-url:

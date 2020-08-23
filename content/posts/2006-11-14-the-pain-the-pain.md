@@ -1,7 +1,5 @@
 ---
 title: The pain! The pain!
-
-
 date: 2006-11-14T15:15:59+00:00
 url: /2006/11/14/the-pain-the-pain/
 short-url:

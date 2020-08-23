@@ -1,7 +1,5 @@
 ---
 title: 7UP changing forumla’s again
-
-
 date: 2006-04-26T14:35:19+00:00
 url: /2006/04/26/7up-changing-forumlas-again/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: I always thought "Heavy Duty" was a euphemism
-
-
 date: 2006-08-17T19:02:36+00:00
 url: /2006/08/17/i-always-thought-heavy-duty-was-a-euphemism/
 short-url:

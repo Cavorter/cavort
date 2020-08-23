@@ -1,7 +1,5 @@
 ---
 title: A night in the city
-
-
 date: 2006-06-24T16:12:50+00:00
 url: /2006/06/24/a-night-in-the-city/
 short-url:

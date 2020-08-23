@@ -1,7 +1,5 @@
 ---
 title: New Marvel Trades on Nook (12/26/2011)
-
-
 date: 2011-12-27T14:11:53+00:00
 url: /2011/12/27/new-marvel-trades-on-nook-12262011/
 short-url:
@@ -11,8 +9,6 @@ categories:
 
 ---
 <strong>New Marvel Comics Available on Nook 12/26/2011</strong>
-
-
 <ul>
 <li>
 <a href="http://www.barnesandnoble.com/w/avengers-forever-kurt-busiek/1104293460" target="_blank">Avengers Forever</a>
@@ -63,15 +59,9 @@ categories:
 <a href="http://www.barnesandnoble.com/w/x-necrosha-craig-kyle/1100189747" target="_blank">X-Necrosha</a> [X-Force (2008) #21-25, X-Men: Legacy (2008) #231-234, X-Necrosha One-Shot, X-Necrosha: The Gathering One-Shot, New Mutants (2009) #6-8]
 </li>
 </ul>
-
-
 I find that it is often nice to be wrong, and yesterday's bumper crop of releases is very welcome. I wasn't expecting to see any more titles for at least a week and honestly only checked very late last night on a whim. Obviously I need to be more diligent about that daily checking.
 
-
-
 Six of the sixteen new collections are from regular titles and the others are limited run titles of one sort or another including the "X-Necrosha" event collection which spans multiple titles (I'll have to ask <a href="http://sigridellis.wordpress.com/" target="_blank">Sigrid Ellis</a> if that one is worth buying or not). It is good to finally see a Fantastic Four collection though I'm not familiar with this particular writer or his storyline. Ghost Rider has never been a character I really understood but it is good to see an increase in the diversity of characters from the Marvel U. IIRC Spider-Man: Blue was pretty well received though I couldn't tell you why and it might be awhile before I get around to finding out for myself.
-
-
 
 However it's not all good news. Remember <a href="http://www.cavort.org/2011/12/23/new-marvel-trades-on-nook-12232011/" target="_blank">last week</a> when I said they were doing the Ultimate books right? Well this week sees the release of Ultimate Spider-Man volumes 5 and 6. Last week had the release of volume 3. Where is volume 4? Maybe stuck in someone's email inbox somewhere:
 

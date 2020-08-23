@@ -1,7 +1,5 @@
 ---
 title: 'WoW.com -> Info -> Under Development'
-
-
 date: 2006-05-19T19:18:08+00:00
 url: /2006/05/19/wowcom-info-under-development/
 short-url:

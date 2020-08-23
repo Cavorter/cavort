@@ -1,7 +1,5 @@
 ---
 title: Go for launch?
-
-
 date: 2006-05-20T13:29:46+00:00
 url: /2006/05/20/go-for-launch/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: Odd coincidence
-
-
 date: 2007-01-11T23:39:47+00:00
 url: /2007/01/11/odd-coincidence/
 short-url:

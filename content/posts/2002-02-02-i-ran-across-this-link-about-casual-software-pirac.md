@@ -1,7 +1,5 @@
 ---
 title: I ran across this link about casual software pirac…
-
-
 date: 2002-02-02T14:57:42+00:00
 url: /2002/02/02/i-ran-across-this-link-about-casual-software-pirac/
 short-url:

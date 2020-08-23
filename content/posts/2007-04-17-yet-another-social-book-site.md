@@ -1,7 +1,5 @@
 ---
 title: Yet another social book site
-
-
 date: 2007-04-18T03:14:02+00:00
 url: /2007/04/17/yet-another-social-book-site/
 short-url:

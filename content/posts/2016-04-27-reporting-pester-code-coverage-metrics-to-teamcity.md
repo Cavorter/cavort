@@ -1,7 +1,5 @@
 ---
 title: Reporting Pester Code Coverage Metrics to TeamCity
-
-
 date: 2016-04-27T15:18:07+00:00
 url: /2016/04/27/reporting-pester-code-coverage-metrics-to-teamcity/
 short-url:

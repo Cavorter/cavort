@@ -1,7 +1,5 @@
 ---
 title: A little more spare
-
-
 date: 2006-05-23T15:04:56+00:00
 url: /2006/05/23/a-little-more-spare/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: A primer for the rest of us
-
-
 date: 2006-06-14T15:24:50+00:00
 url: /2006/06/14/a-primer-for-the-rest-of-us/
 short-url:

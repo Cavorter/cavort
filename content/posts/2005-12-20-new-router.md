@@ -1,7 +1,5 @@
 ---
 title: New router
-
-
 date: 2005-12-20T02:45:13+00:00
 url: /2005/12/20/new-router/
 short-url:

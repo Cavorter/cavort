@@ -14,11 +14,7 @@ categories:
 
 Well, the laptop on the trip has been useful, except at the new hotel. We had been at the Holiday Inn on King in Toronto where they had really nice and quick wired network access in the room. The new hotel, while beautiful for various reasons is rather lacking in the networking in the room features sadly.
 
-
-
 However Worldcon does have it's usual internet lounge so it does make up for it.
-
-
 
 Now if I can just keep from ripping my boss's head off on Wednesday when I get back, this will have been a very successful vacation.
 

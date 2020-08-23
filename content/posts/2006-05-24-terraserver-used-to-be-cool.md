@@ -1,7 +1,5 @@
 ---
 title: TerraServer used to be cool
-
-
 date: 2006-05-24T22:39:59+00:00
 url: /2006/05/24/terraserver-used-to-be-cool/
 short-url:

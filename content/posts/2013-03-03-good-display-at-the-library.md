@@ -1,7 +1,5 @@
 ---
 title: Good Display at the Library
-
-
 date: 2013-03-04T00:08:07+00:00
 url: /2013/03/03/good-display-at-the-library/
 short-url:

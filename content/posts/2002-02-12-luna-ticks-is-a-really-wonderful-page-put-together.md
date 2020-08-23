@@ -1,7 +1,5 @@
 ---
 title: Luna Ticks is a really wonderful page put together…
-
-
 date: 2002-02-12T22:52:23+00:00
 url: /2002/02/12/luna-ticks-is-a-really-wonderful-page-put-together/
 short-url:

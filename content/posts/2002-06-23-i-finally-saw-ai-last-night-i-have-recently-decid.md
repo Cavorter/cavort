@@ -1,7 +1,5 @@
 ---
 title: I finally saw AI last night. I have recently decid…
-
-
 date: 2002-06-23T13:00:06+00:00
 url: /2002/06/23/i-finally-saw-ai-last-night-i-have-recently-decid/
 short-url:

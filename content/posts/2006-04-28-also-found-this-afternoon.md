@@ -1,7 +1,5 @@
 ---
 title: Also found this afternoon
-
-
 date: 2006-04-27T20:02:21+00:00
 url: /2006/04/28/also-found-this-afternoon/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: You know it’s true
-
-
 date: 2006-05-25T14:54:04+00:00
 url: /2006/05/25/you-know-its-true/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: Summer groove
-
-
 date: 2006-06-15T20:53:06+00:00
 url: /2006/06/15/summer-groove/
 short-url:

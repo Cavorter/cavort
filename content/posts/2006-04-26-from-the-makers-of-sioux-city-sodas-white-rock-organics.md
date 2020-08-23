@@ -1,7 +1,5 @@
 ---
 title: 'From the maker’s of Sioux City sodas: White Rock Organics'
-
-
 date: 2006-04-25T18:36:50+00:00
 url: /2006/04/26/from-the-makers-of-sioux-city-sodas-white-rock-organics/
 short-url:

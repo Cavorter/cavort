@@ -1,7 +1,5 @@
 ---
 title: Adventuring in foreign territories
-
-
 date: 2006-05-27T17:02:21+00:00
 url: /2006/05/27/adventuring-in-foreign-territories/
 short-url:

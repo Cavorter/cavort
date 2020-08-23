@@ -1,7 +1,5 @@
 ---
 title: The kindness of strangers
-
-
 date: 2006-07-05T22:08:11+00:00
 url: /2006/07/05/the-kindness-of-strangers/
 short-url:

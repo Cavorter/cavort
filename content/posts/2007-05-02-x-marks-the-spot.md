@@ -1,7 +1,5 @@
 ---
 title: X Marks the Spot
-
-
 date: 2007-05-02T14:54:27+00:00
 url: /2007/05/02/x-marks-the-spot/
 short-url:

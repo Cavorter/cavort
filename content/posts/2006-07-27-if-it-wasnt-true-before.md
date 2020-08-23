@@ -1,7 +1,5 @@
 ---
 title: If it wasn’t true before…
-
-
 date: 2006-07-27T17:14:34+00:00
 url: /2006/07/27/if-it-wasnt-true-before/
 short-url:

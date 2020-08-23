@@ -1,7 +1,5 @@
 ---
 title: 'A few weeks of comics all in one shot:'
-
-
 date: 2002-04-27T13:15:13+00:00
 url: /2002/04/27/a-few-weeks-of-comics-all-in-one-shotmarvel-c/
 short-url:

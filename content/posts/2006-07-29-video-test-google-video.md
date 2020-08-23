@@ -1,7 +1,5 @@
 ---
 title: 'Video Test: Google Video'
-
-
 date: 2006-07-29T18:03:06+00:00
 url: /2006/07/29/video-test-google-video/
 short-url:

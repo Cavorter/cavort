@@ -1,7 +1,5 @@
 ---
 title: Another day, another updater
-
-
 date: 2006-09-12T18:19:03+00:00
 url: /2006/09/12/another-day-another-updater/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: A bargain at twice the price
-
-
 date: 2006-05-24T04:30:02+00:00
 url: /2006/05/23/a-bargain-at-twice-the-price/
 short-url:

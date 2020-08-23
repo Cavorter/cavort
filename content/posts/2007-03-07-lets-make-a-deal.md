@@ -1,7 +1,5 @@
 ---
 title: Let’s make a deal
-
-
 date: 2007-03-07T16:01:47+00:00
 url: /2007/03/07/lets-make-a-deal/
 short-url:

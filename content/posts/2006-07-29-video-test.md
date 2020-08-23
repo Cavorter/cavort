@@ -1,7 +1,5 @@
 ---
 title: Video Test
-
-
 date: 2006-07-29T14:39:11+00:00
 url: /2006/07/29/video-test/
 short-url:

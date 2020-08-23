@@ -1,7 +1,5 @@
 ---
 title: These days it seems like just about everyone that …
-
-
 date: 2002-01-04T20:39:22+00:00
 url: /2002/01/04/these-days-it-seems-like-just-about-everyone-that/
 short-url:

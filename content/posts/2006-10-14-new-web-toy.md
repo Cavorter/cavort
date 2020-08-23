@@ -1,7 +1,5 @@
 ---
 title: New web toy
-
-
 date: 2006-10-14T16:40:22+00:00
 url: /2006/10/14/new-web-toy/
 short-url:

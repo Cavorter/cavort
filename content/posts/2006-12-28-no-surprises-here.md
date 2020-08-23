@@ -1,7 +1,5 @@
 ---
 title: No surprises here
-
-
 date: 2006-12-28T15:56:44+00:00
 url: /2006/12/28/no-surprises-here/
 short-url:

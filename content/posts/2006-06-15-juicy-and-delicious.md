@@ -1,7 +1,5 @@
 ---
 title: Juicy and delicious
-
-
 date: 2006-06-15T16:00:22+00:00
 url: /2006/06/15/juicy-and-delicious/
 short-url:

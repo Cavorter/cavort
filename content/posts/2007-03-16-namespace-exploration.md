@@ -1,7 +1,5 @@
 ---
 title: Namespace exploration
-
-
 date: 2007-03-16T21:36:18+00:00
 url: /2007/03/16/namespace-exploration/
 short-url:

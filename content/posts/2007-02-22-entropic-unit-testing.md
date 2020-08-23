@@ -1,7 +1,5 @@
 ---
 title: Entropic unit testing
-
-
 date: 2007-02-22T17:50:58+00:00
 url: /2007/02/22/entropic-unit-testing/
 short-url:

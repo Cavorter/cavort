@@ -1,7 +1,5 @@
 ---
 title: First Person Singer
-
-
 date: 2007-04-04T05:30:37+00:00
 url: /2007/04/04/first-person-singer/
 short-url:

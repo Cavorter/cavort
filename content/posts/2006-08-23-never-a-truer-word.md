@@ -1,7 +1,5 @@
 ---
 title: Never a truer word
-
-
 date: 2006-08-23T16:49:53+00:00
 url: /2006/08/23/never-a-truer-word/
 short-url:

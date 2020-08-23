@@ -1,7 +1,5 @@
 ---
 title: Whittling away to nothing
-
-
 date: 2006-06-08T22:37:44+00:00
 url: /2006/06/08/whittling-away-to-nothing/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: Because we could
-
-
 date: 2006-09-26T16:49:31+00:00
 url: /2006/09/26/because-we-could/
 short-url:

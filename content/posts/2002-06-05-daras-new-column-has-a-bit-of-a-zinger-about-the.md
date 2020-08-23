@@ -1,7 +1,5 @@
 ---
 title: Dara’s new column has a bit of a zinger about the …
-
-
 date: 2002-06-05T14:54:53+00:00
 url: /2002/06/05/daras-new-column-has-a-bit-of-a-zinger-about-the/
 short-url:

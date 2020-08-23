@@ -1,7 +1,5 @@
 ---
 title: Google Notebook
-
-
 date: 2006-05-16T14:25:30+00:00
 url: /2006/05/16/google-notebook/
 short-url:

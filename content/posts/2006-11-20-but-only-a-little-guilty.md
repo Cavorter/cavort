@@ -1,7 +1,5 @@
 ---
 title: But only a little guilty…
-
-
 date: 2006-11-20T23:17:37+00:00
 url: /2006/11/20/but-only-a-little-guilty/
 short-url:

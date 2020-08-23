@@ -1,7 +1,5 @@
 ---
 title: Lessons learned!
-
-
 date: 2005-12-27T14:50:49+00:00
 url: /2005/12/27/lessons-learned/
 short-url:

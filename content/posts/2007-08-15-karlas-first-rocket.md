@@ -1,7 +1,5 @@
 ---
 title: Karla’s First Rocket
-
-
 date: 2007-08-15T18:53:35+00:00
 url: /2007/08/15/karlas-first-rocket/
 short-url:
@@ -16,8 +14,6 @@ categories:
 <div style="width:320px;text-align:left;">
 
 <br /><span style="margin-top:0px;"><a href="http://www.dailymotion.com/video/x2rjb1_karlas-first-rocket_family">Karla's First Rocket</a><br />Video sent by <a href="http://www.dailymotion.com/nstohlma">nstohlma</a><br /></span></div> </div> 
-
-
 Karla's first model rocket launch. The model is the Estes "Astron Outlaw" from the <a href="http://www.estesrockets.com/products.php?number=1452">"Launchables" Starter Kit</a>.
 </div> 
 

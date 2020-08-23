@@ -1,7 +1,5 @@
 ---
 title: Adding it all up
-
-
 date: 2006-08-02T16:39:47+00:00
 url: /2006/08/02/adding-it-all-up/
 short-url:

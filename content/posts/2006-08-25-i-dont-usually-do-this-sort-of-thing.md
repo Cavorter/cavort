@@ -1,7 +1,5 @@
 ---
 title: I don’t usually do this sort of thing…
-
-
 date: 2006-08-25T17:52:14+00:00
 url: /2006/08/25/i-dont-usually-do-this-sort-of-thing/
 short-url:

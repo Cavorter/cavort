@@ -1,7 +1,5 @@
 ---
 title: The Brunching Shuttlecocks present The Geek Hierar…
-
-
 date: 2002-01-05T15:01:47+00:00
 url: /2002/01/05/the-brunching-shuttlecocks-present-the-geek-hierar/
 short-url:

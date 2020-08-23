@@ -1,7 +1,5 @@
 ---
 title: Ghost in the new shell?
-
-
 date: 2006-05-26T14:58:46+00:00
 url: /2006/05/26/ghost-in-the-new-shell/
 short-url:

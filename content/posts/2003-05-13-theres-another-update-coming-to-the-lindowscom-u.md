@@ -1,7 +1,5 @@
 ---
 title: There’s another update coming to the Lindows.com u…
-
-
 date: 2003-05-13T21:45:48+00:00
 url: /2003/05/13/theres-another-update-coming-to-the-lindowscom-u/
 short-url:

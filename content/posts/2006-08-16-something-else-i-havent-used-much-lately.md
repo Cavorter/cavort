@@ -1,7 +1,5 @@
 ---
 title: Something else I haven’t used much lately
-
-
 date: 2006-08-16T16:24:22+00:00
 url: /2006/08/16/something-else-i-havent-used-much-lately/
 short-url:

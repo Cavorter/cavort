@@ -1,7 +1,5 @@
 ---
 title: Onward into Middle Earth!
-
-
 date: 2007-04-24T23:22:48+00:00
 url: /2007/04/24/onward-into-middle-earth/
 short-url:

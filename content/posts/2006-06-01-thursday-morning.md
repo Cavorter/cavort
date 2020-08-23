@@ -1,7 +1,5 @@
   ---
 title: Thursday morning
-
-
 date: 2006-06-01T12:05:57+00:00
 url: /2006/06/01/thursday-morning/
 short-url:

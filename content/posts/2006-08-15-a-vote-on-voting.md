@@ -1,7 +1,5 @@
 ---
 title: A vote on voting
-
-
 date: 2006-08-15T19:38:49+00:00
 url: /2006/08/15/a-vote-on-voting/
 short-url:

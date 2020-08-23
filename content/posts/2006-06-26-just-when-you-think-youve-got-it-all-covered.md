@@ -1,7 +1,5 @@
 ---
 title: Just when you think you’ve got it all covered
-
-
 date: 2006-06-26T15:37:27+00:00
 url: /2006/06/26/just-when-you-think-youve-got-it-all-covered/
 short-url:

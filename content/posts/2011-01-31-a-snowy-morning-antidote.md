@@ -1,7 +1,5 @@
 ---
 title: A Snowy Morning Antidote
-
-
 date: 2011-01-31T15:05:04+00:00
 url: /2011/01/31/a-snowy-morning-antidote/
 aktt_notify_twitter:
@@ -20,8 +18,6 @@ categories:
 <div class='microid-mailto+http:sha1:d0755b0c246b36862f1c73f7872482869aeb9ed3'>
 
 I'm pretty sure I'm not alone in having occasionally experienced a time when hitting shuffle on one's music collection, or some subset that fits onto your portable device of choice, just seems to work really well for the mood or circumstances you are currently in. This morning I have had one of those experiences and I thought I'd put it down for posterity. Right at this moment it feels like exactly the right antidote to having sat in traffic for an hour to get to work.
-
-
 <ol>
 <li>
 Semisonic - <a href="http://www.bing.com/music/songs/search?q=Semisonic+who's+stopping+you">Who's Stopping You</a> - All About Chemistry
@@ -63,7 +59,5 @@ They Might Be Giants - <a href="http://www.bing.com/music/songs/search?q=They+Mi
 <a href="http://martynbennett.com/">Martyn Bennett</a> - Stream - Martyn Bennett
 </li>
 </ol>
-
-
 There has since been quite a bit more that's worked pretty well but I figured I had to cut it off somewhere.
 

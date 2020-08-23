@@ -1,7 +1,5 @@
 ---
 title: New Google Talk Client
-
-
 date: 2006-08-16T20:38:57+00:00
 url: /2006/08/16/new-google-talk-client/
 short-url:

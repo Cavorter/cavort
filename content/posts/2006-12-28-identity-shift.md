@@ -1,7 +1,5 @@
 ---
 title: Identity shift
-
-
 date: 2006-12-28T15:47:16+00:00
 url: /2006/12/28/identity-shift/
 short-url:

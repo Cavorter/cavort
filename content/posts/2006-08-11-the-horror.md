@@ -1,7 +1,5 @@
 ---
 title: The Horror
-
-
 date: 2006-08-11T12:55:33+00:00
 url: /2006/08/11/the-horror/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: InstallShield 12
-
-
 date: 2006-06-06T18:01:48+00:00
 url: /2006/06/06/installshield-12/
 short-url:

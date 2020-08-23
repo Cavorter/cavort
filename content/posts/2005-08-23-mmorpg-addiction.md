@@ -1,7 +1,5 @@
 ---
 title: MMORPG Addiction
-
-
 date: 2005-08-23T07:20:16+00:00
 url: /2005/08/23/mmorpg-addiction/
 short-url:

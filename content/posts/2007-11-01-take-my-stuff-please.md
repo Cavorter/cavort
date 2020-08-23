@@ -1,7 +1,5 @@
 ---
 title: Take my stuff! Please!
-
-
 date: 2007-11-01T23:30:59+00:00
 url: /2007/11/01/take-my-stuff-please/
 aktt_tweeted:

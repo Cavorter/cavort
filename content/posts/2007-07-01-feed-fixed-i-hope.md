@@ -1,7 +1,5 @@
 ---
 title: Feed fixed, I hope
-
-
 date: 2007-07-01T16:47:23+00:00
 url: /2007/07/01/feed-fixed-i-hope/
 short-url:

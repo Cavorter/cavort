@@ -1,7 +1,5 @@
 ---
 title: So I went looking again and finally found a record…
-
-
 date: 2002-04-02T21:29:51+00:00
 url: /2002/04/02/so-i-went-looking-again-and-finally-found-a-record/
 short-url:

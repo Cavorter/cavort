@@ -1,7 +1,5 @@
 ---
 title: Jargon of a sub-culture
-
-
 date: 2006-04-21T18:25:31+00:00
 url: /2006/04/22/jargon-of-a-sub-culture/
 short-url:

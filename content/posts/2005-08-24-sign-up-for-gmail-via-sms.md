@@ -1,7 +1,5 @@
 ---
 title: Sign up for Gmail via SMS?
-
-
 date: 2005-08-24T17:11:25+00:00
 url: /2005/08/24/sign-up-for-gmail-via-sms/
 short-url:

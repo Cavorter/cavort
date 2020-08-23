@@ -1,7 +1,5 @@
 ---
 title: I found a better link to the article mentioned in …
-
-
 date: 2002-03-12T23:00:20+00:00
 url: /2002/03/12/i-found-a-better-link-to-the-article-mentioned-in/
 short-url:

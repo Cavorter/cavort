@@ -1,7 +1,5 @@
 ---
 title: In this world there are storytellers.
-
-
 date: 2002-04-23T21:17:08+00:00
 url: /2002/04/23/in-this-world-there-are-storytellerspeople-wh/
 short-url:

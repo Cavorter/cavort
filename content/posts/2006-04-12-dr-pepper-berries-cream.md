@@ -1,7 +1,5 @@
 ---
 title: 'Dr Pepper Berries & Cream'
-
-
 date: 2006-04-12T17:41:17+00:00
 url: /2006/04/12/dr-pepper-berries-cream/
 short-url:

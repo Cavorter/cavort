@@ -1,7 +1,5 @@
 ---
 title: Share and share alike
-
-
 date: 2006-06-14T17:21:58+00:00
 url: /2006/06/14/share-and-share-alike/
 short-url:

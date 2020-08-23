@@ -1,7 +1,5 @@
 ---
 title: It wasn’t meant to be funny. Probably.
-
-
 date: 2006-07-21T21:57:27+00:00
 url: /2006/07/21/it-wasnt-meant-to-be-funny-probably/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: A Tale of Two DVD Rental Services
-
-
 date: 2006-06-03T15:48:32+00:00
 url: /2006/06/03/a-tale-of-two-dvd-rental-services/
 short-url:

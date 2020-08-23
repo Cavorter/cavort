@@ -1,7 +1,5 @@
 ---
 title: Electronics recycling opportunity
-
-
 date: 2007-11-15T16:00:09+00:00
 url: /2007/11/15/electronics-recycling-opportunity/
 aktt_tweeted:

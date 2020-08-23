@@ -1,7 +1,5 @@
 ---
 title: Little bits of happy
-
-
 date: 2006-11-08T15:46:55+00:00
 url: /2006/11/08/little-bits-of-happy/
 short-url:

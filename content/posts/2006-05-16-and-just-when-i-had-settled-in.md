@@ -1,7 +1,5 @@
 ---
 title: And just when I had settled in…
-
-
 date: 2006-05-16T21:45:47+00:00
 url: /2006/05/16/and-just-when-i-had-settled-in/
 short-url:

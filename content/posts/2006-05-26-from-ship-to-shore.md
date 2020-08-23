@@ -1,7 +1,5 @@
 ---
 title: From ship to shore
-
-
 date: 2006-05-26T19:13:56+00:00
 url: /2006/05/26/from-ship-to-shore/
 short-url:

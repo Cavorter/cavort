@@ -1,7 +1,5 @@
 ---
 title: Disc condoms
-
-
 date: 2006-06-15T16:59:31+00:00
 url: /2006/06/15/disc-condoms/
 short-url:

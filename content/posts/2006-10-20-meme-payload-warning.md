@@ -1,7 +1,5 @@
 ---
 title: Meme payload warning
-
-
 date: 2006-10-20T19:38:46+00:00
 url: /2006/10/20/meme-payload-warning/
 short-url:

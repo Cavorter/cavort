@@ -1,7 +1,5 @@
 ---
 title: One of the more entertaining flash animations I’ve…
-
-
 date: 2002-06-04T15:29:39+00:00
 url: /2002/06/04/one-of-the-more-entertaining-flash-animations-ive/
 short-url:

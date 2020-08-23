@@ -1,7 +1,5 @@
 ---
 title: Smoky City
-
-
 date: 2006-05-20T14:32:50+00:00
 url: /2006/05/20/smoky-city/
 short-url:

@@ -13,8 +13,6 @@ categories:
 <div class='microid-http+http:sha1:df5220f7576d53699e23ab9922162fa5cc08d514'>
 
 So I'm having a little party thing on Saturday night (5/24/2003) and I'm putting together a bunch of odd and interesting soda's to get. The list so far:
-
-
 <ul>
 <li>
 <a href="http://www.dpsu.com/vernors.html">Vernor's</a> Ginger Soda (6 cans)
@@ -68,8 +66,6 @@ Boylan's Birch Beer (2 bottles)
 <a href="http://www.riggsforsythe.com/">Rigg's & Forsythe</a> Bitter Lemon (2 bottles?)
 </li>
 </ul>
-
-
 If anyone wants to drop by, let me know. I'll be serving Chicken Curry at ~7pm.
 
 </div>

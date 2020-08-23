@@ -1,7 +1,5 @@
 ---
 title: Comment Subscription Test
-
-
 date: 2010-06-28T16:57:16+00:00
 url: /2010/06/28/comment-subscription-test/
 aktt_notify_twitter:

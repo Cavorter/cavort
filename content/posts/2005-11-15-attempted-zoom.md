@@ -1,7 +1,5 @@
 ---
 title: Attempted Zoom
-
-
 date: 2005-11-14T22:10:13+00:00
 url: /2005/11/15/attempted-zoom/
 short-url:

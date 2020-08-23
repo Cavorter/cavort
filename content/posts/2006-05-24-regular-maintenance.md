@@ -1,7 +1,5 @@
 ---
 title: Irregular maintenance
-
-
 date: 2006-05-24T12:03:22+00:00
 url: /2006/05/24/regular-maintenance/
 short-url:

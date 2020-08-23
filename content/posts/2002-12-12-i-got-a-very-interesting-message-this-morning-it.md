@@ -1,7 +1,5 @@
 ---
 title: I got a very interesting message this morning. It …
-
-
 date: 2002-12-12T14:07:50+00:00
 url: /2002/12/12/i-got-a-very-interesting-message-this-morning-it/
 short-url:

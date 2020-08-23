@@ -1,7 +1,5 @@
 ---
 title: Found a good link, with recipes and tips, from a …
-
-
 date: 2002-12-27T18:43:55+00:00
 url: /2002/12/27/found-a-good-link-with-recipes-and-tips-from-a/
 short-url:

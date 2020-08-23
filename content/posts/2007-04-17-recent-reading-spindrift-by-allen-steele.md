@@ -1,7 +1,5 @@
 ---
 title: 'Recent Reading: Spindrift by Allen Steele'
-
-
 date: 2007-04-18T02:31:06+00:00
 url: /2007/04/17/recent-reading-spindrift-by-allen-steele/
 short-url:

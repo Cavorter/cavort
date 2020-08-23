@@ -1,7 +1,5 @@
 ---
 title: 'Content for iPod Video: What a rip off!'
-
-
 date: 2005-10-12T23:06:08+00:00
 url: /2005/10/13/content-for-ipod-video-what-a-rip-off/
 short-url:

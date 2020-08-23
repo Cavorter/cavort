@@ -1,7 +1,5 @@
 ---
 title: Resistence is not always futile
-
-
 date: 2007-01-30T15:10:55+00:00
 url: /2007/01/30/resistence-is-not-always-futile/
 short-url:

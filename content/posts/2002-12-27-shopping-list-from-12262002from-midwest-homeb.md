@@ -1,7 +1,5 @@
 ---
 title: 'Shopping List from 12/26/2002'
-
-
 date: 2002-12-27T18:17:52+00:00
 url: /2002/12/27/shopping-list-from-12262002from-midwest-homeb/
 short-url:

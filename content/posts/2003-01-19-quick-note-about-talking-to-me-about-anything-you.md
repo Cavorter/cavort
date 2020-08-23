@@ -1,7 +1,5 @@
 ---
 title: Quick note about talking to me about anything you …
-
-
 date: 2003-01-19T17:42:51+00:00
 url: /2003/01/19/quick-note-about-talking-to-me-about-anything-you/
 short-url:

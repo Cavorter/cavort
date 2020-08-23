@@ -1,7 +1,5 @@
 ---
 title: Billing oddity
-
-
 date: 2007-08-21T13:21:46+00:00
 url: /2007/08/21/billing-oddity/
 short-url:

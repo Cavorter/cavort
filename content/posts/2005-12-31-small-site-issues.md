@@ -1,7 +1,5 @@
 ---
 title: Small site issues
-
-
 date: 2005-12-30T18:52:38+00:00
 url: /2005/12/31/small-site-issues/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: Lively recording
-
-
 date: 2006-09-08T18:12:20+00:00
 url: /2006/09/08/lively-recording/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: Another board game conversion for XBLA
-
-
 date: 2008-03-17T23:38:46+00:00
 url: /2008/03/17/another-board-game-conversion-for-xbla/
 aktt_tweeted:

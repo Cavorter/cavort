@@ -1,7 +1,5 @@
 ---
 title: Obviously my previous searches on google weren’t a…
-
-
 date: 2002-12-27T18:54:51+00:00
 url: /2002/12/27/obviously-my-previous-searches-on-google-werent-a/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: Start cursing me now
-
-
 date: 2007-03-17T09:53:13+00:00
 url: /2007/03/17/start-cursing-me-now/
 short-url:

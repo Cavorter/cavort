@@ -1,7 +1,5 @@
 ---
 title: Slightly Unexpected Views
-
-
 date: 2006-09-11T13:56:32+00:00
 url: /2006/09/11/slightly-unexpected-views/
 short-url:

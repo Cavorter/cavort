@@ -1,7 +1,5 @@
 ---
 title: So close I could smell it…
-
-
 date: 2006-09-07T17:55:08+00:00
 url: /2006/09/07/so-close-i-could-smell-it/
 short-url:

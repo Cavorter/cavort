@@ -1,7 +1,5 @@
 ---
 title: To play is divine
-
-
 date: 2006-06-20T06:51:15+00:00
 url: /2006/06/20/to-play-is-divine/
 short-url:

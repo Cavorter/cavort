@@ -1,7 +1,5 @@
 ---
 title: Finally found a source for the first Throat Cultur…
-
-
 date: 2002-12-19T17:54:52+00:00
 url: /2002/12/19/finally-found-a-source-for-the-first-throat-cultur/
 short-url:

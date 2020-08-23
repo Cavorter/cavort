@@ -1,7 +1,5 @@
 ---
 title: My ZuneCard
-
-
 date: 2007-11-14T18:49:54+00:00
 url: /2007/11/14/my-zunecard/
 aktt_tweeted:

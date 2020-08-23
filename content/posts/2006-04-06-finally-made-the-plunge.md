@@ -1,7 +1,5 @@
 ---
 title: Finally made the plunge
-
-
 date: 2006-04-06T14:19:37+00:00
 url: /2006/04/06/finally-made-the-plunge/
 short-url:

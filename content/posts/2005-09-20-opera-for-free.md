@@ -1,7 +1,5 @@
 ---
 title: Opera for free
-
-
 date: 2005-09-20T15:56:55+00:00
 url: /2005/09/20/opera-for-free/
 short-url:

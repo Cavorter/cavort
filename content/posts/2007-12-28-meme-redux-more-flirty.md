@@ -1,7 +1,5 @@
 ---
 title: 'Meme redux: More flirty'
-
-
 date: 2007-12-28T18:04:38+00:00
 url: /2007/12/28/meme-redux-more-flirty/
 aktt_tweeted:
@@ -27,11 +25,7 @@ categories:
 </center>
 
 <br /> <font color="#000000"><br /> 3 parts Passion<br /> 2 parts Sweetness<br /> 1 part Mania 
-
-
 Splash of Flirtation
-
-
 
 Finish off with a squeeze of lime juice<br /> </font></td> </tr> </table> 
 

@@ -1,7 +1,5 @@
 ---
 title: Al Sicherman’s most recent column brought to light…
-
-
 date: 2002-05-24T18:20:20+00:00
 url: /2002/05/24/al-sichermans-most-recent-column-brought-to-light/
 short-url:

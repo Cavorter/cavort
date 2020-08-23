@@ -1,7 +1,5 @@
 ---
 title: 'Geek Toy: Digital measuring'
-
-
 date: 2006-07-04T12:36:17+00:00
 url: /2006/07/04/geek-toy-digital-measuring/
 short-url:

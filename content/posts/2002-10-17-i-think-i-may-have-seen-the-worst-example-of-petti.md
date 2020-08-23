@@ -1,7 +1,5 @@
 ---
 title: I think I may have seen the worst example of petti…
-
-
 date: 2002-10-17T12:47:34+00:00
 url: /2002/10/17/i-think-i-may-have-seen-the-worst-example-of-petti/
 short-url:

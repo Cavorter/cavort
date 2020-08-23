@@ -1,7 +1,5 @@
 ---
 title: Tripoli August 2007 Launch
-
-
 date: 2007-08-15T21:25:56+00:00
 url: /2007/08/15/tripoli-august-2007-launch/
 short-url:
@@ -16,8 +14,6 @@ categories:
 <div style="width:320px;text-align:left;">
 
 <br /><span style="margin-top:0px;"><a href="http://www.dailymotion.com/video/x2rkkp_tripoli-august-2007-launch_events">Tripoli August 2007 Launch</a><br />Video sent by <a href="http://www.dailymotion.com/nstohlma">nstohlma</a><br /></span></div> </div> 
-
-
 In case anyone wants to see the rest of the good video from the couple of hours that we were at the launch on Saturday, here's a barely edited version.
 </div> 
 

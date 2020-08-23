@@ -1,7 +1,5 @@
 ---
 title: When is a terrorist threat not a terrorist threat?
-
-
 date: 2006-04-03T18:35:55+00:00
 url: /2006/04/04/when-is-a-terrorist-threat-not-a-terrorist-threat/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: 'WTF: Firefly MMO'
-
-
 date: 2006-12-08T16:19:48+00:00
 url: /2006/12/08/wtf-firefly-mmo/
 short-url:

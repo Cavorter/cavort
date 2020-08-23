@@ -1,7 +1,5 @@
 ---
 title: Translation?
-
-
 date: 2007-01-22T04:02:25+00:00
 url: /2007/01/21/translation/
 short-url:

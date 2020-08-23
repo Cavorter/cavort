@@ -1,7 +1,5 @@
 ---
 title: Patriotically unpatriotic
-
-
 date: 2006-06-28T15:12:14+00:00
 url: /2006/06/28/patriotically-unpatriotic/
 short-url:

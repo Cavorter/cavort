@@ -1,7 +1,5 @@
 ---
 title: No matter how much you AIM…
-
-
 date: 2006-06-12T16:38:23+00:00
 url: /2006/06/12/no-matter-how-much-you-aim/
 short-url:

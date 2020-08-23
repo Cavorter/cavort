@@ -1,7 +1,5 @@
 ---
 title: 'Meme: Now with 100% more moxie!'
-
-
 date: 2007-12-28T18:01:29+00:00
 url: /2007/12/28/meme-now-with-100-more-moxie/
 aktt_tweeted:
@@ -27,11 +25,7 @@ categories:
 </center>
 
 <br /> <font color="#000000"><br /> 3 parts Energy<br /> 2 parts Vitality<br /> 1 part Moxie 
-
-
 Splash of Warmth
-
-
 
 Chug!<br /> </font></td> </tr> </table> 
 

@@ -1,7 +1,5 @@
 ---
 title: Nifty maps
-
-
 date: 2007-02-23T23:28:03+00:00
 url: /2007/02/23/nifty-maps/
 short-url:

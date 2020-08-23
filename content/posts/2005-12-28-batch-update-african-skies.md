@@ -1,7 +1,5 @@
 ---
 title: 'Batch Update: African Skies'
-
-
 date: 2005-12-27T20:10:54+00:00
 url: /2005/12/28/batch-update-african-skies/
 short-url:

@@ -14,7 +14,5 @@ categories:
 
 The plastic test bottle was pretty solid this morning so I put a random glass bottle from the case into the fridge so I can open it tonight and see how things are doing.
 
-
-
 Can I just say that I <em>really</em> hope this batch turns out?
 

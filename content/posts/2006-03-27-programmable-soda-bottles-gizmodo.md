@@ -1,7 +1,5 @@
 ---
 title: Programmable Soda Bottles – Gizmodo
-
-
 date: 2006-03-27T03:00:34+00:00
 url: /2006/03/27/programmable-soda-bottles-gizmodo/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: 'Recent Reading: A Dirty Job by Christopher Moore'
-
-
 date: 2007-02-21T23:57:27+00:00
 url: /2007/02/21/recent-reading-a-dirty-job-by-christopher-moore/
 short-url:

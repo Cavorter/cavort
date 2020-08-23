@@ -1,7 +1,5 @@
 ---
 title: Before I forget again…
-
-
 date: 2006-06-03T15:52:42+00:00
 url: /2006/06/03/before-i-forget-again/
 short-url:

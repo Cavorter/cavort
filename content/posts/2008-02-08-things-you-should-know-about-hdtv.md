@@ -1,7 +1,5 @@
 ---
 title: Things you should know about HDTV
-
-
 date: 2008-02-08T23:46:53+00:00
 url: /2008/02/08/things-you-should-know-about-hdtv/
 aktt_tweeted:
@@ -16,8 +14,6 @@ categories:
 <div class='microid-mailto+http:sha1:148cee5b3e54dc72ec20423fdc8d0c508498bfc2'>
 
 I've been running into a huge number of people who don't understand what's going on with HDTV lately, so I figured I needed to put something out for the couple of people who do read my blog.
-
-
 <ol>
 <li>
 The HD broadcast switch <em>is</em> a funded federal mandate. (see item #3)
@@ -68,8 +64,6 @@ Not all content from HD sources is really HD. There's quite a bit of programming
 Not all stations that are broadcasting in HD are broadcasting HD content at all. Up until Fall of 2007 <a href="http://www.thecwtc.com/">my local CW affiliate</a> in particular was broadcasting everything in 480P which meant the widescreen dramas (Like Smallville) get shrunk to fit the lower resolution and looked really bad on my widescreen set with black bars on all sides. (Thanks to Aaron for pointing out they had changed over) Still, it is something to watch for in your area, especially on stations that are not affiliated with the big four networks.
 </li>
 </ol>
-
-
 That's all that I can think of right now but if anyone has any questions feel free to ask them. If I don't know the answer I'm more than willing to look them up.
 
 </div>

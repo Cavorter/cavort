@@ -1,7 +1,5 @@
 ---
 title: I read the most recent Michael’s Minutes from Lind…
-
-
 date: 2003-05-01T13:18:32+00:00
 url: /2003/05/01/i-read-the-most-recent-michaels-minutes-from-lind/
 short-url:

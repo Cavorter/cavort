@@ -1,7 +1,5 @@
 ---
 title: Change happens.
-
-
 date: 2006-05-16T02:30:04+00:00
 url: /2006/05/15/change-happens/
 short-url:

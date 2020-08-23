@@ -1,7 +1,5 @@
 ---
 title: Not a huge surprise
-
-
 date: 2007-03-23T21:33:10+00:00
 url: /2007/03/23/not-a-huge-surprise/
 short-url:

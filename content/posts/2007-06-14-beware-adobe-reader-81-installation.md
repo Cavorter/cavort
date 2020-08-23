@@ -1,7 +1,5 @@
 ---
 title: 'Beware: Adobe Reader 8.1 installation'
-
-
 date: 2007-06-14T20:20:06+00:00
 url: /2007/06/14/beware-adobe-reader-81-installation/
 short-url:
@@ -14,11 +12,7 @@ categories:
 
 FYI - If you install Adobe Reader 8.1 from the Adobe website, it will automagically install "Adobe Photoshop Album Starter Edition" without prompting to accept.
 
-
-
 If I wanted the software, I would have asked to download and install it.
-
-
 
 Assholes like this give people like me a bad name.
 

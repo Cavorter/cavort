@@ -1,7 +1,5 @@
 ---
 title: Al Sicherman’s latest column has some very good co…
-
-
 date: 2002-05-28T16:02:54+00:00
 url: /2002/05/28/al-sichermans-latest-column-has-some-very-good-co/
 short-url:

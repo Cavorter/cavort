@@ -1,7 +1,5 @@
 ---
 title: It has come to my attention
-
-
 date: 2006-06-14T19:38:44+00:00
 url: /2006/06/14/it-has-come-to-my-attention/
 short-url:

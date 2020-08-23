@@ -1,7 +1,5 @@
 ---
 title: FYI – Site outages over the next few days
-
-
 date: 2006-04-06T17:29:54+00:00
 url: /2006/04/06/fyi-site-outages-over-the-next-few-days/
 short-url:

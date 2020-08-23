@@ -1,7 +1,5 @@
 ---
 title: It’s been a good set of holidays for me so far. Pe…
-
-
 date: 2002-12-27T14:16:01+00:00
 url: /2002/12/27/its-been-a-good-set-of-holidays-for-me-so-far-pe/
 short-url:

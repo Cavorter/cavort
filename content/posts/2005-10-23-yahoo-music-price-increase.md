@@ -1,7 +1,5 @@
 ---
 title: Yahoo Music Price Increase?
-
-
 date: 2005-10-23T13:47:23+00:00
 url: /2005/10/23/yahoo-music-price-increase/
 short-url:

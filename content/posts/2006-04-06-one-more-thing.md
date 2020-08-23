@@ -1,7 +1,5 @@
 ---
 title: One more thing
-
-
 date: 2006-04-06T15:16:59+00:00
 url: /2006/04/06/one-more-thing/
 short-url:

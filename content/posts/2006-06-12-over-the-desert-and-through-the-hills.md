@@ -1,7 +1,5 @@
 ---
 title: Over the desert and through the hills…
-
-
 date: 2006-06-12T16:22:25+00:00
 url: /2006/06/12/over-the-desert-and-through-the-hills/
 short-url:

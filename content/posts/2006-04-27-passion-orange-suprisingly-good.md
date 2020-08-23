@@ -1,7 +1,5 @@
 ---
 title: 'Passion Orange: Suprisingly good'
-
-
 date: 2006-04-26T19:33:04+00:00
 url: /2006/04/27/passion-orange-suprisingly-good/
 short-url:

@@ -1,7 +1,5 @@
 ---
 title: Playing with authentication systems…
-
-
 date: 2007-01-05T23:08:49+00:00
 url: /2007/01/05/playing-with-authentication-systems/
 short-url:

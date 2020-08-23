@@ -1,7 +1,5 @@
 ---
 title: Programmatically reprehensible
-
-
 date: 2007-04-04T04:51:17+00:00
 url: /2007/04/03/programmatically-reprehensible/
 short-url:

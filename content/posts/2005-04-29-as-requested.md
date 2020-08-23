@@ -1,7 +1,5 @@
 ---
 title: As Requested….
-
-
 date: 2005-04-29T19:53:00+00:00
 url: /2005/04/29/as-requested/
 short-url:
@@ -28,8 +26,6 @@ Don't be friends with someone if your <span style="color: rgb(255, 102, 0);">ver
 Don't have sex with someone if their <span style="color: rgb(0, 153, 0);">math percentage</span> is over <span style="color: rgb(0, 153, 0);">200%</span>.
 </li>
 </ol>
-
-
 <p align="center">
 <img src="http://is0.okcupid.com/users/704/510/7055112809383642671/mt1111506225.gif" />
 <span id="comparisonarea">My test tracked 4 variables How you compared to other people <i>your age and gender</i>: 

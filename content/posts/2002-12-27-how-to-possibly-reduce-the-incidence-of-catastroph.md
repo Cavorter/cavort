@@ -1,7 +1,5 @@
 ---
 title: How to possibly reduce the incidence of catastroph…
-
-
 date: 2002-12-27T19:50:36+00:00
 url: /2002/12/27/how-to-possibly-reduce-the-incidence-of-catastroph/
 short-url:

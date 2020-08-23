@@ -1,7 +1,5 @@
 ---
 title: 'Update: Intelliflix'
-
-
 date: 2006-09-19T12:38:12+00:00
 url: /2006/09/19/update-intelliflix/
 short-url:

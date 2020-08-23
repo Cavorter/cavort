@@ -1,7 +1,5 @@
 ---
 title: Sole Inhabitant, but not lonely
-
-
 date: 2006-12-05T06:04:19+00:00
 url: /2006/12/05/sole-inhabitant-but-not-lonely/
 short-url:
