@@ -24,7 +24,7 @@ categories:
   
   
   
-    BTW &#8211; Just in case any of you were wondering, I was in fact macho enough to try to get pants on and attempt to go to work. It was merely excrusiatingly painful until I tried to walk some stairs and then it became somewhat of a whimper and scream sort of experience. I think calling in sick to work, even if explaining to your boss that it's because of a sunburn of all things, was probably a very wise decision.
+    BTW - Just in case any of you were wondering, I was in fact macho enough to try to get pants on and attempt to go to work. It was merely excrusiatingly painful until I tried to walk some stairs and then it became somewhat of a whimper and scream sort of experience. I think calling in sick to work, even if explaining to your boss that it's because of a sunburn of all things, was probably a very wise decision.
   
 </div>
 

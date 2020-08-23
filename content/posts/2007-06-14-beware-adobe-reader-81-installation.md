@@ -12,7 +12,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:1a333bb2de0351c13cde5b8077efa9f5d221e098'>
 
-FYI &#8211; If you install Adobe Reader 8.1 from the Adobe website, it will automagically install "Adobe Photoshop Album Starter Edition" without prompting to accept.
+FYI - If you install Adobe Reader 8.1 from the Adobe website, it will automagically install "Adobe Photoshop Album Starter Edition" without prompting to accept.
 
 
 

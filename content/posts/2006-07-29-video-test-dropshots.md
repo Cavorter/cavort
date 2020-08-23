@@ -20,7 +20,7 @@ categories:
       <embed src="http://www.dropshots.com/dropshotsplayer.swf" Flashvars="url=http://www.dropshots.com/photos/153276/20060729/092822.flv&#038;post=1" width="320" height="310" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
       </embed>
       
-      <br /><a href=http://www.dropshots.com/>Video Hosting &#8211; <a href=http://www.dropshots.com/>Upload Video &#8211; <a href=http://www.dropshots.com/>Photo Sharing
+      <br /><a href=http://www.dropshots.com/>Video Hosting - <a href=http://www.dropshots.com/>Upload Video - <a href=http://www.dropshots.com/>Photo Sharing
     </center>
   
 </div>

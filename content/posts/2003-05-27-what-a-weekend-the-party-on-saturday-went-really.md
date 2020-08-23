@@ -24,7 +24,7 @@ The other unsuccessful one was the <a href="http://www.steapsoda.com/">Steap</a>
 
 
 
-OTOH &#8211; on the good advice of someone close, I found some Sangria flavored Mexican sodas that were quite good. One of them was mostly grape soda flavored, but the other actually tasted like good sangria, but without the alcohol. [Now I just have to get around to calling her today after I didn't get a chance to this last weekend like I was supposed to. :-( ] Another really pleasant surprise was the Journey Foods Carribean Creme Soda, which had a very nice flavor of toasted coconut. It tempered the usual oversweet flavor of cream soda very well and was a big hit. I'll have to stock that in the fridge more often.
+OTOH - on the good advice of someone close, I found some Sangria flavored Mexican sodas that were quite good. One of them was mostly grape soda flavored, but the other actually tasted like good sangria, but without the alcohol. [Now I just have to get around to calling her today after I didn't get a chance to this last weekend like I was supposed to. :-( ] Another really pleasant surprise was the Journey Foods Carribean Creme Soda, which had a very nice flavor of toasted coconut. It tempered the usual oversweet flavor of cream soda very well and was a big hit. I'll have to stock that in the fridge more often.
 
 
 

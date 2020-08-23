@@ -36,7 +36,7 @@ For those who are interested:<br /> Yeast: <a href="http://www.northernbrewer.co
 
 
 
-Extract: <a href="http://www.northernbrewer.com/soda.html">Old Fashioned Soda &#8211; Root Beer extract</a> (Product#5500) $3.95: I used about 1/3rd of the bottle. Should have used half.
+Extract: <a href="http://www.northernbrewer.com/soda.html">Old Fashioned Soda - Root Beer extract</a> (Product#5500) $3.95: I used about 1/3rd of the bottle. Should have used half.
 
 
 

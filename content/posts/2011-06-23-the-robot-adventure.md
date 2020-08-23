@@ -334,7 +334,7 @@ Nathan Stohlmann
 
 <!-- end of tweet -->
 
-<br /> FYI &#8211; That Eiffel Tower is as tall as I am. <a href="http://www.flickr.com/photos/hip_to_be_square/5848383227/">Better photo of it, along with the back of my head</a>.<br /> <br /> <!-- tweet id : 82270747308990465 -->
+<br /> FYI - That Eiffel Tower is as tall as I am. <a href="http://www.flickr.com/photos/hip_to_be_square/5848383227/">Better photo of it, along with the back of my head</a>.<br /> <br /> <!-- tweet id : 82270747308990465 -->
 
 
 <div id='bbpBox_82270747308990465' class='bbpBox' style='padding:20px; margin:5px 0; background-color:#C0DEED; background-image:url(http://a0.twimg.com/images/themes/theme1/bg.png); background-repeat:no-repeat'>

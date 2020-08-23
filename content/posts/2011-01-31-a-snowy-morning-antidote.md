@@ -24,43 +24,43 @@ I'm pretty sure I'm not alone in having occasionally experienced a time when hit
 
 <ol>
 <li>
-Semisonic &#8211; <a href="http://www.bing.com/music/songs/search?q=Semisonic+who's+stopping+you">Who's Stopping You</a> &#8211; All About Chemistry
+Semisonic - <a href="http://www.bing.com/music/songs/search?q=Semisonic+who's+stopping+you">Who's Stopping You</a> - All About Chemistry
 </li>
 <li>
-Tosca &#8211; Session 7: Song &#8211; <a href="http://www.bing.com/music/albums/detail?q=Tosca+Dehli9&#038;albumID=C5FE5600-0100-11DB-89CA-0019B92A3933">Dehli9</a>
+Tosca - Session 7: Song - <a href="http://www.bing.com/music/albums/detail?q=Tosca+Dehli9&#038;albumID=C5FE5600-0100-11DB-89CA-0019B92A3933">Dehli9</a>
 </li>
 <li>
-<a href="http://www.guggenheimgrotto.com/">The Guggenheim Grotto</a> &#8211; Fee Da Da Dee &#8211; Happy the Man
+<a href="http://www.guggenheimgrotto.com/">The Guggenheim Grotto</a> - Fee Da Da Dee - Happy the Man
 </li>
 <li>
-Peter Mayer &#8211; Harry the Pharoah &#8211; <a href="http://www.bing.com/music/albums/detail?q=Peter+Mayer+Novelties&#038;albumID=DF470A02-0100-11DB-89CA-0019B92A3933&#038;FORM=DTPMUO">Novelties</a>
+Peter Mayer - Harry the Pharoah - <a href="http://www.bing.com/music/albums/detail?q=Peter+Mayer+Novelties&#038;albumID=DF470A02-0100-11DB-89CA-0019B92A3933&#038;FORM=DTPMUO">Novelties</a>
 </li>
 <li>
-<a href="http://cafeaccordion.com/">Cafe Accordion Orchestra</a> &#8211; Velma From Selma &#8211; Live!
+<a href="http://cafeaccordion.com/">Cafe Accordion Orchestra</a> - Velma From Selma - Live!
 </li>
 <li>
-They Might Be Giants &#8211; <a href="http://www.bing.com/music/songs/search?q=They+Might+Be+Giants+The+Mesopotamians&#038;qpvt=they+might+be+giants+the+mesopotamians">The Mesopotamians</a> &#8211; The Else
+They Might Be Giants - <a href="http://www.bing.com/music/songs/search?q=They+Might+Be+Giants+The+Mesopotamians&#038;qpvt=they+might+be+giants+the+mesopotamians">The Mesopotamians</a> - The Else
 </li>
 <li>
-<a href="http://afroceltsoundsystem.net/">Afro Celt Sound System</a> &#8211; North &#8211; Volume 3: Further in Time
+<a href="http://afroceltsoundsystem.net/">Afro Celt Sound System</a> - North - Volume 3: Further in Time
 </li>
 <li>
-The Dave Brubeck Quartet &#8211; <a href="http://www.bing.com/music/songs/search?q=Dave+Brubeck+Three+To+Get+Ready&#038;qpvt=Dave+Brubeck+Three+to+Get+Ready">Three to Get Ready</a> &#8211; Time Out
+The Dave Brubeck Quartet - <a href="http://www.bing.com/music/songs/search?q=Dave+Brubeck+Three+To+Get+Ready&#038;qpvt=Dave+Brubeck+Three+to+Get+Ready">Three to Get Ready</a> - Time Out
 </li>
 <li>
-Glee Cast &#8211; Keep Holding On &#8211; <a href="http://www.bing.com/music/songs/search?q=glee+the+music+vol+1&#038;go=&#038;form=VBREQY&#038;qs=AS&#038;sk=AS3&#038;pq=glee+the+music&#038;sp=4&#038;sc=8-14">Glee: The Music, Volume 1</a>
+Glee Cast - Keep Holding On - <a href="http://www.bing.com/music/songs/search?q=glee+the+music+vol+1&#038;go=&#038;form=VBREQY&#038;qs=AS&#038;sk=AS3&#038;pq=glee+the+music&#038;sp=4&#038;sc=8-14">Glee: The Music, Volume 1</a>
 </li>
 <li>
-Sufjan Stevens &#8211; <a href="http://www.bing.com/music/songs/search?q=Sufjan+Stevens+Chicago&#038;go=&#038;form=VBREQY&#038;qs=n&#038;sk=&#038;sc=7-22">Chicago</a> &#8211; Illinois
+Sufjan Stevens - <a href="http://www.bing.com/music/songs/search?q=Sufjan+Stevens+Chicago&#038;go=&#038;form=VBREQY&#038;qs=n&#038;sk=&#038;sc=7-22">Chicago</a> - Illinois
 </li>
 <li>
-Baka Beyond &#8211; <a href="http://www.bing.com/music/songs/search?q=Baka+Beyond+-+Mb%C3%A9&#038;go=&#038;form=VBREQY&#038;qs=n&#038;sk=&#038;sc=1-17">Mbé</a> &#8211; Journey Between
+Baka Beyond - <a href="http://www.bing.com/music/songs/search?q=Baka+Beyond+-+Mb%C3%A9&#038;go=&#038;form=VBREQY&#038;qs=n&#038;sk=&#038;sc=1-17">Mbé</a> - Journey Between
 </li>
 <li>
-They Might Be Giants &#8211; <a href="http://www.bing.com/music/songs/search?q=They+Might+Be+Giants+-+Pencil+Rain&#038;go=&#038;form=DTPMUS&#038;qs=n&#038;sk=">Pencil Rain</a> &#8211; Then: The Earlier Years
+They Might Be Giants - <a href="http://www.bing.com/music/songs/search?q=They+Might+Be+Giants+-+Pencil+Rain&#038;go=&#038;form=DTPMUS&#038;qs=n&#038;sk=">Pencil Rain</a> - Then: The Earlier Years
 </li>
 <li>
-<a href="http://martynbennett.com/">Martyn Bennett</a> &#8211; Stream &#8211; Martyn Bennett
+<a href="http://martynbennett.com/">Martyn Bennett</a> - Stream - Martyn Bennett
 </li>
 </ol>
 

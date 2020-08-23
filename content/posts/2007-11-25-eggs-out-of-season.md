@@ -31,7 +31,7 @@ LEVEL 3 / CODE NNN
 
 
 
-* No we don't. Figuring that out is the players' job.<br /> *<br /> * Here's another to do: find someone in the Minneapolis area to check<br /> * on the OOH which should be up: 494 and hwy 77 &#8211; might need some<br /> * searching around.<br /> * /s
+* No we don't. Figuring that out is the players' job.<br /> *<br /> * Here's another to do: find someone in the Minneapolis area to check<br /> * on the OOH which should be up: 494 and hwy 77 - might need some<br /> * searching around.<br /> * /s
 
 </blockquote>
 
@@ -53,11 +53,11 @@ LEVEL 1 / CODE NNN
 
 
 
-* MEDIA MATRIX<br /> * s, this printout is unreadable &#8211; i'm missing half the entries in the<br /> * locations column:<br /> * -F
+* MEDIA MATRIX<br /> * s, this printout is unreadable - i'm missing half the entries in the<br /> * locations column:<br /> * -F
 
 
 
-* Yes, actually it would be useful if you could go out and confirm that<br /> * these are up:<br /> * LA Century N/L E/O Aviation &#8211; should be obvious.<br /> * 1815 Hawthorne 90278 &#8211; not sure about this one, you may have to<br /> * look around a bit.<br /> * /s
+* Yes, actually it would be useful if you could go out and confirm that<br /> * these are up:<br /> * LA Century N/L E/O Aviation - should be obvious.<br /> * 1815 Hawthorne 90278 - not sure about this one, you may have to<br /> * look around a bit.<br /> * /s
 
 
 
@@ -65,7 +65,7 @@ LEVEL 1 / CODE NNN
 
 
 
-* We're going to put Primacy to shame &#8211; not just sticking up a few<br /> * posters but appropriating the media machine on a grand scale.<br /> * /s
+* We're going to put Primacy to shame - not just sticking up a few<br /> * posters but appropriating the media machine on a grand scale.<br /> * /s
 
 </blockquote>
 
@@ -87,7 +87,7 @@ LEVEL 1 / CODE D
 
 
 
-* this is totally the idea, one power, no greys, but garbage starts at<br /> * max frequency &#8211; fast and furious, on ly the stong survive!
+* this is totally the idea, one power, no greys, but garbage starts at<br /> * max frequency - fast and furious, on ly the stong survive!
 
 
 

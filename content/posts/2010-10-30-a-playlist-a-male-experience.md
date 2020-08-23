@@ -33,52 +33,52 @@ Starting with "Once In a Lifetime" presents quite a bit of opportunity to go in 
 
 <ol>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=Talking+Heads+Once+In+a+Lifetime">Once In a Lifetime</a> &#8211; <a href="http://en.wikipedia.org/wiki/Talking_Heads">Talking Heads</a> &#8211; Popular Favorites: 1976-1992/Sand In the Vaseline
+<a href="http://www.bing.com/music/songs/search?q=Talking+Heads+Once+In+a+Lifetime">Once In a Lifetime</a> - <a href="http://en.wikipedia.org/wiki/Talking_Heads">Talking Heads</a> - Popular Favorites: 1976-1992/Sand In the Vaseline
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=Girlyman&#038;go=&#038;form=DTPMUS">On The Air</a> &#8211; <a href="http://www.girlyman.com/">Girlyman</a> &#8211; Little Star
+<a href="http://www.bing.com/music/songs/search?q=Girlyman&#038;go=&#038;form=DTPMUS">On The Air</a> - <a href="http://www.girlyman.com/">Girlyman</a> - Little Star
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=Fountains+of+Wayne+All+Kinds+of+Time">All Kinds of Time</a> &#8211; <a href="http://www.fountainsofwayne.com/">Fountains of Wayne</a> &#8211; Welcome Interstate Managers
+<a href="http://www.bing.com/music/songs/search?q=Fountains+of+Wayne+All+Kinds+of+Time">All Kinds of Time</a> - <a href="http://www.fountainsofwayne.com/">Fountains of Wayne</a> - Welcome Interstate Managers
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=mighty+mighty+bosstones+Jump+Through+The+Hoops">Jump Through the Hoops</a> &#8211; <a href=http://www.bosstonesmusic.com">Mighty Mighty Bosstones</a> &#8211; Question the Answers
+<a href="http://www.bing.com/music/songs/search?q=mighty+mighty+bosstones+Jump+Through+The+Hoops">Jump Through the Hoops</a> - <a href=http://www.bosstonesmusic.com">Mighty Mighty Bosstones</a> - Question the Answers
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=daft+punk+harder+better+faster+stronger">Harder Better Faster Stronger</a> &#8211; <a href="http://www.daftpunk.com">Daft Punk</a> &#8211; Discovery
+<a href="http://www.bing.com/music/songs/search?q=daft+punk+harder+better+faster+stronger">Harder Better Faster Stronger</a> - <a href="http://www.daftpunk.com">Daft Punk</a> - Discovery
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=linkin+park+pushing+me+away">Pushing Me Away</a> &#8211; <a href="www.linkinpark.com">Linkin Park</a> &#8211; Hybrid Theory
+<a href="http://www.bing.com/music/songs/search?q=linkin+park+pushing+me+away">Pushing Me Away</a> - <a href="www.linkinpark.com">Linkin Park</a> - Hybrid Theory
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=rem+losing+my+religion">Losing My Religion</a> &#8211; <a href="http://www.remhq.com">R.E.M.</a> &#8211; Out of Time
+<a href="http://www.bing.com/music/songs/search?q=rem+losing+my+religion">Losing My Religion</a> - <a href="http://www.remhq.com">R.E.M.</a> - Out of Time
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=Midnight+oil+my+country">My Country</a> &#8211; <a href="http://www.midnightoil.com">Midnight Oil</a> &#8211; Earth and Sun and Moon
+<a href="http://www.bing.com/music/songs/search?q=Midnight+oil+my+country">My Country</a> - <a href="http://www.midnightoil.com">Midnight Oil</a> - Earth and Sun and Moon
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=Sufjan+Stevens+chicago">Chicago</a> &#8211; <a href="http://www.sufjan.com">Sufjan Stevens</a> &#8211; Illinoise
+<a href="http://www.bing.com/music/songs/search?q=Sufjan+Stevens+chicago">Chicago</a> - <a href="http://www.sufjan.com">Sufjan Stevens</a> - Illinoise
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=pink+floyd+what+do+you+want+from+me">What Do You Want From Me</a> &#8211; <a href="www.pinkfloyd.com">Pink Floyd</a> &#8211; The Division Bell
+<a href="http://www.bing.com/music/songs/search?q=pink+floyd+what+do+you+want+from+me">What Do You Want From Me</a> - <a href="www.pinkfloyd.com">Pink Floyd</a> - The Division Bell
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=Tears+for+Fears+Shout">Shout</a> &#8211; <a href="http://en.wikipedia.org/wiki/Tears_for_Fears">Tears for Fears</a> &#8211; Songs From the Big Chair
+<a href="http://www.bing.com/music/songs/search?q=Tears+for+Fears+Shout">Shout</a> - <a href="http://en.wikipedia.org/wiki/Tears_for_Fears">Tears for Fears</a> - Songs From the Big Chair
 </li>
 <li>
-Let's Go Crazy (LP Version) &#8211; <a href="http://en.wikipedia.org/wiki/Prince_(musician)">Prince</a> &#8211; Purple Rain
+Let's Go Crazy (LP Version) - <a href="http://en.wikipedia.org/wiki/Prince_(musician)">Prince</a> - Purple Rain
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=Boys+Don't+Cry+I+Wanna+Be+a+cowboy">I Wanna Be a Cowboy</a> &#8211; <a href="http://www.boysdontcry.net">Boys Don't Cry</a> &#8211; Retro Lunchbox: Squeeze the Cheese
+<a href="http://www.bing.com/music/songs/search?q=Boys+Don't+Cry+I+Wanna+Be+a+cowboy">I Wanna Be a Cowboy</a> - <a href="http://www.boysdontcry.net">Boys Don't Cry</a> - Retro Lunchbox: Squeeze the Cheese
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=Ben+Folds+Five+Army">Army</a> &#8211; <a href="http://www.benfoldsfive.com">Ben Folds Five</a> &#8211; The Unauthorized Biography Of Reinhold Messner
+<a href="http://www.bing.com/music/songs/search?q=Ben+Folds+Five+Army">Army</a> - <a href="http://www.benfoldsfive.com">Ben Folds Five</a> - The Unauthorized Biography Of Reinhold Messner
 </li>
 <li>
-'64 AKA Go &#8211; <a href="http://www.lemonjelly.ky">Lemon Jelly</a> &#8211; '64-'95
+'64 AKA Go - <a href="http://www.lemonjelly.ky">Lemon Jelly</a> - '64-'95
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=Peter+Mayer+blue+boat+home+earth+town+square">Blue Boat Home</a> &#8211; <a href="http://www.petermayer.net">Peter Mayer</a> &#8211; Earth Town Square
+<a href="http://www.bing.com/music/songs/search?q=Peter+Mayer+blue+boat+home+earth+town+square">Blue Boat Home</a> - <a href="http://www.petermayer.net">Peter Mayer</a> - Earth Town Square
 </li>
 </ol>
 
