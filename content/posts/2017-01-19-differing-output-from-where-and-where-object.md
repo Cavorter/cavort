@@ -5,7 +5,7 @@ title: Differing output from Where and Where-Object
 date: 2017-01-20T00:11:36+00:00
 url: /2017/01/19/differing-output-from-where-and-where-object/
 categories:
-  - Tech
+- Tech
 tags:
  - ForEach
  - PowerShell
@@ -19,8 +19,8 @@ The setup is a pretty classic needle-in-a-haystack problem where you have an arr
 PS> [xml]$testXml = "<someElements><element id='foo' attr='somevalue'/><element id='bar' attr='someothervalue'/></someElements>"
 PS> $testXml.someElements.element
 
-id  attr
---  ----
+idattr
+------
 foo somevalue
 bar someothervalue
 
@@ -29,8 +29,8 @@ PS> $testElement = $testXml.someElements.element | Where-Object { $_.id -eq 'foo
 PS> $testElement.attr = "Good old standby works great"
 PS> $testXml.someElements.element
 
-id  attr
---  ----
+idattr
+------
 foo Good old standby works great
 bar someothervalue
 
@@ -46,13 +46,13 @@ The property 'attr' cannot be found on this object. Verify that the property exi
 At line:1 char:1
 + $testElement.attr = "This should work,right?"
 + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
-    + FullyQualifiedErrorId : PropertyAssignmentException
++ CategoryInfo: InvalidOperation: (:) [], RuntimeException
++ FullyQualifiedErrorId : PropertyAssignmentException
 ```
 
 Maybe it was returning a single element array? Running `$testElement -is [array]` said "False" but `$testElement[0].attr = 'something'` worked just fine, so what was going on here? Time for some more "magic" in the form of the pstypenames property.
-  
-```powershell  
+
+```powershell
 PS> $testElement = $testXml.someElements.element | Where-Object { $_.id -eq 'foo' }
 PS> $testElement.pstypenames
 System.Xml.XmlElement
@@ -68,12 +68,12 @@ System.Object
 
 Of course while I was tinkering with all of that and doing some research on the Where and ForEach methods I ran across that article I linked further up and figured out the correct solution to the problem.
 
-```powershell  
+```powershell
 PS> $testXml.someElements.element.Where({$_.id -eq 'foo' }).ForEach('attr',"Much better!")
 PS> $testXml.someElements.element
 
-id  attr
---  ----
+idattr
+------
 foo Much better!
 bar someothervalue
 

@@ -5,12 +5,12 @@ title: 'Shopping List from 12/26/2002'
 date: 2002-12-27T18:17:52+00:00
 url: /2002/12/27/shopping-list-from-12262002from-midwest-homeb/
 short-url:
-  - http://bit.ly/e0Xw16
+- http://bit.ly/e0Xw16
 categories:
-  - Soda Brewing
+- Soda Brewing
 tags:
-  - soda brewing
-  - shopping list
+- soda brewing
+- shopping list
 ---
 Item | Vendor | Qty | Price | Total
 --- | --- | --- | --- | ---

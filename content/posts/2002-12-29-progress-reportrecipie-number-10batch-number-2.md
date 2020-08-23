@@ -5,12 +5,12 @@ title: Progress Report
 date: 2002-12-29T16:14:58+00:00
 url: /2002/12/29/progress-reportrecipe-number-10batch-number-2/
 short-url:
-  - http://bit.ly/fb0sCC
+- http://bit.ly/fb0sCC
 categories:
-  - Soda Brewing
+- Soda Brewing
 tags:
-  - soda brewing
-  - progress report
+- soda brewing
+- progress report
 ---
 **Recipe Number**: 1.0<br />
 **Batch Number**: 1<br />

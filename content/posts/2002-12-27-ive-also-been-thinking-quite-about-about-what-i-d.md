@@ -5,11 +5,11 @@ title: I’ve also been thinking quite about about what I d…
 date: 2002-12-27T14:28:42+00:00
 url: /2002/12/27/ive-also-been-thinking-quite-about-about-what-i-d/
 short-url:
-  - http://bit.ly/h8xjQx
+- http://bit.ly/h8xjQx
 categories:
-  - General
+- General
 tags:
-  - personal
+- personal
 ---
 I've also been thinking quite about about what I don't like about gift giving during the holidays. For several years now I've been part of the family at my in-laws and while things have gotten better, it still feels, well, wrong.
 

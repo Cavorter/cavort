@@ -5,9 +5,9 @@ title: 'Alias #8 – Max – Okay, let’s get this down now:'
 date: 2002-04-05T02:10:32+00:00
 url: /2002/04/05/alias-8-max-okay-lets-get-this-down-now-ri/
 short-url:
-  - http://bit.ly/emIGIY
+- http://bit.ly/emIGIY
 categories:
-  - Comics
+- Comics
 tags:
  - comics
  - reviews

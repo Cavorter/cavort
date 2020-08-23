@@ -5,11 +5,11 @@ title: From an okay article about Ion Storm in Salon – “I…
 date: 2002-01-04T17:14:56+00:00
 url: /2002/01/04/from-an-okay-article-about-ion-storm-in-salon-i/
 short-url:
-  - http://bit.ly/hngJiF
+- http://bit.ly/hngJiF
 categories:
-  - General
+- General
 tags:
-  - games
+- games
 ---
 From an okay <a href="http://www.salon.com/tech/feature/2002/01/02/ion_storm/index.html">article about Ion Storm in Salon</a>:
 

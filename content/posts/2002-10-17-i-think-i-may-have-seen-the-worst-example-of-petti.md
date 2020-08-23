@@ -5,13 +5,13 @@ title: I think I may have seen the worst example of petti…
 date: 2002-10-17T12:47:34+00:00
 url: /2002/10/17/i-think-i-may-have-seen-the-worst-example-of-petti/
 short-url:
-  - http://bit.ly/h75UlD
+- http://bit.ly/h75UlD
 categories:
-  - General
+- General
 tags:
-  - mnstf
-  - fandom
-  - politics
+- mnstf
+- fandom
+- politics
 ---
 I think I may have seen the worst example of pettiness by someone that I actually know in recent memory. I am not going to link directly to it, but it did occur on the <a href="http://www.mnstf.org/mnstf">Mnstf</a> Natter discussion list.
 

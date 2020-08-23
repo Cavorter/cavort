@@ -5,17 +5,17 @@ title: Standardized Tests for Standardized Parameters
 date: 2016-05-20T15:01:48+00:00
 url: /2016/05/20/standardized-tests-for-standardized-parameters/
 short-url:
-  - http://bit.ly/255LZ4u
+- http://bit.ly/255LZ4u
 categories:
-  - General
-  - Tech
+- General
+- Tech
 tags:
-  - powershell
-  - tech
-  - pester
+- powershell
+- tech
+- pester
 ---
 Something that you find when writing PowerShell modules to wrap API functions for external systems is that a lot of your functions tend to have a consistent subset of parameters that get used for things like credentials and specifying an endpoint. For example in the private TeamCity module that I maintain the parameter block for every function that interacts with a server has:
-  
+
 ```powershell
 [Parameter(Mandatory=$false)]
 [System.Management.Automation.PSCredential]$Credential = ( Get-Credential -Message "Please enter your credentials for the TeamCity server at $server"),
@@ -39,12 +39,12 @@ $someVar1 = "this"
 $someVar2 = "that"
 
 Function Invoke-StandardTests {
-  It "Tests the first standard variable" {
-    $someVar1 | Should Not BeNullOrEmpty
-  }
-  It "Tests the second standard variable" {
-    $someVar2 | Should Not Be $someVar1
-  }
+It "Tests the first standard variable" {
+$someVar1 | Should Not BeNullOrEmpty
+}
+It "Tests the second standard variable" {
+$someVar2 | Should Not Be $someVar1
+}
 }
 ```
 
@@ -52,16 +52,16 @@ Then making uses of those variables and tests might look something like this:
 
 ```powershell
 Describe "Some Tests" {
-  #import the standardized stuff
-  . $PSScriptRoot\StandardTests.ps1
+#import the standardized stuff
+. $PSScriptRoot\StandardTests.ps1
 
-  It "Check the inherited value of the variables" {
-    $someVar1 | Should Be "this"
-    $someVar2 | Should Be "that"
-  }
+It "Check the inherited value of the variables" {
+$someVar1 | Should Be "this"
+$someVar2 | Should Be "that"
+}
 
-  #Run the standardized tests
-  Invoke-StandardTests
+#Run the standardized tests
+Invoke-StandardTests
 }
 ```
 

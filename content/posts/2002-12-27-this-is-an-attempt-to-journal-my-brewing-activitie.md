@@ -5,11 +5,11 @@ title: This is an attempt to journal my brewing activitie…
 date: 2002-12-27T16:36:45+00:00
 url: /2002/12/27/this-is-an-attempt-to-journal-my-brewing-activitie/
 short-url:
-  - http://bit.ly/ep6hbB
+- http://bit.ly/ep6hbB
 categories:
-  - Soda Brewing
+- Soda Brewing
 tags:
-  - soda brewing
+- soda brewing
 ---
 This is an attempt to journal my brewing activities as I attempt to homebrew drinkable (and hopefully even good tasting) root beer and other sodas.
 

@@ -5,9 +5,9 @@ title: I read the most recent Michael’s Minutes from Lind…
 date: 2003-05-01T13:18:32+00:00
 url: /2003/05/01/i-read-the-most-recent-michaels-minutes-from-lind/
 short-url:
-  - http://bit.ly/fZTbVq
+- http://bit.ly/fZTbVq
 categories:
-  - General
+- General
 
 ---
 I read the most recent <a href="http://www.lindows.com/lindows_michaelsminutes.php">Michael's Minutes</a> from <a href="http://www.lindows.com">Lindows.com</a> this morning. What a complete load of tripe. I have now unsubscribed from all of their mailings, and when I got the cancellation confirmation it mentioned that if I was unsubscribing because I was dissatisfied I should send them some feedback. So I did:

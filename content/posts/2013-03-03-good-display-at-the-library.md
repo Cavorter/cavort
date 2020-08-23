@@ -5,13 +5,13 @@ title: Good Display at the Library
 date: 2013-03-04T00:08:07+00:00
 url: /2013/03/03/good-display-at-the-library/
 short-url:
-  - http://bit.ly/Z8m0Fg
+- http://bit.ly/Z8m0Fg
 categories:
-  - LEGO
+- LEGO
 tags:
-  - LEGO
-  - Micropolis
-  - Display
+- LEGO
+- Micropolis
+- Display
 ---
 <a href="http://www.flickr.com/photos/52426882@N00/8526108050/" title="Decent Sized Layout" rel=""><img src="http://farm9.staticflickr.com/8231/8526108050_0f6bbb2fb2.jpg" alt="Decent Sized Layout" class="alignnone" /></a>
 

@@ -5,12 +5,12 @@ title: I finally saw AI last night. I have recently decid…
 date: 2002-06-23T13:00:06+00:00
 url: /2002/06/23/i-finally-saw-ai-last-night-i-have-recently-decid/
 short-url:
-  - http://bit.ly/fqkBzy
+- http://bit.ly/fqkBzy
 categories:
-  - Video
+- Video
 tags:
-  - movies
-  - reviews
+- movies
+- reviews
 ---
 I finally saw <a href="http://us.imdb.com/Title?0212720">AI</a> last night. I have recently decided to give <a href="http://www.netflix.com">Netflix</a> a try, and figured this would be the best way to see a few movies I just haven't gotten around to. Sure enough, I had it 2 weeks before I got around to watching it, but I think it was worth the wait.
 

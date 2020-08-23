@@ -5,12 +5,12 @@ title: Progress Report
 date: 2002-12-30T15:21:45+00:00
 url: /2002/12/30/progress-reportrecipe-number-10-batch-numbe/
 short-url:
-  - http://bit.ly/hXewow
+- http://bit.ly/hXewow
 categories:
-  - Soda Brewing
+- Soda Brewing
 tags:
-  - soda brewing
-  - progress report
+- soda brewing
+- progress report
 ---
 **Recipe Number**: 1.0<br />
 **Batch Number**: 1<br />

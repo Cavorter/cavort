@@ -5,13 +5,13 @@ title: On Monday (Dec 31), Betsy and I stopped by the Toy…
 date: 2002-01-02T22:28:24+00:00
 url: /2002/01/02/on-monday-dec-31-betsy-and-i-stopped-by-the-toy/
 short-url:
-  - http://bit.ly/etYc2g
+- http://bit.ly/etYc2g
 categories:
-  - General
+- General
 
 ---
 On Monday (Dec 31), Betsy and I stopped by the Toyota dealer and picked up her new car. It's a gorgeous blue [Toyota Prius](http://prius.toyota.com). So far, we're really happy with it. There aren't many options available for it, so we basically took almost all of them:
-  
+
  - 6 disc CD Changer
  - Onboard GPS/Navigation System
  - Alloy Wheels

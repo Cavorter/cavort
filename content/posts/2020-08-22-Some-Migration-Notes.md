@@ -4,7 +4,7 @@ date = 2020-08-22T14:07:30-05:00
 images = []
 tags = []
 categories = [
-    "Tech"
+"Tech"
 ]
 +++
 

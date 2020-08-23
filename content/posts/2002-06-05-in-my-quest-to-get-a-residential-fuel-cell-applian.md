@@ -5,14 +5,14 @@ title: In my quest to get a residential fuel cell applian…
 date: 2002-06-05T21:13:01+00:00
 url: /2002/06/05/in-my-quest-to-get-a-residential-fuel-cell-applian/
 short-url:
-  - http://bit.ly/epuNLE
+- http://bit.ly/epuNLE
 categories:
-  - Tech
+- Tech
 tags:
-  - house
-  - tech
-  - fuel cell
-  - green energy
+- house
+- tech
+- fuel cell
+- green energy
 ---
 In my quest to get a residential fuel cell appliance for our home, I went looking for the current state of the art to see if I can actually get one yet. The current answer so far? No. Damn it
 

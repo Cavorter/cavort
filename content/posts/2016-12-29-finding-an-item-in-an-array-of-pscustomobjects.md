@@ -4,8 +4,8 @@ author: Cavorter
 date: 2016-12-29T17:58:45+00:00
 url: /2016/12/29/finding-an-item-in-an-array-of-pscustomobjects/
 categories:
-  - General
-  - Tech
+- General
+- Tech
 tags:
  - Array
  - PowerShell

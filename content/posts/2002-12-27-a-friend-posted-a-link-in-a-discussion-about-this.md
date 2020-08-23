@@ -5,13 +5,13 @@ title: A friend posted a link in a discussion about this …
 date: 2002-12-27T16:41:58+00:00
 url: /2002/12/27/a-friend-posted-a-link-in-a-discussion-about-this/
 short-url:
-  - http://bit.ly/ifawcx
+- http://bit.ly/ifawcx
 categories:
-  - Soda Brewing
+- Soda Brewing
 tags:
-  - Soda
-  - brewing
-  - soda brewing
+- Soda
+- brewing
+- soda brewing
 ---
 A friend posted <a href="http://hbd.org/brewery/cm3/recs/index.html#1500s">a link</a> in a discussion about this topic to our BBS, <a href="http://www.cavort.org/l-space">L-Space</a>, and there are some interesting possibilities there. I do think that it does highlight exactly how little information is really available publicly about the topic though.
 

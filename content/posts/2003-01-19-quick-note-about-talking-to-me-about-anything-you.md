@@ -5,11 +5,11 @@ title: Quick note about talking to me about anything you …
 date: 2003-01-19T17:42:51+00:00
 url: /2003/01/19/quick-note-about-talking-to-me-about-anything-you/
 short-url:
-  - http://bit.ly/gB8EOH
+- http://bit.ly/gB8EOH
 categories:
-  - General
+- General
 tags:
-  - personal
+- personal
 ---
 Quick note about talking to me about anything you see, there should be at least a couple of links on this page that send me email. Maybe it's old fashioned, but this space is and will continue to be me speaking to the world without the availability for the worlds comments to be seen directly by the rest of the world.
 

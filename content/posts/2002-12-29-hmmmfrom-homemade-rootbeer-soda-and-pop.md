@@ -5,11 +5,11 @@ title: Hmmm….
 date: 2002-12-29T15:49:36+00:00
 url: /2002/12/29/hmmmfrom-homemade-rootbeer-soda-and-pop/
 short-url:
-  - http://bit.ly/h6r8Jg
+- http://bit.ly/h6r8Jg
 categories:
-  - Soda Brewing
+- Soda Brewing
 tags:
-  - soda brewing
+- soda brewing
 ---
 From "Homemade Rootbeer, Soda, and Pop" by Stephen Cresswell (ISBN: 1580170528) page 97:
 

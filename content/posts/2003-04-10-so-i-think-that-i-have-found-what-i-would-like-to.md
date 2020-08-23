@@ -5,13 +5,13 @@ title: So I think that I have found what I would like to …
 date: 2003-04-10T14:40:41+00:00
 url: /2003/04/10/so-i-think-that-i-have-found-what-i-would-like-to/
 short-url:
-  - http://bit.ly/gDSu3h
+- http://bit.ly/gDSu3h
 categories:
-  - Tech
+- Tech
 tags:
-  - tech
-  - pda
-  - visor
+- tech
+- pda
+- visor
 ---
 So I think that I have found what I would like to replace my <a href="http://www.handspring.com/products/visorplatinum/index.jhtml?sub_nav_section=Overview&#038;prod_cat_name=Plat">Handspring Visor Platinum<a /> with: The </a><a href="http://www.garmin.com/products/iQue3600/">Garmin iQue 3600</a>. It's about the same size and weight as my existing Visor, has a much better screen, still uses grafitti unlike a lot of the other new Palm OS devices, has a built in GPS, and has an SD expansion slot.
 

@@ -5,14 +5,14 @@ title: Over the desert and through the hills…
 date: 2006-06-12T16:22:25+00:00
 url: /2006/06/12/over-the-desert-and-through-the-hills/
 short-url:
-  - http://bit.ly/eBF5YH
+- http://bit.ly/eBF5YH
 categories:
-  - Video
+- Video
 tags:
-  - movies
-  - reviews
-  - Cars
-  - Pixar
+- movies
+- reviews
+- Cars
+- Pixar
 ---
 I saw Pixar's new movie, <a href="http://www.disney.go.com/disneypictures/cars/">Cars</a> last night. Short version: Amazingly beautiful and hilariously funny, but more shallow and less original than I normally expect from this source.
 

@@ -5,10 +5,10 @@ title: It’s been an exciting few days for me. Last Tuesda…
 date: 2002-02-13T16:26:38+00:00
 url: /2002/02/13/its-been-an-exciting-few-days-for-me-last-tuesda/
 short-url:
-  - http://bit.ly/eL5xKS
+- http://bit.ly/eL5xKS
 categories:
-  - General
-  - Tech
+- General
+- Tech
 tags:
  - linux
  - iptables

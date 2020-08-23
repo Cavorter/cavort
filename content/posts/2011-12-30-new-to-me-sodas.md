@@ -5,11 +5,11 @@ title: New (to me) Sodas
 date: 2011-12-30T21:49:03+00:00
 url: /2011/12/30/new-to-me-sodas/
 short-url:
-  - http://bit.ly/uEkX6e
+- http://bit.ly/uEkX6e
 categories:
-  - Food
-  - Hobbies
-  - Soda
+- Food
+- Hobbies
+- Soda
 
 ---
 I was doing some shopping today and ran across three new lines of soda that I had not previously seen. Haven't tasted them all yet, but figured I'd at least mention them here before I forgot.

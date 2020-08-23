@@ -5,9 +5,9 @@ title: I found a better link to the article mentioned in …
 date: 2002-03-12T23:00:20+00:00
 url: /2002/03/12/i-found-a-better-link-to-the-article-mentioned-in/
 short-url:
-  - http://bit.ly/i4yuYh
+- http://bit.ly/i4yuYh
 categories:
-  - General
+- General
 
 ---
 I found a better link to <a href="http://www.iisadministrator.com/Articles/Index.cfm?ArticleID=24422#">the article mentioned in the previous post</a>. I have received a nice response from the author with an invitation to be quoted in piece he's thinking about writing for the next article that would discuss the opposing viewpoints.

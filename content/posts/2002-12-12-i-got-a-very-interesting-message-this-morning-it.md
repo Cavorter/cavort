@@ -5,13 +5,13 @@ title: I got a very interesting message this morning. It …
 date: 2002-12-12T14:07:50+00:00
 url: /2002/12/12/i-got-a-very-interesting-message-this-morning-it/
 short-url:
-  - http://bit.ly/guoSRK
+- http://bit.ly/guoSRK
 categories:
-  - Games
-  - Tech
+- Games
+- Tech
 tags:
-  - tech
-  - games
+- tech
+- games
 ---
 I got a very interesting message this morning. It appears that <a href="http://www.gwgame.com">Black & White</a> will be supporting the new <a href="http://www.essentialreality.com/p5_glove.asp">P5 virtual-reality glove</a> from <a href="http://www.essentialreality.com/index.asp">Essential Reality</a>.
 

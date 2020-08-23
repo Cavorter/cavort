@@ -5,10 +5,10 @@ title: So I went and saw Disney’s Beauty and the Beast IM…
 date: 2002-01-09T14:38:46+00:00
 url: /2002/01/09/so-i-went-and-saw-disneys-beauty-and-the-beast-im/
 short-url:
-  - http://bit.ly/fD8yAp
+- http://bit.ly/fD8yAp
 categories:
-  - General
-  - Video
+- General
+- Video
 tags:
  - dinner
  - movie

@@ -5,15 +5,15 @@ title: Reporting Pester Code Coverage Metrics to TeamCity
 date: 2016-04-27T15:18:07+00:00
 url: /2016/04/27/reporting-pester-code-coverage-metrics-to-teamcity/
 short-url:
-  - http://bit.ly/26ugH8R
+- http://bit.ly/26ugH8R
 categories:
-  - General
-  - Random Crap
-  - Tech
+- General
+- Random Crap
+- Tech
 tags:
-  - Powershell
-  - TeamCity
-  - Pester
+- Powershell
+- TeamCity
+- Pester
 ---
 As <a href="http://www.cavort.org/2016/04/08/simple-test-coverage-check-for-script-modules/">previously mentioned</a> I've been doing a lot of work with PowerShell modules at work where I have recently gotten all the parts for a full continuous delivery pipeline working for those modules. A big section of that pipeline runs through <a href="https://www.jetbrains.com/teamcity/">TeamCity</a> and while the existing <a href="https://github.com/pester/Pester/wiki/Showing-Test-Results-in-CI-%28TeamCity%2C-AppVeyor%29">ability to have Pester test results show up in the build results</a> is really great, code coverage is slightly less obvious but in the end fairly simple.
 

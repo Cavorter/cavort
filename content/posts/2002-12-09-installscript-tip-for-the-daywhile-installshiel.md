@@ -5,13 +5,13 @@ type: "post"
 date: 2002-12-09T19:21:35+00:00
 url: /2002/12/09/installscript-tip-for-the-daywhile-installshiel/
 short-url:
-  - http://bit.ly/fYUEpj
+- http://bit.ly/fYUEpj
 categories:
-  - InstallTech
+- InstallTech
 ---
 While InstallShield's Installscript does not have any String functions that can handle case sensitive comparison, the List functions do!
-  
-```InstallScript  
+
+```InstallScript
 //////////////////////////////////////////////////////////////////////////
 //	function NRS_StrCompare
 //	Case-sensitive compare of 2 strings.

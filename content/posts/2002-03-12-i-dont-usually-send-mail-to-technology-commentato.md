@@ -5,9 +5,9 @@ type: "post"
 date: 2002-03-12T18:33:00+00:00
 url: /2002/03/12/i-dont-usually-send-mail-to-technology-commentato/
 short-url:
-  - http://bit.ly/hDgWjW
+- http://bit.ly/hDgWjW
 categories:
-  - General
+- General
 
 ---
 I don't usually send mail to technology commentators, but I saw an editorial in today's issue of Windows Web Solutions UPDATE that I just had to respond to.

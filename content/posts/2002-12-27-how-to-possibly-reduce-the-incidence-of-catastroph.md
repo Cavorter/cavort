@@ -5,13 +5,13 @@ title: How to possibly reduce the incidence of catastroph…
 date: 2002-12-27T19:50:36+00:00
 url: /2002/12/27/how-to-possibly-reduce-the-incidence-of-catastroph/
 short-url:
-  - http://bit.ly/ihlD03
+- http://bit.ly/ihlD03
 categories:
-  - Soda Brewing
+- Soda Brewing
 tags:
-  - soda
-  - brewing
-  - soda brewing
+- soda
+- brewing
+- soda brewing
 ---
 How to possibly reduce the incidence of catastrophic carbonation: Adjust the recipe to include a set amount of consumable sugar for the yeast to activate, then sweeten with left-handed sugars (usually known as sucralose).
 

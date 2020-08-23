@@ -5,17 +5,17 @@ title: 'Busy week: Painting went really well, and I’m actu…'
 date: 2003-04-21T20:40:15+00:00
 url: /2003/04/21/busy-week-painting-went-really-well-and-im-actu/
 short-url:
-  - http://bit.ly/fAu5WT
+- http://bit.ly/fAu5WT
 categories:
-  - General
-  - Tech
+- General
+- Tech
 tags:
-  - personal
-  - fandom
-  - minicon
-  - tivo
-  - tech
-  - house
+- personal
+- fandom
+- minicon
+- tivo
+- tech
+- house
 
 ---
 Busy week: Painting went really well, and I'm actually fairly excited to get the bathroom done as well. Hoping to get some sanding and priming done hopefully this week, and then maybe painting next! Woot!

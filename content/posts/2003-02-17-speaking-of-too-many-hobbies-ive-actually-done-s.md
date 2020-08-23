@@ -5,14 +5,14 @@ title: Speaking of too many hobbies, I’ve actually done s…
 date: 2003-02-17T13:41:55+00:00
 url: /2003/02/17/speaking-of-too-many-hobbies-ive-actually-done-s/
 short-url:
-  - http://bit.ly/e607iP
+- http://bit.ly/e607iP
 categories:
-  - Tech
+- Tech
 tags:
-  - tech
-  - web
-  - programming
-  - projects
+- tech
+- web
+- programming
+- projects
 ---
 Speaking of too many hobbies, I've actually done some work with one of them that you can even see!
 

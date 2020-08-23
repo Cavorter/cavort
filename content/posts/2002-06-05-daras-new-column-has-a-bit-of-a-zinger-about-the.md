@@ -5,9 +5,9 @@ title: Dara’s new column has a bit of a zinger about the …
 date: 2002-06-05T14:54:53+00:00
 url: /2002/06/05/daras-new-column-has-a-bit-of-a-zinger-about-the/
 short-url:
-  - http://bit.ly/fCg8RK
+- http://bit.ly/fCg8RK
 categories:
-  - Restaurants
+- Restaurants
 
 ---
 <a href="http://www.citypages.com/databank/23/1122/article10447.asp">Dara's new column</a> has a bit of a zinger about the possible new Hooter's in Block E:

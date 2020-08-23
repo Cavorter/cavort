@@ -6,9 +6,9 @@ author: Cavorter
 date: 2003-01-06T21:54:19+00:00
 url: /2003/01/06/progress-reportrecipe-number-10batch-number/
 short-url:
-  - http://bit.ly/dQkkv8
+- http://bit.ly/dQkkv8
 categories:
-  - Soda Brewing
+- Soda Brewing
 tags:
  - soda
  - "soda brewing"

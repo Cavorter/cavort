@@ -5,9 +5,9 @@ title: These days it seems like just about everyone that …
 date: 2002-01-04T20:39:22+00:00
 url: /2002/01/04/these-days-it-seems-like-just-about-everyone-that/
 short-url:
-  - http://bit.ly/eXTg0J
+- http://bit.ly/eXTg0J
 categories:
-  - General
+- General
 
 ---
 These days it seems like just about everyone that I know is doing something on [Live Journal](http://www.livejournal.com). A problem is that I really don't like Live Journal, and it has nothing to do with the basic service, it has everything to do with what happens when people start using it.

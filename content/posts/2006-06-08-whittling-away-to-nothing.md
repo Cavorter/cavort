@@ -5,12 +5,12 @@ title: Whittling away to nothing
 date: 2006-06-08T22:37:44+00:00
 url: /2006/06/08/whittling-away-to-nothing/
 short-url:
-  - http://bit.ly/h7t33v
+- http://bit.ly/h7t33v
 categories:
-  - InstallTech
+- InstallTech
 tags:
-  - InstallShield
-  - MacroVision
+- InstallShield
+- MacroVision
 ---
 I took some time at work today to give a pretty thorough run through to <a href="http://www.macrovision.com/products/flexnet_installshield/installshield/editions/professional.shtml">InstallShield 12 Professional</a>. I have to say: I'm pretty annoyed. The last couple of releases under the new <a href="http://www.macrovision.com">Macrovision</a> brand have really been fairly telling about the focus of the parent company.
 

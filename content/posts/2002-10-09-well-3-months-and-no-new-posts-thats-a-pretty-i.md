@@ -5,12 +5,12 @@ title: Well, 3 months and no new posts. That’s a pretty i…
 date: 2002-10-09T13:16:23+00:00
 url: /2002/10/09/well-3-months-and-no-new-posts-thats-a-pretty-i/
 short-url:
-  - http://bit.ly/hJOvTI
+- http://bit.ly/hJOvTI
 categories:
-  - General
+- General
 tags:
-  - personal
-  - rally
+- personal
+- rally
 ---
 Well, 3 months and no new posts. That's a pretty interesting number.
 
