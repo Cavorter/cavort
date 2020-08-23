@@ -8,7 +8,7 @@ categories:
 - General
 
 ---
-I found a better link to <a href="http://www.iisadministrator.com/Articles/Index.cfm?ArticleID=24422#">the article mentioned in the previous post</a>. I have received a nice response from the author with an invitation to be quoted in piece he's thinking about writing for the next article that would discuss the opposing viewpoints.
+I found a better link to [the article mentioned in the previous post](http://www.iisadministrator.com/Articles/Index.cfm?ArticleID=24422#). I have received a nice response from the author with an invitation to be quoted in piece he's thinking about writing for the next article that would discuss the opposing viewpoints.
 
 One of the things he mentions did jump out at me though was his reaction to the negative feedback. I sounds like he hasn't been doing a lot of editorials yet, or at least not very many that deal with issues as controversial as this.
 

@@ -9,4 +9,4 @@ categories:
 tags:
   - personal
 ---
-Well, it appears that NASA has enough confidence in their most recent shuttle launch prediction to <a href="http://www.ksctickets.com/ltt.html?ic_campID=4&#038;ic_KSCVCtickets=Launch_STS121MayLaunch">start selling tickets</a> for this one. I had thought earlier this year about trying to get to this launch when it was going to be in early May, but now I have other plans for the first of July. Maybe the next launch.
+Well, it appears that NASA has enough confidence in their most recent shuttle launch prediction to [start selling tickets](http://www.ksctickets.com/ltt.html?ic_campID=4&#038;ic_KSCVCtickets=Launch_STS121MayLaunch) for this one. I had thought earlier this year about trying to get to this launch when it was going to be in early May, but now I have other plans for the first of July. Maybe the next launch.

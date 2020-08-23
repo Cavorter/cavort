@@ -11,4 +11,4 @@ tags:
 - links
 - Dr Pepper
 ---
-BevNET has their review of <a href="http://www.bevnet.com/reviews/drpepper_berries/?emc=intellicontact&#038;m=281774&#038;v=3924197&#038;l=20">Dr Pepper Berries & Cream</a> up. I'm looking for a bottle to try.
+BevNET has their review of [Dr Pepper Berries & Cream](http://www.bevnet.com/reviews/drpepper_berries/?emc=intellicontact&#038;m=281774&#038;v=3924197&#038;l=20) up. I'm looking for a bottle to try.

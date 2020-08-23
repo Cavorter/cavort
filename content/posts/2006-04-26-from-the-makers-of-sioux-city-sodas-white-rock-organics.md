@@ -11,7 +11,7 @@ tags:
   - White Rock Organics
   - Kowalski's
 ---
-While doing some quick soda shopping before a couple of friends stopped by to play some boardgames, I ran into some new bottles at the local <a href="http://www.kowalskis.com/">Kowalski's</a> that looked interesting. <a href="http://www.whiterockbeverages.com/Organics.cfm">White Rock Organics</a> soda comes in 3 flavors: Red Peach, Raspberry Creme, and Passion Orange. I got a 4 pack of all 3 flavors and have so far tasted very mixed results.
+While doing some quick soda shopping before a couple of friends stopped by to play some boardgames, I ran into some new bottles at the local [Kowalski's](http://www.kowalskis.com/) that looked interesting. [White Rock Organics](http://www.whiterockbeverages.com/Organics.cfm) soda comes in 3 flavors: Red Peach, Raspberry Creme, and Passion Orange. I got a 4 pack of all 3 flavors and have so far tasted very mixed results.
 
 The Red Peach is actually incredibly good. It is more sweet and intensely flavored than I would normally like, but the carbonation is light enough and the cane sugar they are using is fairly decent quality so the flavor is at least very good. It also really tastes like very good fresh peaches.
 

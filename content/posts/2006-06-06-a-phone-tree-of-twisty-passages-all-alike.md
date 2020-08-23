@@ -11,7 +11,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:252a3b35999a34cddc41d4a1a3cfe481ec89410f'>
   
-    An enterprising person has set up <a href="http://uc.org/read/Zasterisk">a text-to-speech engine with his Asterisk PBX setup and allows a caller to interact with the classic Zork text adventure game</a>.
+    An enterprising person has set up [a text-to-speech engine with his Asterisk PBX setup and allows a caller to interact with the classic Zork text adventure game](http://uc.org/read/Zasterisk).
   
   
   
@@ -24,5 +24,5 @@ categories:
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/game/" title="game" rel="tag">game</a><br />
+  Tags: [game](http://www.cavort.org/tag/game/)<br />
 </div>

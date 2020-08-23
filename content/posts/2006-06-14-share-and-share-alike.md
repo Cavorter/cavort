@@ -10,5 +10,5 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:032e82f7cc17d87bd02f34701f91fc31acadf7c6'>
   
-    I ran across a reference to <a href="http://share.opml.org/">Share Your OPML</a> yesterday, and thought I would link to it since I think it's an interesting site. I found quite a few new blogs to read as a result.
+    I ran across a reference to [Share Your OPML](http://share.opml.org/) yesterday, and thought I would link to it since I think it's an interesting site. I found quite a few new blogs to read as a result.
   

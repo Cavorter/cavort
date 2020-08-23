@@ -8,4 +8,4 @@ categories:
 - Restaurants
 
 ---
-After a half month hiatus, <a href="http://www.citypages.com/databank/23/1121/article10432.asp">Dara Moskowitz's weekly restaurant musings</a> are back. Just what I needed, yet <i>another</i> place to add to my growing list of places to try.
+After a half month hiatus, [Dara Moskowitz's weekly restaurant musings](http://www.citypages.com/databank/23/1121/article10432.asp) are back. Just what I needed, yet <i>another</i> place to add to my growing list of places to try.

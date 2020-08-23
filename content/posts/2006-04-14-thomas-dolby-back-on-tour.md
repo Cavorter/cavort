@@ -10,4 +10,4 @@ tags:
   - music
   - Thomas Dolby
 ---
-One of my most favorite musical artists, <a href="http://www.thomasdolby.com">Thomas Dolby</a>, is back on tour for the first time in 15 years, and I think I won't get to see one of his shows. The closest that he's getting is Chicago and Milwaukee, but I can't seem to find tickets for the show on May 19th and I think that might be my only chance!
+One of my most favorite musical artists, [Thomas Dolby](http://www.thomasdolby.com), is back on tour for the first time in 15 years, and I think I won't get to see one of his shows. The closest that he's getting is Chicago and Milwaukee, but I can't seem to find tickets for the show on May 19th and I think that might be my only chance!

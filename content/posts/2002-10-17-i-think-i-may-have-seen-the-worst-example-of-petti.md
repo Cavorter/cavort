@@ -11,7 +11,7 @@ tags:
 - fandom
 - politics
 ---
-I think I may have seen the worst example of pettiness by someone that I actually know in recent memory. I am not going to link directly to it, but it did occur on the <a href="http://www.mnstf.org/mnstf">Mnstf</a> Natter discussion list.
+I think I may have seen the worst example of pettiness by someone that I actually know in recent memory. I am not going to link directly to it, but it did occur on the [Mnstf](http://www.mnstf.org/mnstf) Natter discussion list.
 
 I don't think that anyone has enjoyed the decline of Minicon, but I for one am not at all surprised with assholes like that around.
 

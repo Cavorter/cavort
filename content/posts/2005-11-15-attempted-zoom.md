@@ -10,4 +10,4 @@ tags:
   - personal
   - rollerblades
 ---
-So this week I hope to be going to the <a href="http://www.roller-dome.com/">Metrodome for rollerblading</a>. I took my first few glides this last summer with some help from a friend. Unfortunately I was stupid and had not bought pads so my first spill on my third time out put my right wrist into a brace for a month or so and I haven't been back on them since, but I'm really looking forward to it.
+So this week I hope to be going to the [Metrodome for rollerblading](http://www.roller-dome.com/). I took my first few glides this last summer with some help from a friend. Unfortunately I was stupid and had not bought pads so my first spill on my third time out put my right wrist into a brace for a month or so and I haven't been back on them since, but I'm really looking forward to it.

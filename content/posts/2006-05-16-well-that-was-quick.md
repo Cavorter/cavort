@@ -12,4 +12,4 @@ tags:
   - Flash
   - InstallTech
 ---
-I've already <a href="http://www.google.com/notebook/public/05796966234178054343/BDSKUIgoQudDY7LMh">found a use</a> for <a href="http://www.google.com/notebook">Google Notebook</a> at <a href="http://pearsonvue.com/">work</a>. I've spent most of the day researching an issue we have with our embedded Flash 7 Player installation failing on a client's machine. It turns out it's because the Flash 8 Player installation is a bunch of crap and can cause all sorts of interesting issues.
+I've already [found a use](http://www.google.com/notebook/public/05796966234178054343/BDSKUIgoQudDY7LMh) for [Google Notebook](http://www.google.com/notebook) at [work](http://pearsonvue.com/). I've spent most of the day researching an issue we have with our embedded Flash 7 Player installation failing on a client's machine. It turns out it's because the Flash 8 Player installation is a bunch of crap and can cause all sorts of interesting issues.

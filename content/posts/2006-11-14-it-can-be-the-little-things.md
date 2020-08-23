@@ -19,7 +19,7 @@ categories:
   
   
   
-    Just try and use the "Download Zune" button from&nbsp;<a href="http://www.zune.net/en-US/meetzune/software" target="_blank">this page</a> in any non-IE browser and <a href="http://www.zune.net/en-US/meetzune/software/undetected_OS.htm" target="_blank">see how far you get</a>.
+    Just try and use the "Download Zune" button from&nbsp;[this page](http://www.zune.net/en-US/meetzune/software) in any non-IE browser and [see how far you get](http://www.zune.net/en-US/meetzune/software/undetected_OS.htm).
   
   
   

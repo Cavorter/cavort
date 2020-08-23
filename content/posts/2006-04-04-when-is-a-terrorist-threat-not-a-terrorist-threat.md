@@ -10,4 +10,4 @@ tags:
   - links
   - politics
 ---
-When the terrorist is a <a href="http://www.startribune.com/462/story/347852.html">44 year old white American</a>.
+When the terrorist is a [44 year old white American](http://www.startribune.com/462/story/347852.html).

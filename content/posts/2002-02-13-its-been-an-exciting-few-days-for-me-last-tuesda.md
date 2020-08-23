@@ -22,7 +22,7 @@ So, we did. Mandrake 8.1 uses the Linux 2.4 kernel which has some new code calle
 
 I think that I can safely say that Linux documentation as a whole is still really very bad. It has improved greatly since the last time I looked hard at this OS (circa 1995, Pre 1.0) but it is still largely obtuse and assumes particular arcane knowledge too often. I did however break down and hunted through one of the local Barnes & Noble stores for some help, and I found some.
 
-<a href="http://www.linux-firewall-tools.com/linux/book/">Linux Firewalls (2nd Ed)</a> by Robert L. Ziegler is a really fantastic piece of work. Building on a previous edition written for the pre-2.4 kernels, he builds from simple concepts to complex topics and only then, tells you want you need to do in order to get things working properly. If you plan on putting together a Linux based firewall, this is the book to get.
+[Linux Firewalls (2nd Ed)](http://www.linux-firewall-tools.com/linux/book/) by Robert L. Ziegler is a really fantastic piece of work. Building on a previous edition written for the pre-2.4 kernels, he builds from simple concepts to complex topics and only then, tells you want you need to do in order to get things working properly. If you plan on putting together a Linux based firewall, this is the book to get.
 
 So, I got HTTP traffic working inbound after 4 days of being stumped, and even got FTP traffic working this morning (which is how this post got here) but now I'm to the stickier bits. Currently we aren't able to resolve the internal servers by their external designations. I think I know where the problem is now, but I just have to find the time to fix it.
 

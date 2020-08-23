@@ -10,4 +10,4 @@ tags:
   - tech
   - google
 ---
-Google introduced a <a href="http://www.google.com/notebook/">new service</a> today, called Notebook, that was announced last week amid a few other items. I haven't played with it much yet, but it seems at least interesting.
+Google introduced a [new service](http://www.google.com/notebook/) today, called Notebook, that was announced last week amid a few other items. I haven't played with it much yet, but it seems at least interesting.

@@ -22,14 +22,14 @@ But it's drinkable, which in my eyes is a success of sorts, and definitely gives
 
 I'm going to keep a few of the bottles for aging data (4 of them? Open at 6 day intervals?), but I think I might try and do another batch this weekend and see how it turns out.
 
-For those who are interested:<br /> Yeast: <a href="http://www.northernbrewer.com/dried-yeast.html">Nottingham Ale Yeast</a> (Product#Y005) $1.25: The package said 11 grams, and I used ~1/3rd of it by volume since I didn't bring my scale.
+For those who are interested:<br /> Yeast: [Nottingham Ale Yeast](http://www.northernbrewer.com/dried-yeast.html) (Product#Y005) $1.25: The package said 11 grams, and I used ~1/3rd of it by volume since I didn't bring my scale.
 
-Extract: <a href="http://www.northernbrewer.com/soda.html">Old Fashioned Soda - Root Beer extract</a> (Product#5500) $3.95: I used about 1/3rd of the bottle. Should have used half.
+Extract: [Old Fashioned Soda - Root Beer extract](http://www.northernbrewer.com/soda.html) (Product#5500) $3.95: I used about 1/3rd of the bottle. Should have used half.
 
-Sugar: <a href="http://www.northernbrewer.com/sugars.html">Bulk Corn Sugar</a> (Product#2200) $4.00: I used 2 cups.
+Sugar: [Bulk Corn Sugar](http://www.northernbrewer.com/sugars.html) (Product#2200) $4.00: I used 2 cups.
 
 </div>
 
 <div class="st-post-tags">
-Tags: <a href="http://www.cavort.org/tag/brew/" title="brew" rel="tag">brew</a>, <a href="http://www.cavort.org/tag/root-beer/" title="Root Beer" rel="tag">Root Beer</a>, <a href="http://www.cavort.org/tag/soda/" title="Soda" rel="tag">Soda</a><br />
+Tags: [brew](http://www.cavort.org/tag/brew/), [Root Beer](http://www.cavort.org/tag/root-beer/), [Soda](http://www.cavort.org/tag/soda/)<br />
 </div>

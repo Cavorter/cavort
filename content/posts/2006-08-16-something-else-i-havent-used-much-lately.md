@@ -10,7 +10,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:9c082b7279db45c316fdc45c8b20ee1a6caecb0b'>
   
-    Something else that I haven't used much lately that is being cut from the budget: World Of Warcraft. Given that I haven't logged in this month yet, I'm not particularly surprised. The last time my 6 month subscription came up this last spring I was sort of getting back into the swing of things. That was pretty short lived, though I did enjoy the bits of <a href="http://www.worldofwarcraft.com/info/underdev/zulgurub.html">Zul'Gurub</a>&nbsp;that I had a chance to see with my old guild.
+    Something else that I haven't used much lately that is being cut from the budget: World Of Warcraft. Given that I haven't logged in this month yet, I'm not particularly surprised. The last time my 6 month subscription came up this last spring I was sort of getting back into the swing of things. That was pretty short lived, though I did enjoy the bits of [Zul'Gurub](http://www.worldofwarcraft.com/info/underdev/zulgurub.html)&nbsp;that I had a chance to see with my old guild.
   
   
   
@@ -23,5 +23,5 @@ categories:
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/game/" title="game" rel="tag">game</a><br />
+  Tags: [game](http://www.cavort.org/tag/game/)<br />
 </div>

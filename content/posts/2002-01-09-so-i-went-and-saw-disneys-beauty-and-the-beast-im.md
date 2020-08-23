@@ -13,7 +13,7 @@ tags:
  - music
  - song
 ---
-So I went and saw <a href="http://disney.go.com/disneypictures/beautyandthebeast/intro.html">Disney's Beauty and the Beast IMAX Special Edition</a> last night at the <a href="http://www.mnzoo.com/">Minnesota Zoo</a> last night. Mostly it was as good as I remember it. There were several things that translated <i>really</i> well to the really-big screen, and a few that didn't enough to almost be distracting.
+So I went and saw [Disney's Beauty and the Beast IMAX Special Edition](http://disney.go.com/disneypictures/beautyandthebeast/intro.html) last night at the [Minnesota Zoo](http://www.mnzoo.com/) last night. Mostly it was as good as I remember it. There were several things that translated <i>really</i> well to the really-big screen, and a few that didn't enough to almost be distracting.
 
 For example, there are some wonderful scenes when the father wanders into the the Beast's castle that are these zooming pans of the enormous gothic architecture. I remember thinking it looked huge on a normal movie screen when I saw it the first time as a kid, but putting it on an IMAX screen made the scale really blow your mind. Many of the lovely impressionistic landscapes also showed well for much the same reason.
 

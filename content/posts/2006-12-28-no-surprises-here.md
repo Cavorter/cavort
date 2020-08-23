@@ -17,7 +17,7 @@ categories:
   
   
   
-    Good analysis <a href="http://arstechnica.com/news.ars/post/20061228-8510.html">here</a>.
+    Good analysis [here](http://arstechnica.com/news.ars/post/20061228-8510.html).
   
   
   
@@ -26,5 +26,5 @@ categories:
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/dinner/" title="dinner" rel="tag">dinner</a>, <a href="http://www.cavort.org/tag/movie/" title="movie" rel="tag">movie</a><br />
+  Tags: [dinner](http://www.cavort.org/tag/dinner/), [movie](http://www.cavort.org/tag/movie/)<br />
 </div>

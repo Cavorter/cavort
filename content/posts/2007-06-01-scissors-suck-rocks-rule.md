@@ -10,7 +10,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:85e11a2b1de16e202fb6dffea94cc615e879fd7f'>
 
-<a href="http://www.techcrunch.com/2007/06/01/there-is-a-rock-paper-scissors-world-championship/">Some people have too much time on their hands.</a>
+[Some people have too much time on their hands.](http://www.techcrunch.com/2007/06/01/there-is-a-rock-paper-scissors-world-championship/)
 
-Maybe I should start a competitive <a href="http://en.wikipedia.org/wiki/Coin_flipping">coin flipping</a> league. A <a href="http://www.google.com/search?q=competitive+coin+flipping">cursory Google search</a> doesn't appear to show any.
+Maybe I should start a competitive [coin flipping](http://en.wikipedia.org/wiki/Coin_flipping) league. A [cursory Google search](http://www.google.com/search?q=competitive+coin+flipping) doesn't appear to show any.
 

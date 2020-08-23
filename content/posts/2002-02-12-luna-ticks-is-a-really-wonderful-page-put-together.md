@@ -8,4 +8,4 @@ categories:
 - General
 
 ---
-<a href="http://www.the-indigestible.com/specials/moon.htm">Luna Ticks</a> is a really wonderful page put together to debunk the "We never landed on the moon" myths that fly about occasionally. Highly recommended.
+[Luna Ticks](http://www.the-indigestible.com/specials/moon.htm) is a really wonderful page put together to debunk the "We never landed on the moon" myths that fly about occasionally. Highly recommended.

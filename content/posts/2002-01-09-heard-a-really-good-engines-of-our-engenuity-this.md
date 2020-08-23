@@ -8,4 +8,4 @@ categories:
 - General
 
 ---
-Heard a really good <a href="http://www.uh.edu/engines/engines.htm">Engines of Our Engenuity</a> this morning. <a href="http://www.uh.edu/engines/epi1667.htm">Take a look at the transcript.</a>
+Heard a really good [Engines of Our Engenuity](http://www.uh.edu/engines/engines.htm) this morning. [Take a look at the transcript.](http://www.uh.edu/engines/epi1667.htm)

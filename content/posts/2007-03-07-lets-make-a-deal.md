@@ -10,10 +10,10 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:9adbe567d48130ac8a1cfb35d186b2f56ed917f8'>
 
-I had an excellent evening playing games with <a href="http://kalikanzeros.livejournal.com/">Shaun</a> and <a href="http://smferris.livejournal.com/">Scott</a> where we played <a href="http://www.face2facegames.com/index.cfm?fuseaction=catalog.detail&#038;productID=1">"I'm the Boss"</a> by Face 2 Face Games for the first time. We only had time to play through it once but it was incredibly fun. It seems to be an extremely well balanced game at this point, though it's hard to say for sure after only one session. Very highly recommended.
+I had an excellent evening playing games with [Shaun](http://kalikanzeros.livejournal.com/) and [Scott](http://smferris.livejournal.com/) where we played ["I'm the Boss"](http://www.face2facegames.com/index.cfm?fuseaction=catalog.detail&#038;productID=1) by Face 2 Face Games for the first time. We only had time to play through it once but it was incredibly fun. It seems to be an extremely well balanced game at this point, though it's hard to say for sure after only one session. Very highly recommended.
 
 </div>
 
 <div class="st-post-tags">
-Tags: <a href="http://www.cavort.org/tag/game/" title="game" rel="tag">game</a><br />
+Tags: [game](http://www.cavort.org/tag/game/)<br />
 </div>

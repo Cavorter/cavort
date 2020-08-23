@@ -12,7 +12,7 @@ categories:
 ---
 I don't usually send mail to technology commentators, but I saw an editorial in today's issue of Windows Web Solutions UPDATE that I just had to respond to.
 
-You can see the original text by going <a href="http://www.winnetmag.com/Email/Index.cfm?Action=Archive&EmailNewsLetterID=19">here</a> and selecting the Mar 12, 2002 issue. The particular section is the editorial titled "A World Without Windows".
+You can see the original text by going [here](http://www.winnetmag.com/Email/Index.cfm?Action=Archive&EmailNewsLetterID=19) and selecting the Mar 12, 2002 issue. The particular section is the editorial titled "A World Without Windows".
 
 I replied as follows:
 

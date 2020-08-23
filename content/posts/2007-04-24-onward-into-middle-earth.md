@@ -11,5 +11,5 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:03ae0f78d611f0a8452227e8b6046e36f87a508d'>
 
-I picked up my copy of The <a href="http://www.lotro.com">Lord of the Rings Online</a> today and I am just getting everything updated so I can pick up where I left off with the beta for the past couple of weeks. If you end up taking a look, look up Blairn on Vilya and say hello.
+I picked up my copy of The [Lord of the Rings Online](http://www.lotro.com) today and I am just getting everything updated so I can pick up where I left off with the beta for the past couple of weeks. If you end up taking a look, look up Blairn on Vilya and say hello.
 

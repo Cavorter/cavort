@@ -10,4 +10,4 @@ tags:
 - personal
 - l-space
 ---
-I was digging through my couple of web sites today and realized that I haven't done a really good rant in a long, long time. At least not in the same form as the chocolate rant anyway. I think that for the most part <a href="/l-space">L-Space</a> has taken up most of my ranting space. I'm not convinced that it's a good thing, but it certainly is a thing.
+I was digging through my couple of web sites today and realized that I haven't done a really good rant in a long, long time. At least not in the same form as the chocolate rant anyway. I think that for the most part [L-Space](/l-space) has taken up most of my ranting space. I'm not convinced that it's a good thing, but it certainly is a thing.

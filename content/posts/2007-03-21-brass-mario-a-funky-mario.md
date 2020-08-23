@@ -11,5 +11,5 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:f04d37e4be113d5c182230c0379086ad1607df96'>
 
-The Super Mario Theme <a href="http://killpacktravels.blogspot.com/2007/03/super-mario-trombones.html">performed by three trombonists</a>!
+The Super Mario Theme [performed by three trombonists](http://killpacktravels.blogspot.com/2007/03/super-mario-trombones.html)!
 

@@ -17,5 +17,5 @@ categories:
   </blockquote>
   
   
-    from The Engines of Our Ingenuity <a href="http://www.uh.edu/engines/epi1903.htm">episode 1903</a>
+    from The Engines of Our Ingenuity [episode 1903](http://www.uh.edu/engines/epi1903.htm)
   

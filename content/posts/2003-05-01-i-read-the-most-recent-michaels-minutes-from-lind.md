@@ -8,7 +8,7 @@ categories:
 - General
 
 ---
-I read the most recent <a href="http://www.lindows.com/lindows_michaelsminutes.php">Michael's Minutes</a> from <a href="http://www.lindows.com">Lindows.com</a> this morning. What a complete load of tripe. I have now unsubscribed from all of their mailings, and when I got the cancellation confirmation it mentioned that if I was unsubscribing because I was dissatisfied I should send them some feedback. So I did:
+I read the most recent [Michael's Minutes](http://www.lindows.com/lindows_michaelsminutes.php) from [Lindows.com](http://www.lindows.com) this morning. What a complete load of tripe. I have now unsubscribed from all of their mailings, and when I got the cancellation confirmation it mentioned that if I was unsubscribing because I was dissatisfied I should send them some feedback. So I did:
 
 > The cancellation confirmation message that was sent after I had removed my address from your mailing lists suggested that if I was unsubing because I was dissatisfied I should send a message here.
 

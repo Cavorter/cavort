@@ -15,22 +15,22 @@ categories:
 <strong>New Marvel Comics Available on Nook 12/23/2011</strong>
 <ul>
 <li>
-<a href="http://www.barnesandnoble.com/w/avengers-under-siege-roger-stern/1107091577?ean=9780785170136&#038;x=39082312&#038;" target="_blank">Avengers Under Siege</a> [Avengers (1963) #270-277]
+[Avengers Under Siege](http://www.barnesandnoble.com/w/avengers-under-siege-roger-stern/1107091577?ean=9780785170136&#038;x=39082312&#038;) [Avengers (1963) #270-277]
 </li>
 <li>
-<a href="http://www.barnesandnoble.com/w/civil-war-ron-garney/1015226532?ean=9780785170259&#038;x=13082312&#038;" target="_blank">Civil War: Amazing Spider-Man</a> [Amazing Spider-Man (1999) #532-536]
+[Civil War: Amazing Spider-Man](http://www.barnesandnoble.com/w/civil-war-ron-garney/1015226532?ean=9780785170259&#038;x=13082312&#038;) [Amazing Spider-Man (1999) #532-536]
 </li>
 <li>
-<a href="http://www.barnesandnoble.com/w/dark-avengers-volume-1-mike-deodato/1026330495?ean=9780785170334&#038;x=33082312&#038;" target="_blank">Dark Avengers, Volume 1: Assemble</a> [Dark Avengers (2009) #1-6]
+[Dark Avengers, Volume 1: Assemble](http://www.barnesandnoble.com/w/dark-avengers-volume-1-mike-deodato/1026330495?ean=9780785170334&#038;x=33082312&#038;) [Dark Avengers (2009) #1-6]
 </li>
 <li>
-<a href="http://www.barnesandnoble.com/w/spider-man-phil-jimenez/1026330591?ean=9780785171010&#038;x=32082312&#038;" target="_blank" target="_blank">Spider-Man: Brand New Day, Volume 2</a> [Amazing Spider-Man (1999) #552-558]
+[Spider-Man: Brand New Day, Volume 2](http://www.barnesandnoble.com/w/spider-man-phil-jimenez/1026330591?ean=9780785171010&#038;x=32082312&#038;) [Amazing Spider-Man (1999) #552-558]
 </li>
 <li>
-<a href="http://www.barnesandnoble.com/w/spider-man-barry-kitson/1015215048?ean=9780785171034&#038;x=15082312&#038;" target="_blank">Spider-Man: Crime and Punisher</a> [Amazing Spider-Man (1999) #574-577]
+[Spider-Man: Crime and Punisher](http://www.barnesandnoble.com/w/spider-man-barry-kitson/1015215048?ean=9780785171034&#038;x=15082312&#038;) [Amazing Spider-Man (1999) #574-577]
 </li>
 <li>
-<a href="http://www.barnesandnoble.com/w/ultimate-spider-man-volume-3-brian-michael-bendis/1101057772?ean=9780785171195&#038;x=59082312&#038;" target="_blank">Ultimate Spider-Man, Volume 3: Double Trouble</a> [Ultimate Spider-Man (2000) #14-21]
+[Ultimate Spider-Man, Volume 3: Double Trouble](http://www.barnesandnoble.com/w/ultimate-spider-man-volume-3-brian-michael-bendis/1101057772?ean=9780785171195&#038;x=59082312&#038;) [Ultimate Spider-Man (2000) #14-21]
 </li>
 </ul>
 It's been 11 days since the last batch of new comics got released which seems like an odd number but at a guess it is because Sunday is Christmas in the US and Monday seems to be the day many businesses are giving as a holiday. Could it be that instead of the world of physical comics, where a holiday means delayed shipments, that in the world of electronic comics we'll have early shipments? It would be nice but it seems more likely that Marvel wanted more titles in the catalog for all the people who are about to receive a shiny new device in the next two days. In any case we'll know if the two week release window is the general plan on or around Jan 9, 2012.
@@ -46,5 +46,5 @@ Hope everyone is enjoying the holiday season!
 </div>
 
 <div class="st-post-tags">
-Tags: <a href="http://www.cavort.org/tag/marvel/" title="Marvel" rel="tag">Marvel</a>, <a href="http://www.cavort.org/tag/nook/" title="Nook" rel="tag">Nook</a><br />
+Tags: [Marvel](http://www.cavort.org/tag/marvel/), [Nook](http://www.cavort.org/tag/nook/)<br />
 </div>

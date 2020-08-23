@@ -9,4 +9,4 @@ categories:
 tags:
   - games
 ---
-I heard the announcement this week that the people behind <a href="http://puzzlepirates.com">Puzzle Pirates</a> are working on a new game called <a href="http://www.banghowdy.com/">Bang! Howdy</a>. I really enjoyed Puzzle Pirates for awhile and will be signing up for the beta and hopefully playing some this weekend.
+I heard the announcement this week that the people behind [Puzzle Pirates](http://puzzlepirates.com) are working on a new game called [Bang! Howdy](http://www.banghowdy.com/). I really enjoyed Puzzle Pirates for awhile and will be signing up for the beta and hopefully playing some this weekend.

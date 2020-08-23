@@ -10,5 +10,5 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:4ce0d58374c20909d183306b0488d6c80571e350'>
   
-    I just got a pr email from <a href="http://www.smartusa.com/">Smart</a> saying that they are finally going to launch the Smart brand in the US in 2007 with actual vehicles being available in early 2008.
+    I just got a pr email from [Smart](http://www.smartusa.com/) saying that they are finally going to launch the Smart brand in the US in 2007 with actual vehicles being available in early 2008.
   

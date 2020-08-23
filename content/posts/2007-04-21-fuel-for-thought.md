@@ -14,5 +14,5 @@ I'm playing around with the publishing features on Google Spreadsheets and thoug
 
 Here's the averages bar, which I use as a kind of dashboard for overall historical information:<br />
 
-I tried to get some of the new charts to publish, but it wasn't working. Then I tried to get a link to a sheet that I made a couple of charts on, and that wasn't quite working either. So, <a href="http://spreadsheets.google.com/pub?key=pBACX5AiAqhk6404Aj5LcKQ&#038;output=html">go look for yourselves</a> if you're really curious.
+I tried to get some of the new charts to publish, but it wasn't working. Then I tried to get a link to a sheet that I made a couple of charts on, and that wasn't quite working either. So, [go look for yourselves](http://spreadsheets.google.com/pub?key=pBACX5AiAqhk6404Aj5LcKQ&#038;output=html) if you're really curious.
 

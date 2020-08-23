@@ -10,4 +10,4 @@ tags:
 - tech
 - cars
 ---
-Continuing with a short run of car related posts, take a look at the <a href="http://www.toyota.com/html/shop/look_ahead/conceptcar.html#pod">Toyota Pod concept vehicle</a> that monitors your lifestyle and adjusts accordingly. Not just your driving habits, but everything up to taking pictures when it thinks that a conversation is going well. Kind of spooky, but possibly the future of Personal Digital Assistants? Who knows.
+Continuing with a short run of car related posts, take a look at the [Toyota Pod concept vehicle](http://www.toyota.com/html/shop/look_ahead/conceptcar.html#pod) that monitors your lifestyle and adjusts accordingly. Not just your driving habits, but everything up to taking pictures when it thinks that a conversation is going well. Kind of spooky, but possibly the future of Personal Digital Assistants? Who knows.

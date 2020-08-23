@@ -20,6 +20,6 @@ So I poked around the web a bit and I ran into a couple of problems:
 - CDMA 3G is really the best way to go for wireless data. GSM is okay, but doesn't allow you to multiplex voice and data at the same time.
 - There are no CDMA phones that also have Bluetooth.
 - There is a Bluetooth Springboard adapter
-- There is a <a href="http://www.emtac.com/products/bluetooth/index.html#btgps">Bluetooth GPS Reciever</a>
+- There is a [Bluetooth GPS Reciever](http://www.emtac.com/products/bluetooth/index.html#btgps)
 
 So it seems that for the moment I couldn't switch to a provider that had both 3G and Bluetooth even if I wanted to. Sucks to be me I suppose.

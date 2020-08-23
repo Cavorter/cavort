@@ -11,4 +11,4 @@ tags:
 - cars
 - rally
 ---
-I was waiting for this to happen, and sure enough, some crazy Brit's are <a href="http://www.thankstotracker.com/midnightsun/index.htm">racing a Toyota Prius</a> in the Midnight Sun to Red Sea Rally. They are currently dead last, but for a first year attempt for the vehicle with what seems to be a fairly green rally team, I'd say that it's an accomplishment that they're still in it at all!
+I was waiting for this to happen, and sure enough, some crazy Brit's are [racing a Toyota Prius](http://www.thankstotracker.com/midnightsun/index.htm) in the Midnight Sun to Red Sea Rally. They are currently dead last, but for a first year attempt for the vehicle with what seems to be a fairly green rally team, I'd say that it's an accomplishment that they're still in it at all!

@@ -8,4 +8,4 @@ categories:
 - General
 
 ---
-One of the more entertaining <a href="http://www.madblast.com/oska/humor_pong.swf">flash animations</a> I've seen in awhile. I especially like the chase scene.
+One of the more entertaining [flash animations](http://www.madblast.com/oska/humor_pong.swf) I've seen in awhile. I especially like the chase scene.

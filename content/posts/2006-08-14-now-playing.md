@@ -14,10 +14,10 @@ categories:
   
   
   
-    The Windows Live Writer plug-ins are starting to trickle in. So far I've loaded up the <a href="http://jtsquared.net/currently/" target="_blank">Currently Listening To</a> and <a href="http://www.codeplex.com/Wiki/View.aspx?ProjectName=flickr4writer" target="_blank">Flickr4Writer</a> plug-ins. I just hope I don't have a long wait till someone puts a Blog This plug-in for Firefox together.
+    The Windows Live Writer plug-ins are starting to trickle in. So far I've loaded up the [Currently Listening To](http://jtsquared.net/currently/) and [Flickr4Writer](http://www.codeplex.com/Wiki/View.aspx?ProjectName=flickr4writer) plug-ins. I just hope I don't have a long wait till someone puts a Blog This plug-in for Firefox together.
   
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/album/" title="album" rel="tag">album</a><br />
+  Tags: [album](http://www.cavort.org/tag/album/)<br />
 </div>

@@ -32,7 +32,7 @@ categories:
   
   
   
-    A quick google search turned up a really good article on how to<br />calculate the alcohol content yourself:<br /><a onclick="return top.js.OpenExtLink(window,event,this)" href="http://science.howstuffworks.com/question532.htm" target="_blank">http://science.howstuffworks<wbr>.com/question532.htm</wbr></a>
+    A quick google search turned up a really good article on how to<br />calculate the alcohol content yourself:<br />[http://science.howstuffworks<wbr>.com/question532.htm</wbr>](http://science.howstuffworks.com/question532.htm)
   
   
   
@@ -45,5 +45,5 @@ categories:
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/brew/" title="brew" rel="tag">brew</a>, <a href="http://www.cavort.org/tag/brewing/" title="brewing" rel="tag">brewing</a>, <a href="http://www.cavort.org/tag/soda/" title="Soda" rel="tag">Soda</a><br />
+  Tags: [brew](http://www.cavort.org/tag/brew/), [brewing](http://www.cavort.org/tag/brewing/), [Soda](http://www.cavort.org/tag/soda/)<br />
 </div>

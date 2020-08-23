@@ -12,7 +12,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:8dc14d57003a2cade42f96f57ddb5cbdc5684221'>
 
-(Borrowed from <a href="http://resolute.livejournal.com">Resolute</a>.)
+(Borrowed from [Resolute](http://resolute.livejournal.com).)
 <table width=350 align=center border=0 cellspacing=0 cellpadding=2> 
 
 <tr>
@@ -35,5 +35,5 @@ You excel in: Higher education
 You get along best with: The Comma<br /> </font></td> </tr> </table> 
 
 <div align="center">
-<a href="http://www.blogthings.com/whatpunctuationmarkareyouquiz/">What Punctuation Mark Are You?</a>
+[What Punctuation Mark Are You?](http://www.blogthings.com/whatpunctuationmarkareyouquiz/)
 </div>

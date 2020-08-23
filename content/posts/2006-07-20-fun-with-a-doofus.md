@@ -10,10 +10,10 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:8b5731b467a2679cc9b7e817c084d5d5c0a46584'>
   
-    The newest game on XBox Live Arcade is a hoot of a platform puzzler called <a href="http://www.xbox.com/en-US/games/c/cloningclydelivearcadexbox360/default.htm">Cloning Clyde</a>. The humor can sometimes be somewhat low brow, but the creativity of the puzzles and the incredibly fun environments and puzzles made me loose track of 2 hours last night and register it essentially instantly. I can't wait to try it in multi-player.
+    The newest game on XBox Live Arcade is a hoot of a platform puzzler called [Cloning Clyde](http://www.xbox.com/en-US/games/c/cloningclydelivearcadexbox360/default.htm). The humor can sometimes be somewhat low brow, but the creativity of the puzzles and the incredibly fun environments and puzzles made me loose track of 2 hours last night and register it essentially instantly. I can't wait to try it in multi-player.
   
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/game/" title="game" rel="tag">game</a><br />
+  Tags: [game](http://www.cavort.org/tag/game/)<br />
 </div>

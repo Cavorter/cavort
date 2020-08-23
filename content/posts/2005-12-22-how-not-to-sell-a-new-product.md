@@ -11,7 +11,7 @@ tags:
   - sagtv
   - video
 ---
-SageTV has a new hardware product that I'm interested in, a <a href="http://www.sage.tv/extender.html">Media Extender</a> box to get content from a PC with the SageTV software loaded up to your living room without having to have a noisy PC next to the TV.
+SageTV has a new hardware product that I'm interested in, a [Media Extender](http://www.sage.tv/extender.html) box to get content from a PC with the SageTV software loaded up to your living room without having to have a noisy PC next to the TV.
 
 The problem is that there is absolutely NO information about exactly what it can do. Here's what I know from their website: It displays stuff on some sort of television. It has an ethernet port and needs to be connected to a wired network. It costs $99.
 

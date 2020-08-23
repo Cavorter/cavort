@@ -10,4 +10,4 @@ tags:
 - music
 - acappella
 ---
-Finally found a <a href="http://www.singers.com/contemp/throatculture.html">source</a> for the first Throat Culture album, "A Cappella Head", which features the fantastic track "Easter Island Head". If you like aCappella music, you should really look into these guys. The discs are somewhat rare, but worth looking for.
+Finally found a [source](http://www.singers.com/contemp/throatculture.html) for the first Throat Culture album, "A Cappella Head", which features the fantastic track "Easter Island Head". If you like aCappella music, you should really look into these guys. The discs are somewhat rare, but worth looking for.

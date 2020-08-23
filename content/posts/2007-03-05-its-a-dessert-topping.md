@@ -10,5 +10,5 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:dc8eee9dc5b14b4cfc1a321937f221f4bae6b66a'>
 
-My question is how they will work <a href="http://blag.xkcd.com/2007/03/04/velociraptor-safety/">this "discovery"</a> into the plot of Jurassic Park 4.
+My question is how they will work [this "discovery"](http://blag.xkcd.com/2007/03/04/velociraptor-safety/) into the plot of Jurassic Park 4.
 

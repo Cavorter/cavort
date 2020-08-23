@@ -12,7 +12,7 @@ categories:
    
   
   
-    From <a href="http://resolute.livejournal.com/94936.html" target="_blank">Thinking Too Much</a> and <a href="http://xatharine.livejournal.com/364995.html" target="_blank">Angry Starfish</a>
+    From [Thinking Too Much](http://resolute.livejournal.com/94936.html) and [Angry Starfish](http://xatharine.livejournal.com/364995.html)
   
   
   <ol>
@@ -37,7 +37,7 @@ categories:
   </ol>
   
   
-    From <a href="http://www.amazon.com/gp/product/0441010725/ref=ase_charlieswebsi-20/104-5554065-7598302?s=books&v=glance&n=283155&tagActionCode=charlieswebsi-20" target="_blank">Singularity Sky</a> by <a href="http://www.antipope.org/charlie/" target="_blank">Charles Stross</a>:
+    From [Singularity Sky](http://www.amazon.com/gp/product/0441010725/ref=ase_charlieswebsi-20/104-5554065-7598302?s=books&v=glance&n=283155&tagActionCode=charlieswebsi-20) by [Charles Stross](http://www.antipope.org/charlie/):
   
   
   <blockquote>
@@ -47,7 +47,7 @@ categories:
   </blockquote>
   
   
-    The book immediately under that one (Not from a closet :-P )&nbsp;is <a href="http://www.amazon.com/gp/product/0805068848/104-5554065-7598302?v=glance&n=283155" target="_blank">A Peace To End All Peace</a> by <a href="http://www.bu.edu/ir/faculty/fromkin.html" target="_blank">David Fromkin</a>:
+    The book immediately under that one (Not from a closet :-P )&nbsp;is [A Peace To End All Peace](http://www.amazon.com/gp/product/0805068848/104-5554065-7598302?v=glance&n=283155) by [David Fromkin](http://www.bu.edu/ir/faculty/fromkin.html):
   
   
   <blockquote>
@@ -66,5 +66,5 @@ categories:
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/pop/" title="pop" rel="tag">pop</a><br />
+  Tags: [pop](http://www.cavort.org/tag/pop/)<br />
 </div>

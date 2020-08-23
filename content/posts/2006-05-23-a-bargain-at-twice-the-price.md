@@ -19,4 +19,4 @@ I think all that I really need to say is that there was not a single moment in t
 
 On the plus side, it was free.
 
-<strong>Update</strong>: The friend I saw it with has <a href="http://resolute.livejournal.com/49137.html">a bit more to say</a>, though with plenty of spoilers.
+<strong>Update</strong>: The friend I saw it with has [a bit more to say](http://resolute.livejournal.com/49137.html), though with plenty of spoilers.

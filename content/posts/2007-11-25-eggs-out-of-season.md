@@ -12,7 +12,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:e567e5f39f34d09455931084693dbbdfaf3aaa9c'>
 
-One of the things that I'm enjoying most about <a href="http://www.chainfactor.com">Chain Factor</a>, besides the incredibly addictive game, is the code hints/easter eggs that you get sometimes that show up as an "error message". Like this one:
+One of the things that I'm enjoying most about [Chain Factor](http://www.chainfactor.com), besides the incredibly addictive game, is the code hints/easter eggs that you get sometimes that show up as an "error message". Like this one:
 <blockquote>
 
 ERROR 003
@@ -61,5 +61,5 @@ LEVEL 1 / CODE D
 </div>
 
 <div class="st-post-tags">
-Tags: <a href="http://www.cavort.org/tag/game/" title="game" rel="tag">game</a><br />
+Tags: [game](http://www.cavort.org/tag/game/)<br />
 </div>

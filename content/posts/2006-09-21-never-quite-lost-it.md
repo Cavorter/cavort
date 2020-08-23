@@ -14,7 +14,7 @@ categories:
   
   
   
-    I had talked with <a href="http://resolute.livejournal.com/" target="_blank">a friend</a> about it just as the first disc was arriving and she had mentioned that she wasn't interested in seeing Season 2 because she was apparantly tired of the&nbsp;neverending slow reveal of mysteries paired with just a bit too much posing. I just wanted to know what was in the hatch.
+    I had talked with [a friend](http://resolute.livejournal.com/) about it just as the first disc was arriving and she had mentioned that she wasn't interested in seeing Season 2 because she was apparantly tired of the&nbsp;neverending slow reveal of mysteries paired with just a bit too much posing. I just wanted to know what was in the hatch.
   
   
   
@@ -35,5 +35,5 @@ categories:
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/comic/" title="comic" rel="tag">comic</a>, <a href="http://www.cavort.org/tag/netflix/" title="Netflix" rel="tag">Netflix</a><br />
+  Tags: [comic](http://www.cavort.org/tag/comic/), [Netflix](http://www.cavort.org/tag/netflix/)<br />
 </div>

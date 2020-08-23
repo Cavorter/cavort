@@ -8,7 +8,7 @@ categories:
 - Restaurants
 
 ---
-<a href="http://www.citypages.com/databank/23/1122/article10447.asp">Dara's new column</a> has a bit of a zinger about the possible new Hooter's in Block E:
+[Dara's new column](http://www.citypages.com/databank/23/1122/article10447.asp) has a bit of a zinger about the possible new Hooter's in Block E:
 
 > "Yes, there may be hope for downtown. True, non-inebriated mainstays like Chez Bananas and the New French might have left, and Hooters might be fast on its way in the coming Block E development - oh no! I feel a rant coming on - can't resist.
 

@@ -9,7 +9,7 @@ tags:
  - PowerShell
  - Where
 ---
-One of the lesser known features of PowerShell are some "magic" methods that get added to most (all?) collection objects that replace the slower Where-Object and ForEach-Object cmdlets with basically the same functionality. They're considered magic because they aren't well documented even years after they were introduced. (<a href="http://www.powershellmagazine.com/2014/10/22/foreach-and-where-magic-methods/">Thank goodness for bloggers</a>) I've used ForEach quite a bit, but often forget about it's Where counterpart and apparently had never actually done much with it until today when I ran into a weird issue where I couldn't set the value of a property on a returned object.
+One of the lesser known features of PowerShell are some "magic" methods that get added to most (all?) collection objects that replace the slower Where-Object and ForEach-Object cmdlets with basically the same functionality. They're considered magic because they aren't well documented even years after they were introduced. ([Thank goodness for bloggers](http://www.powershellmagazine.com/2014/10/22/foreach-and-where-magic-methods/)) I've used ForEach quite a bit, but often forget about it's Where counterpart and apparently had never actually done much with it until today when I ran into a weird issue where I couldn't set the value of a property on a returned object.
 
 The setup is a pretty classic needle-in-a-haystack problem where you have an array of objects and need to update a property on just one of them. Pretty classically you'd do something like this.
 

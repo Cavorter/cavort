@@ -10,7 +10,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:959d6695210329b67675911641057aff39b1c9d4'>
 
-<a href="http://resolute.livejournal.com">A friend</a> recently bought the Iron Man Disassembled tpb and <a href="http://resolute.livejournal.com/274096.html?thread=1258160#t1258160">I mentioned how I had thought it was one of the worst Iron Man stories in quite awhile</a>. Unfortunately when challenged for specifics I actually couldn't quite remember why, but I did remember the story leaving a bad taste in my mouth that was only fixed four issues into Warren Ellis rebooting the series not too long afterwards. So I borrowed her copy and figured out what I thought the problems were.
+[A friend](http://resolute.livejournal.com) recently bought the Iron Man Disassembled tpb and [I mentioned how I had thought it was one of the worst Iron Man stories in quite awhile](http://resolute.livejournal.com/274096.html?thread=1258160#t1258160). Unfortunately when challenged for specifics I actually couldn't quite remember why, but I did remember the story leaving a bad taste in my mouth that was only fixed four issues into Warren Ellis rebooting the series not too long afterwards. So I borrowed her copy and figured out what I thought the problems were.
 
 I think I should preface this by saying a few things about what I think about Iron Man. As some people who know me already know, I have a deep and abiding enjoyment of Marvel's team book, The Avengers. I got hooked with issue #31 of West Coast Avengers (I should really write something someday about that particular issue) and have since managed to assemble (heh) a great majority of a full run of issues of the main Avengers and probably close to 98% of the spin-offs and related titles. But the solo books for a lot of the characters have not really been nearly as interesting to me. I think it mostly has to do with enjoying the interplay between multiple important characters in a story rather than focusing on a primary hero and their entourage. That said I have significant runs of both Captain America and Iron Man and at various times have even been a regular reader of both series but it has always been easy for me to drop the titles when they get stupid. Just to pull out a random example: I have never, ever, ever seen an Iron Man story involving time travel to the middle ages that was not entirely stupid.
 
@@ -50,5 +50,5 @@ At the other end of the spectrum there are actually worse things put out in the 
 </div>
 
 <div class="st-post-tags">
-Tags: <a href="http://www.cavort.org/tag/comic/" title="comic" rel="tag">comic</a>, <a href="http://www.cavort.org/tag/dinner/" title="dinner" rel="tag">dinner</a><br />
+Tags: [comic](http://www.cavort.org/tag/comic/), [dinner](http://www.cavort.org/tag/dinner/)<br />
 </div>

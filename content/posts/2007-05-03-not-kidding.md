@@ -13,6 +13,6 @@ categories:
 Words I never would have thought being strung together, much less to describe an actual physical product:
 <blockquote>
 
-<a href="http://www.bevnet.com/reviews/1in3trinity/">1in3Trinity is the first & only Christian Faith Based Energy Drink.</a>
+[1in3Trinity is the first & only Christian Faith Based Energy Drink.](http://www.bevnet.com/reviews/1in3trinity/)
 
 </blockquote>

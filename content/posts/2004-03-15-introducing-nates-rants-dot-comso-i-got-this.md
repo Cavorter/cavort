@@ -12,7 +12,7 @@ categories:
 ---
 <div class='microid-http+http:sha1:6c23de54825a2a4fefc61c0c8f714f41b1fc93ce'>
   
-    Introducing <a href="http://www.natesrants.com">Nate's Rants dot com</a>
+    Introducing [Nate's Rants dot com](http://www.natesrants.com)
   
   
   
@@ -33,7 +33,7 @@ Bitch</pre>
   
   
   
-    So, to <a href="mailto:&#115;&#105;&#112;&#104;&#117;&#110;&#64;&#101;&#97;&#114;&#116;&#104;&#108;&#105;&#110;&#107;&#46;&#110;&#101;&#116;">&#115;&#105;&#112;&#104;&#117;&#110;&#64;&#101;&#97;&#114;&#116;&#104;&#108;&#105;&#110;&#107;&#46;&#110;&#101;&#116;</a>: You are such an idiot. Just to make commentary on how much of an idiot you are, I registered natesrants.com just to piss you off more. The particular page you ran across titled Nate's Rants has been around since at least 1998 and your <a href="http://home.earthlink.net/~siphun/">pissant whining</a> (which aren't even as readable as my <a href="/nate/rants.html">pissant whining</a>) isn't even maintained well enough to call a site. Here's a thought: Maybe you should spend more time worrying about whether your site looks like complete and utter crap or not. (And this from someone who's site does not look particularly good)
+    So, to [&#115;&#105;&#112;&#104;&#117;&#110;&#64;&#101;&#97;&#114;&#116;&#104;&#108;&#105;&#110;&#107;&#46;&#110;&#101;&#116;](mailto:&#115;&#105;&#112;&#104;&#117;&#110;&#64;&#101;&#97;&#114;&#116;&#104;&#108;&#105;&#110;&#107;&#46;&#110;&#101;&#116;): You are such an idiot. Just to make commentary on how much of an idiot you are, I registered natesrants.com just to piss you off more. The particular page you ran across titled Nate's Rants has been around since at least 1998 and your [pissant whining](http://home.earthlink.net/~siphun/) (which aren't even as readable as my [pissant whining](/nate/rants.html)) isn't even maintained well enough to call a site. Here's a thought: Maybe you should spend more time worrying about whether your site looks like complete and utter crap or not. (And this from someone who's site does not look particularly good)
   
   
   

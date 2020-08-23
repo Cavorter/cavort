@@ -10,4 +10,4 @@ tags:
 - tech
 - tivo
 ---
-<a href="http://www.tivocommunity.com/tivo-vb/showthread.php?s=&#038;threadid=112907">More cool Home Media Option tricks: Current weather/radar</a>
+[More cool Home Media Option tricks: Current weather/radar](http://www.tivocommunity.com/tivo-vb/showthread.php?s=&#038;threadid=112907)

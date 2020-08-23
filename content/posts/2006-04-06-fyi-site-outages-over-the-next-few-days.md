@@ -10,4 +10,4 @@ tags:
   - web hosting
   - announcements
 ---
-In case anyone is curious, there are likely to be some outages over the next couple of days as I do some work on the back end of cavort.org. It shouldn't effect <a href="http://www.cavort.org/l-space">L-Space</a> but will likely effect everything else I've got hosted on this box while I mess around with the sites and the database.
+In case anyone is curious, there are likely to be some outages over the next couple of days as I do some work on the back end of cavort.org. It shouldn't effect [L-Space](http://www.cavort.org/l-space) but will likely effect everything else I've got hosted on this box while I mess around with the sites and the database.

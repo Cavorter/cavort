@@ -90,11 +90,11 @@ categories:
   </table>
   
   
-    As I was reading through the morning haul in my <a href="http://www.google.com/reader">feed reader</a> I ran across a link to a new wiki called <a href="http://wikicars.org">WikiCars</a> and ran across their list of the top <a href="http://wikicars.org/en/High_Mileage_Vehicles">high mileage cars</a> and noticed that they didn't have the VW TDI vehicles listed, and went ahead and did what any good wiki browser should do and added them after creating an account.
+    As I was reading through the morning haul in my [feed reader](http://www.google.com/reader) I ran across a link to a new wiki called [WikiCars](http://wikicars.org) and ran across their list of the top [high mileage cars](http://wikicars.org/en/High_Mileage_Vehicles) and noticed that they didn't have the VW TDI vehicles listed, and went ahead and did what any good wiki browser should do and added them after creating an account.
   
   
   
-    That site howerver led me on to <a href="http://fueleconomy.gov">http://fueleconomy.gov</a> site, which I seem to end up browsing through an awful lot where I found something I hadn't seen before: a pretty decent <a href="https://www.fueleconomy.gov/mpg">online mileage tracking application</a>! My only complaint with it so far is that it doesn't allow nearly as much customization as my spreadsheet, but the big advantage is that you can share your data with other users on the site so that on the next update cycle, you should see a "MN" in the current <a href="https://www.fueleconomy.gov/mpg/MPG.do?action=mpgData&#038;vehicleID=18610&#038;details=on&#038;browser=true">shared mileage info for 2003 VW Golf TDI (manual trans)</a> on the site.
+    That site howerver led me on to [http://fueleconomy.gov](http://fueleconomy.gov) site, which I seem to end up browsing through an awful lot where I found something I hadn't seen before: a pretty decent [online mileage tracking application](https://www.fueleconomy.gov/mpg)! My only complaint with it so far is that it doesn't allow nearly as much customization as my spreadsheet, but the big advantage is that you can share your data with other users on the site so that on the next update cycle, you should see a "MN" in the current [shared mileage info for 2003 VW Golf TDI (manual trans)](https://www.fueleconomy.gov/mpg/MPG.do?action=mpgData&#038;vehicleID=18610&#038;details=on&#038;browser=true) on the site.
   
   
   
@@ -103,5 +103,5 @@ categories:
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/friends/" title="friends" rel="tag">friends</a>, <a href="http://www.cavort.org/tag/golf/" title="Golf" rel="tag">Golf</a>, <a href="http://www.cavort.org/tag/tdi/" title="TDi" rel="tag">TDi</a><br />
+  Tags: [friends](http://www.cavort.org/tag/friends/), [Golf](http://www.cavort.org/tag/golf/), [TDi](http://www.cavort.org/tag/tdi/)<br />
 </div>

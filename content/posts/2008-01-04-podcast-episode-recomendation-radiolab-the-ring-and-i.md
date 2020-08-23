@@ -13,7 +13,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:c21abf66f4d142550785a458e74726b9d6215a7b'>
 
-I listened to <a href="http://www.wnyc.org/shows/radiolab/">Radio Lab</a>'s episode <a href="http://www.wnyc.org/shows/radiolab/episodes/2008/01/01">"The Ring and I"</a> over lunch today. It's all about Wagner's Ring Cycle and it was really in a lot of ways a completely eye opening listen.
+I listened to [Radio Lab](http://www.wnyc.org/shows/radiolab/)'s episode ["The Ring and I"](http://www.wnyc.org/shows/radiolab/episodes/2008/01/01) over lunch today. It's all about Wagner's Ring Cycle and it was really in a lot of ways a completely eye opening listen.
 
 I really like classical/orchestral music but I have a really hard time listening to opera. Actually, I seem to just naturally be pre-disposed to like instrumental music much more than vocal music but while I quite like A Capella music in my personal scale of appreciation of vocal music, opera is somewhere near the bottom. Because of that there is actually quite a bit of really big important pieces of music that I've never heard because I can't quite seem to listen to it.
 
@@ -26,5 +26,5 @@ Now I still haven't heard or seen any of Wagner's operas, but I really feel like
 </div>
 
 <div class="st-post-tags">
-Tags: <a href="http://www.cavort.org/tag/classical/" title="classical" rel="tag">classical</a>, <a href="http://www.cavort.org/tag/lunch/" title="lunch" rel="tag">lunch</a>, <a href="http://www.cavort.org/tag/music/" title="Music" rel="tag">Music</a>, <a href="http://www.cavort.org/tag/podcast/" title="podcast" rel="tag">podcast</a>, <a href="http://www.cavort.org/tag/radiolab/" title="RadioLab" rel="tag">RadioLab</a>, <a href="http://www.cavort.org/tag/recomendation/" title="recomendation" rel="tag">recomendation</a>, <a href="http://www.cavort.org/tag/wagner/" title="Wagner" rel="tag">Wagner</a><br />
+Tags: [classical](http://www.cavort.org/tag/classical/), [lunch](http://www.cavort.org/tag/lunch/), [Music](http://www.cavort.org/tag/music/), [podcast](http://www.cavort.org/tag/podcast/), [RadioLab](http://www.cavort.org/tag/radiolab/), [recomendation](http://www.cavort.org/tag/recomendation/), [Wagner](http://www.cavort.org/tag/wagner/)<br />
 </div>

@@ -8,4 +8,4 @@ categories:
 - General
 
 ---
-Dara Moskowitz has put into words what I've been trying to for the past few weeks. <a href="http://www.citypages.com/databank/23/1150/article10962.asp">Read it here</a>.
+Dara Moskowitz has put into words what I've been trying to for the past few weeks. [Read it here](http://www.citypages.com/databank/23/1150/article10962.asp).

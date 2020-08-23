@@ -10,4 +10,4 @@ tags:
   - World of Warcraft
   - links
 ---
-OMG - The best development change that I've heard of yet for WoW: <a href="http://www.worldofwarcraft.com/info/underdev/">Keyrings!</a>
+OMG - The best development change that I've heard of yet for WoW: [Keyrings!](http://www.worldofwarcraft.com/info/underdev/)

@@ -10,4 +10,4 @@ tags:
   - tech
   - links
 ---
-Just read a <a href="http://blogs.msdn.com/michkap/archive/2005/09/17/469941.aspx">really cool article</a> about why a backslash isn't a backslash in Korean and Japanese versions of Windows.
+Just read a [really cool article](http://blogs.msdn.com/michkap/archive/2005/09/17/469941.aspx) about why a backslash isn't a backslash in Korean and Japanese versions of Windows.

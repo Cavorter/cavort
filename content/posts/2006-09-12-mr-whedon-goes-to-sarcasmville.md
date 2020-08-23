@@ -10,5 +10,5 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:00cedd02b1f47a44f385f89f0fd42eed3e91801a'>
   
-    It appears that <a href="http://blog.newsarama.com/2006/09/12/mindy-owens-is-crying-about-now/">Mr Whedon has very big plans indeed for Runaways</a>. I think I'm looking forward to the Crisis on Inifinite Molly's storyline.
+    It appears that [Mr Whedon has very big plans indeed for Runaways](http://blog.newsarama.com/2006/09/12/mindy-owens-is-crying-about-now/). I think I'm looking forward to the Crisis on Inifinite Molly's storyline.
   

@@ -18,7 +18,7 @@ Podcast support also is very well executed. The v2 software was able to use my e
 
 Oh, and the software is very, very pretty. No really, it's quite nice to look at which is a rarity.
 
-<strong>Update:</strong> I can't believe I forgot to link to <a href="http://social.zune.net/member/Cavorter">my profile page</a>!
+<strong>Update:</strong> I can't believe I forgot to link to [my profile page](http://social.zune.net/member/Cavorter)!
 
 </div>
 

@@ -11,6 +11,6 @@ tags:
   - opera
   - web browsers
 ---
-<a href="http://www.opera.com">Opera</a> is now available completely free.
+[Opera](http://www.opera.com) is now available completely free.
 
 I have no idea how they expect to remain in business.

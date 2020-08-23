@@ -10,5 +10,5 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:c9e190b0ac77032411b386a1206557366b69919c'>
   
-    Google has a booth at the big Star Trek convention in Las Vegas this weekend. I found out from <a href="http://googleblog.blogspot.com/2006/08/stardate-081706.html" target="_blank">this somewhat entertaining post</a> on the official Google blog. It's just sort of funny to think of a corporation the size of Google going out of their way to point out how high their geek quotient is.
+    Google has a booth at the big Star Trek convention in Las Vegas this weekend. I found out from [this somewhat entertaining post](http://googleblog.blogspot.com/2006/08/stardate-081706.html) on the official Google blog. It's just sort of funny to think of a corporation the size of Google going out of their way to point out how high their geek quotient is.
   

@@ -10,9 +10,9 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:0807db6acbf0bbcecab4f244809b01af8f4ba81a'>
   
-    Just saw on BevNet that <a href="http://drinkgus.com/index.html" target="_blank">GUS</a> has a new flavor: Dry Pomegranate
+    Just saw on BevNet that [GUS](http://drinkgus.com/index.html) has a new flavor: Dry Pomegranate
   
   
   
-    Given their other great flavors, and <a href="http://www.bevnet.com/reviews/gus/" target="_blank">the relatively favorable review on BevNet</a>, I hope to see it relatively soon at the local Cost Plus World Market locations.
+    Given their other great flavors, and [the relatively favorable review on BevNet](http://www.bevnet.com/reviews/gus/), I hope to see it relatively soon at the local Cost Plus World Market locations.
   

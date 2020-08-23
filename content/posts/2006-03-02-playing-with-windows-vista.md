@@ -13,7 +13,7 @@ tags:
   - media center
   - beta
 ---
-So I've started to play with <a href="http://www.microsoft.com/windowsvista/default.aspx">Windows Vista</a> Beta 2. I've got a machine at work (dedicated but sucky integrated graphics) and a machine at home (dual-booting my primary gaming system with XP MCE 2005) and so far the experience has been a pretty good one.
+So I've started to play with [Windows Vista](http://www.microsoft.com/windowsvista/default.aspx) Beta 2. I've got a machine at work (dedicated but sucky integrated graphics) and a machine at home (dual-booting my primary gaming system with XP MCE 2005) and so far the experience has been a pretty good one.
 
 I had some initial trouble with the machine at work and ended up doing a whole bunch of memory swaps to finally get stable and usable memory in the machine. Still, I only have 512MB right now and so it's running pretty slowly. Setup would basically not run with only 256MB, which is about to be expected. With the integrated Intel 815 graphics chipset the graphics really are pretty simple. Not quite the big difference that I had heard about, just slightly different from XP. I didn't get to see what people were talking about until I loaded it up at home.
 

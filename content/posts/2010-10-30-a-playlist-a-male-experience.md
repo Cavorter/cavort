@@ -14,7 +14,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:c6a6a1a111f56f67cd708958b95577161392f799'>
 
-For those who do not know the details, my living situation is slightly non-standard. I live with my female partner (Generally referred to as "J"), J's female partner <a href="http://sigridellis.wordpress.com/">Sigrid</a>, and their two kids M and K. (I borrowed the naming system from Sig since it is simple and elegant.) Mostly my interactions with the kids are limited to a slightly ill-defined sort of live-in uncle relationship as I am not one of their parents. Primarily I only say something about their behavior when it's really egregious and J and Sig aren't close enough to do anything about it quickly, but I also get to corrupt their young minds with all sorts of silly ideas as long as I think it won't get the three of us in trouble.
+For those who do not know the details, my living situation is slightly non-standard. I live with my female partner (Generally referred to as "J"), J's female partner [Sigrid](http://sigridellis.wordpress.com/), and their two kids M and K. (I borrowed the naming system from Sig since it is simple and elegant.) Mostly my interactions with the kids are limited to a slightly ill-defined sort of live-in uncle relationship as I am not one of their parents. Primarily I only say something about their behavior when it's really egregious and J and Sig aren't close enough to do anything about it quickly, but I also get to corrupt their young minds with all sorts of silly ideas as long as I think it won't get the three of us in trouble.
 
 Anyway, as with most people, music is played while driving. J has an interesting but somewhat limited palette for music but Sig tends to be a bit more catholic in her tastes (note the small 'c') and so exposes the kids to all sorts of stuff over time. The other day the Talking Heads "Once In A Lifetime" was heard and the kids really liked it. Now Sig doesn't have a lot of Talking Heads, and other then that and maybe a couple of other tracks isn't particularly interesting in looking much more into them so she asked me if I had a copy that I could burn to a disc for the kids so they could listen to it in the playroom. Oh, and maybe some other stuff too if I wanted while I was at it. Maybe some male stuff. Sort of. The conversation was both simpler and more complex then that as it was between two people who have been friends for years and living in the same space for just over a year.
 
@@ -23,52 +23,52 @@ As with just about everything that I enjoy, I am primarily a dilettante when it 
 Starting with "Once In a Lifetime" presents quite a bit of opportunity to go in any number of directions, but the one that really caught my attention was the aspects of dealing with modern masculinity and social roles for men and after spending a little time digging through my music collection it was pretty clear that it's a pretty universal sort of theme.
 <ol>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=Talking+Heads+Once+In+a+Lifetime">Once In a Lifetime</a> - <a href="http://en.wikipedia.org/wiki/Talking_Heads">Talking Heads</a> - Popular Favorites: 1976-1992/Sand In the Vaseline
+[Once In a Lifetime](http://www.bing.com/music/songs/search?q=Talking+Heads+Once+In+a+Lifetime) - [Talking Heads](http://en.wikipedia.org/wiki/Talking_Heads) - Popular Favorites: 1976-1992/Sand In the Vaseline
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=Girlyman&#038;go=&#038;form=DTPMUS">On The Air</a> - <a href="http://www.girlyman.com/">Girlyman</a> - Little Star
+[On The Air](http://www.bing.com/music/songs/search?q=Girlyman&#038;go=&#038;form=DTPMUS) - [Girlyman](http://www.girlyman.com/) - Little Star
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=Fountains+of+Wayne+All+Kinds+of+Time">All Kinds of Time</a> - <a href="http://www.fountainsofwayne.com/">Fountains of Wayne</a> - Welcome Interstate Managers
+[All Kinds of Time](http://www.bing.com/music/songs/search?q=Fountains+of+Wayne+All+Kinds+of+Time) - [Fountains of Wayne](http://www.fountainsofwayne.com/) - Welcome Interstate Managers
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=mighty+mighty+bosstones+Jump+Through+The+Hoops">Jump Through the Hoops</a> - <a href=http://www.bosstonesmusic.com">Mighty Mighty Bosstones</a> - Question the Answers
+[Jump Through the Hoops](http://www.bing.com/music/songs/search?q=mighty+mighty+bosstones+Jump+Through+The+Hoops) - <a href=http://www.bosstonesmusic.com">Mighty Mighty Bosstones</a> - Question the Answers
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=daft+punk+harder+better+faster+stronger">Harder Better Faster Stronger</a> - <a href="http://www.daftpunk.com">Daft Punk</a> - Discovery
+[Harder Better Faster Stronger](http://www.bing.com/music/songs/search?q=daft+punk+harder+better+faster+stronger) - [Daft Punk](http://www.daftpunk.com) - Discovery
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=linkin+park+pushing+me+away">Pushing Me Away</a> - <a href="www.linkinpark.com">Linkin Park</a> - Hybrid Theory
+[Pushing Me Away](http://www.bing.com/music/songs/search?q=linkin+park+pushing+me+away) - [Linkin Park](www.linkinpark.com) - Hybrid Theory
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=rem+losing+my+religion">Losing My Religion</a> - <a href="http://www.remhq.com">R.E.M.</a> - Out of Time
+[Losing My Religion](http://www.bing.com/music/songs/search?q=rem+losing+my+religion) - [R.E.M.](http://www.remhq.com) - Out of Time
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=Midnight+oil+my+country">My Country</a> - <a href="http://www.midnightoil.com">Midnight Oil</a> - Earth and Sun and Moon
+[My Country](http://www.bing.com/music/songs/search?q=Midnight+oil+my+country) - [Midnight Oil](http://www.midnightoil.com) - Earth and Sun and Moon
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=Sufjan+Stevens+chicago">Chicago</a> - <a href="http://www.sufjan.com">Sufjan Stevens</a> - Illinoise
+[Chicago](http://www.bing.com/music/songs/search?q=Sufjan+Stevens+chicago) - [Sufjan Stevens](http://www.sufjan.com) - Illinoise
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=pink+floyd+what+do+you+want+from+me">What Do You Want From Me</a> - <a href="www.pinkfloyd.com">Pink Floyd</a> - The Division Bell
+[What Do You Want From Me](http://www.bing.com/music/songs/search?q=pink+floyd+what+do+you+want+from+me) - [Pink Floyd](www.pinkfloyd.com) - The Division Bell
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=Tears+for+Fears+Shout">Shout</a> - <a href="http://en.wikipedia.org/wiki/Tears_for_Fears">Tears for Fears</a> - Songs From the Big Chair
+[Shout](http://www.bing.com/music/songs/search?q=Tears+for+Fears+Shout) - [Tears for Fears](http://en.wikipedia.org/wiki/Tears_for_Fears) - Songs From the Big Chair
 </li>
 <li>
-Let's Go Crazy (LP Version) - <a href="http://en.wikipedia.org/wiki/Prince_(musician)">Prince</a> - Purple Rain
+Let's Go Crazy (LP Version) - [Prince](http://en.wikipedia.org/wiki/Prince_(musician)) - Purple Rain
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=Boys+Don't+Cry+I+Wanna+Be+a+cowboy">I Wanna Be a Cowboy</a> - <a href="http://www.boysdontcry.net">Boys Don't Cry</a> - Retro Lunchbox: Squeeze the Cheese
+[I Wanna Be a Cowboy](http://www.bing.com/music/songs/search?q=Boys+Don't+Cry+I+Wanna+Be+a+cowboy) - [Boys Don't Cry](http://www.boysdontcry.net) - Retro Lunchbox: Squeeze the Cheese
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=Ben+Folds+Five+Army">Army</a> - <a href="http://www.benfoldsfive.com">Ben Folds Five</a> - The Unauthorized Biography Of Reinhold Messner
+[Army](http://www.bing.com/music/songs/search?q=Ben+Folds+Five+Army) - [Ben Folds Five](http://www.benfoldsfive.com) - The Unauthorized Biography Of Reinhold Messner
 </li>
 <li>
-'64 AKA Go - <a href="http://www.lemonjelly.ky">Lemon Jelly</a> - '64-'95
+'64 AKA Go - [Lemon Jelly](http://www.lemonjelly.ky) - '64-'95
 </li>
 <li>
-<a href="http://www.bing.com/music/songs/search?q=Peter+Mayer+blue+boat+home+earth+town+square">Blue Boat Home</a> - <a href="http://www.petermayer.net">Peter Mayer</a> - Earth Town Square
+[Blue Boat Home](http://www.bing.com/music/songs/search?q=Peter+Mayer+blue+boat+home+earth+town+square) - [Peter Mayer](http://www.petermayer.net) - Earth Town Square
 </li>
 </ol>
 The initial version of the playlist was about four hours long, but I was able to cut it down to under an hour and a half pretty quickly by stripping it down to one track per artist. After a few arrangements for flow and tempo a narrative started to develop, and eventually ended up in this order.
@@ -94,5 +94,5 @@ I'd love to hear people's thoughts on the mix or the narrative or both. I don't 
 </div>
 
 <div class="st-post-tags">
-Tags: <a href="http://www.cavort.org/tag/masculinity/" title="masculinity" rel="tag">masculinity</a>, <a href="http://www.cavort.org/tag/music/" title="Music" rel="tag">Music</a>, <a href="http://www.cavort.org/tag/playlist/" title="playlist" rel="tag">playlist</a><br />
+Tags: [masculinity](http://www.cavort.org/tag/masculinity/), [Music](http://www.cavort.org/tag/music/), [playlist](http://www.cavort.org/tag/playlist/)<br />
 </div>

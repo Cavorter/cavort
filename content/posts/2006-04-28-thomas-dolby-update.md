@@ -14,4 +14,4 @@ He's coming to the twin cities!
 
 Earlier this week a friend mentioned that he had added a date in St Paul for May 21st. Earlier in the week I still couldn't buy tickets so I'm hoping I can fix that this weekend.
 
-The show is going to be at <a href="http://www.station-4.com">Station 4</a> in lowertown.
+The show is going to be at [Station 4](http://www.station-4.com) in lowertown.

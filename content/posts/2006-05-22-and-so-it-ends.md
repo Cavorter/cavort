@@ -10,4 +10,4 @@ tags:
   - L-Space
   - Personal
 ---
-I <a href="http://www.cavort.org/?p=229">posted last week</a> that I was shutting down <a href="http://www.cavort.org/?page_id=157">L-Space</a>, and tonight was that night. It had a good long run, and I'm proud of the legacy. Good luck to all my old users where ever they end up.
+I [posted last week](http://www.cavort.org/?p=229) that I was shutting down [L-Space](http://www.cavort.org/?page_id=157), and tonight was that night. It had a good long run, and I'm proud of the legacy. Good luck to all my old users where ever they end up.

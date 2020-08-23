@@ -13,6 +13,6 @@ tags:
   - world of warcraft
   - mmo
 ---
-If you have never played an MMORPG like <a href="http://everquest.com">Everquest</a>, <a href="http://ultimaonline.com">Ultima Online</a>, or <a href="http://WorldofWarcraft.com">World of Warcraft</a>, don't. Spare yourself.
+If you have never played an MMORPG like [Everquest](http://everquest.com), [Ultima Online](http://ultimaonline.com), or [World of Warcraft](http://WorldofWarcraft.com), don't. Spare yourself.
 
 I've been playing a wee bit too much World of Warcraft lately, but I'm enjoying it quite a bit. I'm even quite excited about the changes coming up in the next patch, as they effect my main character quite a bit. Woot!

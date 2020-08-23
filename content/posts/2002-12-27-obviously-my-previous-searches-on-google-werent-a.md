@@ -12,4 +12,4 @@ tags:
 ---
 Obviously my previous searches on google weren't as good as the ones I'm using today.
 
-<a href="http://www.geocities.com/NapaValley/6670/">Another link</a> that is quite good for content, though the navigation needs some work.
+[Another link](http://www.geocities.com/NapaValley/6670/) that is quite good for content, though the navigation needs some work.

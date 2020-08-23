@@ -10,7 +10,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:22ee94a08661aac5508a584a2bef4cef81f8a37e'>
   
-    The Twin Cities <a href="http://www.hotsummerjazz.com/">Hot Summer Jazz Festival</a> starts with a bang this weekend in St Paul at Mears Park. I'll be in the northern woods of Wisconsin, but you can bet that I won't be missing out on next weekend's performances in downtown Minneapolis, and possible some of the other events during the week.
+    The Twin Cities [Hot Summer Jazz Festival](http://www.hotsummerjazz.com/) starts with a bang this weekend in St Paul at Mears Park. I'll be in the northern woods of Wisconsin, but you can bet that I won't be missing out on next weekend's performances in downtown Minneapolis, and possible some of the other events during the week.
   
   
   
@@ -23,5 +23,5 @@ categories:
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/music/" title="Music" rel="tag">Music</a>, <a href="http://www.cavort.org/tag/pop/" title="pop" rel="tag">pop</a><br />
+  Tags: [Music](http://www.cavort.org/tag/music/), [pop](http://www.cavort.org/tag/pop/)<br />
 </div>

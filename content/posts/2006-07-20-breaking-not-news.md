@@ -10,7 +10,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:5e60fbc3550aff18e3310a01c92ee1c14bd131f6'>
   
-    WCCO has a <a href="http://www.wcco.com/video/?id=&#49;&#56;&#52;&#54;&#53;&#64;&#119;&#99;&#99;&#111;&#46;&#100;&#97;&#121;&#112;&#111;&#114;&#116;&#46;&#99;&#111;&#109;">particularly inane bit video about E85</a> that I just want to through up my hands and yell "What the Fuck?" about. Essentially the things that you "need to know", as their flashy banner calls it, is that the ethanol companies and corn growers are getting a big boost from the push to use E85 and, though extremely badly presented, the percentage of ethanol included in regular unleaded in Minnesota. The particular points are that the ethanol producers are getting a pretty decent tax subsidy and that the corn growers are the ones putting out the ad.
+    WCCO has a [particularly inane bit video about E85](http://www.wcco.com/video/?id=&#49;&#56;&#52;&#54;&#53;&#64;&#119;&#99;&#99;&#111;&#46;&#100;&#97;&#121;&#112;&#111;&#114;&#116;&#46;&#99;&#111;&#109;) that I just want to through up my hands and yell "What the Fuck?" about. Essentially the things that you "need to know", as their flashy banner calls it, is that the ethanol companies and corn growers are getting a big boost from the push to use E85 and, though extremely badly presented, the percentage of ethanol included in regular unleaded in Minnesota. The particular points are that the ethanol producers are getting a pretty decent tax subsidy and that the corn growers are the ones putting out the ad.
   
   
   
@@ -23,5 +23,5 @@ categories:
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/video/" title="Video" rel="tag">Video</a><br />
+  Tags: [Video](http://www.cavort.org/tag/video/)<br />
 </div>

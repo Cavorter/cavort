@@ -10,11 +10,11 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:5165556c02babce67fc44c5cc6abfdc975cdf113'>
   
-    In the online world handles and usernames are a sometimes necessity that provide a certain small amount of obfuscation along with an often smaller string to remember a particular person. Back in the early 90's when I first started seriously to get into the BBS community I went by "<a href="http://catb.org/jargon/html/L/line-noise.html">Line Noise</a>". At the time I thought it was perversely cool to have a handle that represented something that was an irritant to just about everyone.
+    In the online world handles and usernames are a sometimes necessity that provide a certain small amount of obfuscation along with an often smaller string to remember a particular person. Back in the early 90's when I first started seriously to get into the BBS community I went by "[Line Noise](http://catb.org/jargon/html/L/line-noise.html)". At the time I thought it was perversely cool to have a handle that represented something that was an irritant to just about everyone.
   
   
   
-    Near the end of high school I got into MUDs (Actually, I think it was technically a MUSH) and found that Line Noise didn't fit the usual fantasy-land setting and had to come up with something new. After a few false starts (most of which I don't even remember, though I can say that they were without exception pretty stupid) I hit upon "<a href="http://en.wikipedia.org/wiki/Glyph">Glyph</a>". The idea actually came to me while I was designing a new character that was a stereotypical old dwarf. Small, brown, and heavily wrinkled. At the time I thought it rather inspired to list the character's description as having a heavily lined and creased face that in some lights almost seemed to look like a long lost language, or at least something very similar. That handle has stuck with me for well over a decade at this point and has been just rarely enough used (and it helps being a relatively early adopter for a lot of sites and technologies) that most of the time I could use it and people would have a decent idea that it was me.
+    Near the end of high school I got into MUDs (Actually, I think it was technically a MUSH) and found that Line Noise didn't fit the usual fantasy-land setting and had to come up with something new. After a few false starts (most of which I don't even remember, though I can say that they were without exception pretty stupid) I hit upon "[Glyph](http://en.wikipedia.org/wiki/Glyph)". The idea actually came to me while I was designing a new character that was a stereotypical old dwarf. Small, brown, and heavily wrinkled. At the time I thought it rather inspired to list the character's description as having a heavily lined and creased face that in some lights almost seemed to look like a long lost language, or at least something very similar. That handle has stuck with me for well over a decade at this point and has been just rarely enough used (and it helps being a relatively early adopter for a lot of sites and technologies) that most of the time I could use it and people would have a decent idea that it was me.
   
   
   
@@ -27,5 +27,5 @@ categories:
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/community/" title="community" rel="tag">community</a><br />
+  Tags: [community](http://www.cavort.org/tag/community/)<br />
 </div>

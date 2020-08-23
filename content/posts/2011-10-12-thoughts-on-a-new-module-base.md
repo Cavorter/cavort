@@ -8,7 +8,7 @@ categories:
 - LEGO
 
 ---
-Ri Co Le Go on Flickr has proposed a new module base for Micropolis. (<a href="http://www.flickr.com/photos/ricolego/6232026762" target="_blank">Composite example</a> and <a href="http://www.flickr.com/photos/ricolego/6231507513" target="_blank">Building Instructions</a>)
+Ri Co Le Go on Flickr has proposed a new module base for Micropolis. ([Composite example](http://www.flickr.com/photos/ricolego/6232026762) and [Building Instructions](http://www.flickr.com/photos/ricolego/6231507513))
 
 I started working on a comment on the image with my reactions and analysis and it got really big very quickly, so I decided to move it here instead. Please be sure to look at those links and the associated comments first for better context.
 
@@ -33,7 +33,7 @@ Probably most importantly, we find being able to make quick changes by simply li
 </ol>
 The proposed change resolves being able to maintain a nice and even layout while still maintaining the ability to make easy changes. The implementation seems fairly straightforward as well since it can use pretty common parts.
 
-However I think my biggest concern is about part count for the base modules. These days my quarter block bases use exactly 14 parts at an average cost of $2.72 per base. (<a href="http://www.cavort.org/wp-content/uploads/2011/10/Micropolis_Module_Base_(Minimal).lxf">LDD File for reference</a>)
+However I think my biggest concern is about part count for the base modules. These days my quarter block bases use exactly 14 parts at an average cost of $2.72 per base. ([LDD File for reference](http://www.cavort.org/wp-content/uploads/2011/10/Micropolis_Module_Base_(Minimal).lxf))
 <table>
 <caption>Minimal Quarter Block Base Cost Breakdown</caption> 
 
@@ -171,7 +171,7 @@ $2.72
 </td>
 </tr>
 </table>
-I went ahead and threw together a really quick minimal implementation of the proposed module base and came up with 28 parts at an average cost of $2.28 per base. (<a href="http://www.cavort.org/wp-content/uploads/2011/10/Micropolis_Rico_Base_(Minimal).lxf">LDD File for reference</a>)
+I went ahead and threw together a really quick minimal implementation of the proposed module base and came up with 28 parts at an average cost of $2.28 per base. ([LDD File for reference](http://www.cavort.org/wp-content/uploads/2011/10/Micropolis_Rico_Base_(Minimal).lxf))
 <table>
 <caption>Minimal Proposed Quarter Block Base Cost Breakdown</caption> 
 
@@ -291,7 +291,7 @@ $2.28
 </td>
 </tr>
 </table>
-That did NOT include the cost of each of the H connectors which I came up with several different permutations for. The most sturdy using two 1&#215;4 Technic Bricks ($0.04) and a 2&#215;2 Modified Brick with 2 pins ($0.03), most common parts using two 1&#215;4 Bricks ($0.04) and one 2&#215;2 Brick ($0.03), and your proposal with four 2&#215;2 Corner Bricks ($0.06). If we used 1&#215;4 Tile ($0.07) on all three of those permutations the average cost comes out to $0.31 per connector. Supplying enough connectors for a large layout could become quite expensive and even for a medium layout could be slightly prohibitive. (<a href="http://www.cavort.org/wp-content/uploads/2011/10/Micropolis_Rico_Connector.lxf">LDD File for reference</a>)
+That did NOT include the cost of each of the H connectors which I came up with several different permutations for. The most sturdy using two 1&#215;4 Technic Bricks ($0.04) and a 2&#215;2 Modified Brick with 2 pins ($0.03), most common parts using two 1&#215;4 Bricks ($0.04) and one 2&#215;2 Brick ($0.03), and your proposal with four 2&#215;2 Corner Bricks ($0.06). If we used 1&#215;4 Tile ($0.07) on all three of those permutations the average cost comes out to $0.31 per connector. Supplying enough connectors for a large layout could become quite expensive and even for a medium layout could be slightly prohibitive. ([LDD File for reference](http://www.cavort.org/wp-content/uploads/2011/10/Micropolis_Rico_Connector.lxf))
 
 Still, if you figure an average of 2 H Connectors per module that does make the price difference $0.18, which isn't huge for the possible increase in functionality.
 

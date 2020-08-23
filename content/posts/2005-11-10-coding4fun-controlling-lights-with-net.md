@@ -11,4 +11,4 @@ tags:
   - links
   - X10
 ---
-Microsoft has a nice video tutorial on using Visual Studio 2005 to control some lights over X10. <a href="http://msdn.microsoft.com/coding4fun/diy/controlLights/default.aspx">Coding4Fun: Controlling Lights with .NET</a>
+Microsoft has a nice video tutorial on using Visual Studio 2005 to control some lights over X10. [Coding4Fun: Controlling Lights with .NET](http://msdn.microsoft.com/coding4fun/diy/controlLights/default.aspx)

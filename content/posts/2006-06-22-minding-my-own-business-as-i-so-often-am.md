@@ -10,7 +10,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:47cc0f19f2c2ed693a49fab28eff4b700c4bd4a0'>
   
-    I know of at least two people who will be interested in this site: <a href="http://amigofish.com/">AmigoFish</a>
+    I know of at least two people who will be interested in this site: [AmigoFish](http://amigofish.com/)
   
   
   
@@ -24,10 +24,10 @@ categories:
   </blockquote>
   
   
-    I haven't created an account for myself yet, or really done much more that just give it a cursory look, but I ran across a reference to it <a href="http://garrickvanburen.com/archive/abstruse-i-am">via an entry on a geographic BlogNeighbor's site</a> while doing research for something at work. It was sort of weird realizing that I recognized some things in his flickr stream just a bit too well.
+    I haven't created an account for myself yet, or really done much more that just give it a cursory look, but I ran across a reference to it [via an entry on a geographic BlogNeighbor's site](http://garrickvanburen.com/archive/abstruse-i-am) while doing research for something at work. It was sort of weird realizing that I recognized some things in his flickr stream just a bit too well.
   
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/video/" title="Video" rel="tag">Video</a><br />
+  Tags: [Video](http://www.cavort.org/tag/video/)<br />
 </div>

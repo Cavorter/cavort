@@ -13,6 +13,6 @@ tags:
 ---
 I have a great idea!
 
-Let's take a <a href="http://www.aim.com/">hugely popular service</a> on the net, <a href="http://developer.aim.com">produce an SDK for it</a> that finally lets external developers do things they have had to hack together for years, and then <a href="http://developer.aim.com/license.jsp">put restrictions in place</a> that entirely cancel the most useful purpose for creating an "open" service in the first place!
+Let's take a [hugely popular service](http://www.aim.com/) on the net, [produce an SDK for it](http://developer.aim.com) that finally lets external developers do things they have had to hack together for years, and then [put restrictions in place](http://developer.aim.com/license.jsp) that entirely cancel the most useful purpose for creating an "open" service in the first place!
 
 Great job AOL! You've successfully proved, once again, that you <em><strong>still just don't get the net</strong></em>.

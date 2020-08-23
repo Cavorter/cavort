@@ -12,5 +12,5 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:a0be39a8b47b202a1d09cf7af186a25d03473285'>
 
-I've gone ahead and <a href="http://www.cavort.org/take-my-stuff-please/">started the list of stuff that I'm getting rid of</a>. Let me know if you want any of it.
+I've gone ahead and [started the list of stuff that I'm getting rid of](http://www.cavort.org/take-my-stuff-please/). Let me know if you want any of it.
 

@@ -11,7 +11,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:f12cc359c7c07862d8d1326b9984e7e6a9bc0f4f'>
 
-Does anyone have any thoughts about <a href="http://www.gurulib.com">GuruLib</a>, <a href="http://www.shelfari.com">Shelfari</a>, and <a href="http://www.librarything.com">LibraryThing</a>?
+Does anyone have any thoughts about [GuruLib](http://www.gurulib.com), [Shelfari](http://www.shelfari.com), and [LibraryThing](http://www.librarything.com)?
 
 So far I think GuruLib has both the best feature (list books borrowed from a library using information pulled directly from the library's database) and the absolute worst interface. OMG does it suck.
 

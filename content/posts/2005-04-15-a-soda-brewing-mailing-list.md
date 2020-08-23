@@ -20,10 +20,10 @@ categories:
   
   
   
-    Anyway, if you want to participate in the very beginning of what I hope can be come yet another resource for soda brewers on the net, please take a look at <a href="http://groups-beta.google.com/group/Soda-Brewing">Google Groups Soda-Brewing</a>
+    Anyway, if you want to participate in the very beginning of what I hope can be come yet another resource for soda brewers on the net, please take a look at [Google Groups Soda-Brewing](http://groups-beta.google.com/group/Soda-Brewing)
   
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/brew/" title="brew" rel="tag">brew</a>, <a href="http://www.cavort.org/tag/brewing/" title="brewing" rel="tag">brewing</a>, <a href="http://www.cavort.org/tag/soda/" title="Soda" rel="tag">Soda</a><br />
+  Tags: [brew](http://www.cavort.org/tag/brew/), [brewing](http://www.cavort.org/tag/brewing/), [Soda](http://www.cavort.org/tag/soda/)<br />
 </div>

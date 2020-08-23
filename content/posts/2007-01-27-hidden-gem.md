@@ -10,7 +10,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:08bd3e2697f84f7a2619d82db028cc15a80609d6'>
   
-    <a target="_blank" href="http://amblypygid.livejournal.com">Amblypygid</a> and I just got back from taking the kids to see the <a target="_blank" href="http://www.firehallmuseum.org/">Firefighters Hall and Museum (IE Only)</a> in NE Mpls. One of the volunteers gave us an excellent guided tour showing off all of their ten antique and otherwise old fire trucks, spanning everything from hand carried and pumped to semi-modern diesel engines and all the equipment to go along with it. All of the equipment is restored and being kept in excellent condition.
+    [Amblypygid](http://amblypygid.livejournal.com) and I just got back from taking the kids to see the [Firefighters Hall and Museum (IE Only)](http://www.firehallmuseum.org/) in NE Mpls. One of the volunteers gave us an excellent guided tour showing off all of their ten antique and otherwise old fire trucks, spanning everything from hand carried and pumped to semi-modern diesel engines and all the equipment to go along with it. All of the equipment is restored and being kept in excellent condition.
   
   
   

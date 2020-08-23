@@ -11,7 +11,7 @@ tags:
 ---
 This is an attempt to journal my brewing activities as I attempt to homebrew drinkable (and hopefully even good tasting) root beer and other sodas.
 
-I had been thinking of trying this for a couple of years but had never actually gotten around to doing anything about it. That changed a couple of days ago when my sweetie Betsy gave me a copy of <a href="http://www.amazon.com/exec/obidos/tg/detail/-/1580170528/qid=1040998356/sr=8-1/ref=sr_8_1/103-5493990-8123067?v=glance&#038;s=books&#038;n=507846">"Homemade Rootbeer, Soda, and Pop" by Stephen Cresswell (ISBN: 1580170528)</a> for christmas.
+I had been thinking of trying this for a couple of years but had never actually gotten around to doing anything about it. That changed a couple of days ago when my sweetie Betsy gave me a copy of ["Homemade Rootbeer, Soda, and Pop" by Stephen Cresswell (ISBN: 1580170528)](http://www.amazon.com/exec/obidos/tg/detail/-/1580170528/qid=1040998356/sr=8-1/ref=sr_8_1/103-5493990-8123067?v=glance&#038;s=books&#038;n=507846) for christmas.
 
 I'm planning on posting as much detail as I can about my entire experience brewing so that I have a decent history of what worked, what did not, and how I got the results that I did.
 

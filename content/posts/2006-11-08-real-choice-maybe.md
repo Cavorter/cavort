@@ -10,5 +10,5 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:c2f08235863a00e9f36c38fa11b8406af980bd52'>
   
-    <a href="http://www2.co.hennepin.mn.us/elections/results/byrace?el=06GMNHEN&type=7&rid=1251">The IRV Ballot Initiative in Minneapolis passed!</a> Oh happy day!
+    [The IRV Ballot Initiative in Minneapolis passed!](http://www2.co.hennepin.mn.us/elections/results/byrace?el=06GMNHEN&type=7&rid=1251) Oh happy day!
   

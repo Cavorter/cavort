@@ -11,7 +11,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:4519d41e7f18a90ad97a086dc8d2083553b11804'>
   
-    I'm playing with a new music social network web toy right now called <a href="http://www.qloud.com" target="_blank">Qloud</a>. It's very similar to <a href="http://www.lastfm.com" target="_blank">Last.fm</a> which I have been playing with for a couple of years now, but in some ways the service might have a better outlook.
+    I'm playing with a new music social network web toy right now called [Qloud](http://www.qloud.com). It's very similar to [Last.fm](http://www.lastfm.com) which I have been playing with for a couple of years now, but in some ways the service might have a better outlook.
   
   
   
@@ -23,10 +23,10 @@ categories:
   
   
   
-    If you do decide to take a spin with it, sign up using <a href="http://www.qloud.com/register/cavorter" target="_blank">this link</a>&nbsp;and I get points for the referral.
+    If you do decide to take a spin with it, sign up using [this link](http://www.qloud.com/register/cavorter)&nbsp;and I get points for the referral.
   
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/album/" title="album" rel="tag">album</a>, <a href="http://www.cavort.org/tag/music/" title="Music" rel="tag">Music</a>, <a href="http://www.cavort.org/tag/social/" title="social" rel="tag">social</a><br />
+  Tags: [album](http://www.cavort.org/tag/album/), [Music](http://www.cavort.org/tag/music/), [social](http://www.cavort.org/tag/social/)<br />
 </div>

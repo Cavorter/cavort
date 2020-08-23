@@ -8,4 +8,4 @@ categories:
 - General
 
 ---
-<a href="http://www.startribune.com/stories/404/3055885.html">The reason that I really like reading Al Sicherman.</a>
+[The reason that I really like reading Al Sicherman.](http://www.startribune.com/stories/404/3055885.html)

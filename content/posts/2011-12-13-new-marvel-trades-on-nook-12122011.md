@@ -13,19 +13,19 @@ categories:
 <strong>New Marvel Comics Available on Nook 12/12/2011</strong>
 <ul>
 <li>
-<a href="http://www.barnesandnoble.com/w/mighty-avengers-volume-1-frank-cho/1013918578?ean=9780785170785" target="_blank">Mighty Avengers Volume 1: The Ultron Initiative</a>
+[Mighty Avengers Volume 1: The Ultron Initiative](http://www.barnesandnoble.com/w/mighty-avengers-volume-1-frank-cho/1013918578?ean=9780785170785)
 </li>
 <li>
-<a href="http://www.barnesandnoble.com/w/spider-man-dan-slott/1100059941?ean=9780785170983" target="_blank">Spider-Man: Big Time</a>
+[Spider-Man: Big Time](http://www.barnesandnoble.com/w/spider-man-dan-slott/1100059941?ean=9780785170983)
 </li>
 <li>
-<a href="http://www.barnesandnoble.com/w/spider-man-phil-jimenez/1026330591?ean=9780785171003" target="_blank">Spider-Man: Brand New Day, Volume 1</a>
+[Spider-Man: Brand New Day, Volume 1](http://www.barnesandnoble.com/w/spider-man-phil-jimenez/1026330591?ean=9780785171003)
 </li>
 <li>
-<a href="http://www.barnesandnoble.com/w/marvel-masterworks-jack-kirby/1102465678?ean=9780785170020" target="_blank">The Amazing Spider-Man Marvel Masterworks, Volume 1</a>
+[The Amazing Spider-Man Marvel Masterworks, Volume 1](http://www.barnesandnoble.com/w/marvel-masterworks-jack-kirby/1102465678?ean=9780785170020)
 </li>
 <li>
-<a href="http://www.barnesandnoble.com/w/the-avengers-marvel-masterworks-volume-1-jack-kirby/1107081151?ean=9780785170099" target="_blank">The Avengers Marvel Masterworks, Volume 1</a>
+[The Avengers Marvel Masterworks, Volume 1](http://www.barnesandnoble.com/w/the-avengers-marvel-masterworks-volume-1-jack-kirby/1107081151?ean=9780785170099)
 </li>
 </ul>
 The list for this week includes a couple of firsts for the the Nook releases. First and foremost it's the first 616 Spider-Man trades released (Ultimate Spider-Man vol 1 & 2 were much earlier) though it does show part of the problems in the release schedule by putting out books on either side of the One More Day special event without also publishing THAT story. Previous weeks have shown similar issues with the Civil War and Captain America assasination timeline and I expect that it will continue in that vein until someone can talk some sense to whatever poor intern got the job of getting this schedule together.

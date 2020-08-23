@@ -14,4 +14,4 @@ tags:
   - soda brewing
   - links
 ---
-Gizmodo has an interesting little tidbit about <a href="http://gizmodo.com/gadgets/food/programmable-soda-bottles-163016.php">Programmable Soda Bottles</a>. Really neat idea, but I bet the flavors are going to be horrible.
+Gizmodo has an interesting little tidbit about [Programmable Soda Bottles](http://gizmodo.com/gadgets/food/programmable-soda-bottles-163016.php). Really neat idea, but I bet the flavors are going to be horrible.

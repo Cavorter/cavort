@@ -7,4 +7,4 @@ short-url:
 categories:
 - General
 ---
-<a href="http://www.startribune.com/stories/404/2858058.html">Al Sicherman's latest column</a> has some very good commentary about the farce last week with David Blaine's "daring" 36 hour stand up act. I would link to other stuff about the pointless event, but that would be giving it some respect which I just cannot bear to do.
+[Al Sicherman's latest column](http://www.startribune.com/stories/404/2858058.html) has some very good commentary about the farce last week with David Blaine's "daring" 36 hour stand up act. I would link to other stuff about the pointless event, but that would be giving it some respect which I just cannot bear to do.

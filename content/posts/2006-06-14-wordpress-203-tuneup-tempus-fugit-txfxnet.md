@@ -10,5 +10,5 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:ac08bf1ee528c012baebdcd04ee01434cad1aae5'>
   
-    WordPress 2.0.3 has some kind of wacky issues, so I'm giving the <a href="http://txfx.net/code/wordpress/wordpress-203-tuneup/">WordPress 2.0.3 Tuneup plugin</a> a try. Hopefully it will fix a couple of those weird issues.
+    WordPress 2.0.3 has some kind of wacky issues, so I'm giving the [WordPress 2.0.3 Tuneup plugin](http://txfx.net/code/wordpress/wordpress-203-tuneup/) a try. Hopefully it will fix a couple of those weird issues.
   

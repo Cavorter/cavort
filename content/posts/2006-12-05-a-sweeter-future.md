@@ -10,14 +10,14 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:b8dbe90e3d7bcfec1e5d5e0f61d6c33912e7208e'>
   
-    Jones soda is <a href="http://seattlepi.nwsource.com/business/293972_jonessoda29.html">switching to cane sugar in 2007</a>!
+    Jones soda is [switching to cane sugar in 2007](http://seattlepi.nwsource.com/business/293972_jonessoda29.html)!
   
   
   
-    (Found on <a href="http://soda-pops.blogspot.com/2006/12/imagine-my-surprise-to-see-that-jones.html">The Soda Pop Blog</a>, who I don't always quite agree with but most of the relatively small group of people who are covering a topic I am highly interested in are generally worth reading.)
+    (Found on [The Soda Pop Blog](http://soda-pops.blogspot.com/2006/12/imagine-my-surprise-to-see-that-jones.html), who I don't always quite agree with but most of the relatively small group of people who are covering a topic I am highly interested in are generally worth reading.)
   
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/pop/" title="pop" rel="tag">pop</a>, <a href="http://www.cavort.org/tag/soda/" title="Soda" rel="tag">Soda</a><br />
+  Tags: [pop](http://www.cavort.org/tag/pop/), [Soda](http://www.cavort.org/tag/soda/)<br />
 </div>

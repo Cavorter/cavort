@@ -20,4 +20,4 @@ And life continues to be pretty good in general, which is always a nice thing.
 
 Auto Rally is becoming more interesting as I pay more attention to it. For example, Marcus Gronholm sewed up the world championship this past weekend in New Zealand when Richard Burns toasted his car. Caught the front left tire on an embankment and then went rolling for a couple hundred feet. No injuries, thank goodness, but with Colin McRae having done something similar the previous day it's all Gronholm from here on out.
 
-You can find more World Rally Championship coverage at the <a href="http://www.wrc.com">official WRC website</a>.
+You can find more World Rally Championship coverage at the [official WRC website](http://www.wrc.com).

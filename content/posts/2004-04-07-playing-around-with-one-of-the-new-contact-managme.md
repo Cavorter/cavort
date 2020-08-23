@@ -12,5 +12,5 @@ categories:
 ---
 <div class='microid-http+http:sha1:933cab91fb6a4659770f3b322e564e64961c473c'>
   
-    Playing around with one of the new contact managment services out there called <a href="http://minifile.com">miniFILE</a>. If anyone else is playing with it as well, here is my M-Code: M6599787
+    Playing around with one of the new contact managment services out there called [miniFILE](http://minifile.com). If anyone else is playing with it as well, here is my M-Code: M6599787
   

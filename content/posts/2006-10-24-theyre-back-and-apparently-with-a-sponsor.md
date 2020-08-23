@@ -10,15 +10,15 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:c78f0419bae45fb504f272fe9c8d16430afb70d4'>
   
-    First things: For anyone who missed it the few times it's made it's way around the web there is <a href="http://www.eepybird.com/dcm1.html" target="_blank">a very entertaining video</a> produced by EepyBird.com that replicates the (IIRC) Belagio fountain in Las Vegas with Diet Coke and Mentos.
+    First things: For anyone who missed it the few times it's made it's way around the web there is [a very entertaining video](http://www.eepybird.com/dcm1.html) produced by EepyBird.com that replicates the (IIRC) Belagio fountain in Las Vegas with Diet Coke and Mentos.
   
   
   
-    This morning in my inbox is their most recent newsletter mentioning that they're putting up their latest video this coming Monday (Oct 30, 2006) and like all good carnival barkers and priming the pump by posting <a href="http://www.eepybird.com/exp214-p.html" target="_blank">a teaser video</a>.
+    This morning in my inbox is their most recent newsletter mentioning that they're putting up their latest video this coming Monday (Oct 30, 2006) and like all good carnival barkers and priming the pump by posting [a teaser video](http://www.eepybird.com/exp214-p.html).
   
   
   
-    That, in and of itself, wasn't what I found most interesting. The interesting part is at the very tail end of the video where they are apparently getting some sort of sponsorship from <a href="http://coca-cola.com" target="_blank">The Coca-Cola Company</a>&nbsp;for some sort of <a href="http://www.coca-cola.com/challenge/index.html" target="_blank">"Poetry In Motion Challenge"</a> that could produce some very interesting entries that I'm looking forward to seeing.
+    That, in and of itself, wasn't what I found most interesting. The interesting part is at the very tail end of the video where they are apparently getting some sort of sponsorship from [The Coca-Cola Company](http://coca-cola.com)&nbsp;for some sort of ["Poetry In Motion Challenge"](http://www.coca-cola.com/challenge/index.html) that could produce some very interesting entries that I'm looking forward to seeing.
   
   
   
@@ -27,5 +27,5 @@ categories:
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/video/" title="Video" rel="tag">Video</a><br />
+  Tags: [Video](http://www.cavort.org/tag/video/)<br />
 </div>

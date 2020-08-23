@@ -10,4 +10,4 @@ tags:
 - tech
 - tivo
 ---
-<a href="http://www.tivocommunity.com/tivo-vb/showthread.php?s=&#038;threadid=110606">More specific information about streaming from a Tivo with Home Media Option.</a>
+[More specific information about streaming from a Tivo with Home Media Option.](http://www.tivocommunity.com/tivo-vb/showthread.php?s=&#038;threadid=110606)

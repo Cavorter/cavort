@@ -10,7 +10,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:50a3cb1f4ab7e9d1343e05b22797a65924d9f3aa'>
   
-    Gizmodo has an item about <a href="http://gizmodo.com/gadgets/gadgets/elecom-kscott-cd-pouch-dispenser-180985.php">Elecom K-Scott CD Pouch Dispensers</a>, which they call kind of useless, and I call a godsend to my constant frustration with not having sleeves or cases for the dozens of discs that I hand out to people every month at work!
+    Gizmodo has an item about [Elecom K-Scott CD Pouch Dispensers](http://gizmodo.com/gadgets/gadgets/elecom-kscott-cd-pouch-dispenser-180985.php), which they call kind of useless, and I call a godsend to my constant frustration with not having sleeves or cases for the dozens of discs that I hand out to people every month at work!
   
   
   

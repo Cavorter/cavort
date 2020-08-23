@@ -13,7 +13,7 @@ categories:
 In a company newsletter this morning was a mention of the following book, whose title is causing pain that I must share:
 <blockquote>
 
-<a href="http://www.amazon.com/Thin-Book-Naming-Elephants-Undiscussables/dp/0966537351">Naming Elephants: How to Surface Undiscussables for Greater Organizational Success</a>
+[Naming Elephants: How to Surface Undiscussables for Greater Organizational Success](http://www.amazon.com/Thin-Book-Naming-Elephants-Undiscussables/dp/0966537351)
 
 </blockquote>
 In theory we have a bunch of copy editors on the payroll somewhere. I would have to guess they were all on vacation that week.

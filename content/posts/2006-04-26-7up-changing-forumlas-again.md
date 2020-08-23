@@ -12,6 +12,6 @@ tags:
   - 7Up
   - Sprite
 ---
-I'm actually really pretty excited that <a href="http://www.bevnet.com/news/2006/04-20-2006-7UP_natural.asp?emc=intellicontact&#038;m=351904&#038;v=3924197&#038;l=26">7UP is changing their formula again</a>. I thought the change in the mid-90's to make it taste more like Sprite was a bad idea. Hopefully this will be a better change rather than a worse one.
+I'm actually really pretty excited that [7UP is changing their formula again](http://www.bevnet.com/news/2006/04-20-2006-7UP_natural.asp?emc=intellicontact&#038;m=351904&#038;v=3924197&#038;l=26). I thought the change in the mid-90's to make it taste more like Sprite was a bad idea. Hopefully this will be a better change rather than a worse one.
 
 Now if only they would switch back to sugar!

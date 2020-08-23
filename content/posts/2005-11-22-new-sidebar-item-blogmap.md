@@ -9,4 +9,4 @@ categories:
 tags:
   - blog
 ---
-I've added a new little item to the right sidebar called a BlogMap. Basically it shows where I am, as well as what else is near me. Sort of interesting, and we'll see how long I leave it up. More info at <a href="http://www.feedmap.net/BlogMap/">feedmap .net (BETA)</a>
+I've added a new little item to the right sidebar called a BlogMap. Basically it shows where I am, as well as what else is near me. Sort of interesting, and we'll see how long I leave it up. More info at [feedmap .net (BETA)](http://www.feedmap.net/BlogMap/)

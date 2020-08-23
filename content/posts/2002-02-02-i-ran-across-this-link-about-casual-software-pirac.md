@@ -8,4 +8,4 @@ categories:
 - Tech
 
 ---
-I ran across <a href="http://www.ambrosiasw.com/webboard/Forum14/HTML/000052.html">this link</a> about casual software piracy from a <a href="http://www.mnstf.org/natter.html">mailing list</a> that I'm on. A pretty good article, though some of the comments after the article get a bit idiotic pretty quickly.
+I ran across [this link](http://www.ambrosiasw.com/webboard/Forum14/HTML/000052.html) about casual software piracy from a [mailing list](http://www.mnstf.org/natter.html) that I'm on. A pretty good article, though some of the comments after the article get a bit idiotic pretty quickly.

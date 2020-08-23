@@ -10,7 +10,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:f1fcd7d0ce32b30e524602c1d54b8dc49c5e934b'>
   
-    My autographed copy (#219!) of <a href="http://www.thomasdolby.com">Thomas Dolby</a>'s <a href="http://cdbaby.com/cd/dolbydvdauto">"The Sole Inhabitant" concert DVD</a> arrived in the mail today from <a href="http://www.cdbaby.com">CD Baby</a> and I spent a really great evening getting through the contents despite a couple of little flaws in the package.
+    My autographed copy (#219!) of [Thomas Dolby](http://www.thomasdolby.com)'s ["The Sole Inhabitant" concert DVD](http://cdbaby.com/cd/dolbydvdauto) arrived in the mail today from [CD Baby](http://www.cdbaby.com) and I spent a really great evening getting through the contents despite a couple of little flaws in the package.
   
   
   
@@ -31,5 +31,5 @@ categories:
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/menu/" title="menu" rel="tag">menu</a>, <a href="http://www.cavort.org/tag/music/" title="Music" rel="tag">Music</a>, <a href="http://www.cavort.org/tag/pop/" title="pop" rel="tag">pop</a>, <a href="http://www.cavort.org/tag/song/" title="song" rel="tag">song</a>, <a href="http://www.cavort.org/tag/video/" title="Video" rel="tag">Video</a><br />
+  Tags: [menu](http://www.cavort.org/tag/menu/), [Music](http://www.cavort.org/tag/music/), [pop](http://www.cavort.org/tag/pop/), [song](http://www.cavort.org/tag/song/), [Video](http://www.cavort.org/tag/video/)<br />
 </div>

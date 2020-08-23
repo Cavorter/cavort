@@ -10,7 +10,7 @@ categories:
 - Soda Brewing
 
 ---
-On Saturday, I had the wonderful opportunity to help and observe <a href="http://buccaneer2.blogspot.com/">a friend</a> put a couple of batches of soda down. He's been home brewing beer for quite awhile now and I, correctly, thought that by actually watching him do a batch I could pick up plenty of tips and techniques about brewing. It was quite a good time, and he even sent me home with half of the batches (8 bottles, 4 of each type) to observe, test, and enjoy.
+On Saturday, I had the wonderful opportunity to help and observe [a friend](http://buccaneer2.blogspot.com/) put a couple of batches of soda down. He's been home brewing beer for quite awhile now and I, correctly, thought that by actually watching him do a batch I could pick up plenty of tips and techniques about brewing. It was quite a good time, and he even sent me home with half of the batches (8 bottles, 4 of each type) to observe, test, and enjoy.
 
 We used the same yeast as I had with the fated Batch 1 a few weeks ago, but increased the amount of yeast used by quite a bit. His reasoning was that the packets are setup for 5 gallon batches, and the 1/8th tsp of yeast isn't nearly a fifth of the package. It's a good possibility that may be one of the reasons I was getting such slow carbonation on that batch.
 

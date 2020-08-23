@@ -16,10 +16,10 @@ I finally got around to looking at the new community features on Netflix this mo
 
 Anyway, some items in particular with the Netflix Community features that I found interesting where the difference between "public" and "private" information and the "Reviewer Rank". I am, unsurprisingly, pretty low on the ranking coming in somewhere just shy of 65,000th.
 
-But you can see some of that <a href="http://www.netflix.com/StrangerProfile?prid=105743106">by going directly to my profile</a>.
+But you can see some of that [by going directly to my profile](http://www.netflix.com/StrangerProfile?prid=105743106).
 
 </div>
 
 <div class="st-post-tags">
-Tags: <a href="http://www.cavort.org/tag/community/" title="community" rel="tag">community</a>, <a href="http://www.cavort.org/tag/friend/" title="friend" rel="tag">friend</a>, <a href="http://www.cavort.org/tag/friends/" title="friends" rel="tag">friends</a>, <a href="http://www.cavort.org/tag/netflix/" title="Netflix" rel="tag">Netflix</a>, <a href="http://www.cavort.org/tag/social/" title="social" rel="tag">social</a><br />
+Tags: [community](http://www.cavort.org/tag/community/), [friend](http://www.cavort.org/tag/friend/), [friends](http://www.cavort.org/tag/friends/), [Netflix](http://www.cavort.org/tag/netflix/), [social](http://www.cavort.org/tag/social/)<br />
 </div>

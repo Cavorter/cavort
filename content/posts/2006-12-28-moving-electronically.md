@@ -30,7 +30,7 @@ categories:
       Less hardware maintenance. The "server" boxes I use are basically all of my older retired machines and many of the parts are <em>way</em> past their MTBF.
     </li>
     <li>
-      My current DNS management sucks through <a href="http://www.visi.com">Visi</a>. They have been a really good ISP, but I should not have to send email to support to get a DNS change made when I feel like tinkering with things.
+      My current DNS management sucks through [Visi](http://www.visi.com). They have been a really good ISP, but I should not have to send email to support to get a DNS change made when I feel like tinkering with things.
     </li>
     <li>
       Kind of tired of re-learning bits of Linux every six months after I have forgotten most of it in the interim when I'm not having to mess with the systems. Though I am seriously moving my non-gaming machine to Ubuntu to give it a serious try.

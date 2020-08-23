@@ -12,6 +12,6 @@ tags:
   - PopCap
   - Hammer Heads
 ---
-<a href="http://www.popcap.com">PopCap Games</a> has a new game out: <a href="http://popcap.com/launchpage.php?theGame=hammerheads&#038;src=featured">Hammer Heads</a>. I saw the announcement in their regular newsletter and gave it a try. It's basically a hideously well done whack-a-mole variant that is good enough that I have already registered my copy.
+[PopCap Games](http://www.popcap.com) has a new game out: [Hammer Heads](http://popcap.com/launchpage.php?theGame=hammerheads&#038;src=featured). I saw the announcement in their regular newsletter and gave it a try. It's basically a hideously well done whack-a-mole variant that is good enough that I have already registered my copy.
 
 Damn crack pushers!

@@ -10,11 +10,11 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:d5cfe98e112f3fac56c06401e133456f9e1bed39'>
   
-    As a birthday present for my sister this year I got tickets for her and I to go see the <a href="http://www.bnlmusic.com" target="_blank">Barenaked Ladies</a> play at the <a href="http://www.xcelenergycenter.com/" target="_blank">Xcel Center</a> in St Paul last night. The show was pretty good, though I have to admit that I was a bit more excited about (and happy at the performance of) the opening act than I was was of the headliner. <a href="http://www.mikedoughty.com/" target="_blank">Mike Doughty</a> was in fine form and did a great job warming up the crowd with some of his solo work as well as a couple of <a href="http://en.wikipedia.org/wiki/Soul_Coughing" target="_blank">Soul Coughing</a> tunes, though no one sitting near us really&nbsp;seemed to know who the heck he was. I really need to make more of an effort to see him do his own show the next time he's in town.
+    As a birthday present for my sister this year I got tickets for her and I to go see the [Barenaked Ladies](http://www.bnlmusic.com) play at the [Xcel Center](http://www.xcelenergycenter.com/) in St Paul last night. The show was pretty good, though I have to admit that I was a bit more excited about (and happy at the performance of) the opening act than I was was of the headliner. [Mike Doughty](http://www.mikedoughty.com/) was in fine form and did a great job warming up the crowd with some of his solo work as well as a couple of [Soul Coughing](http://en.wikipedia.org/wiki/Soul_Coughing) tunes, though no one sitting near us really&nbsp;seemed to know who the heck he was. I really need to make more of an effort to see him do his own show the next time he's in town.
   
   
   
-    Anyway, Barenaked Ladies also had a very good show and I did enjoy it very much. My sister and I have had an on-going strong discussion (because it's not serious enough to be an argument) about whether BNL was as fun on stage as their fellow Torontans, er, Toronto-ans, um, band from Toronto <a href="http://www.fruvous.com/" target="_blank">Moxy Fruvous</a>. Well BNL does a good show, but they're nothing close to Moxy Fruvous on stage. Definitely fun, don't get me wrong, but not nearly the quantity of digressions, ad-libs, and other wacky types of stuff that happens at a Moxy Fruvous show.
+    Anyway, Barenaked Ladies also had a very good show and I did enjoy it very much. My sister and I have had an on-going strong discussion (because it's not serious enough to be an argument) about whether BNL was as fun on stage as their fellow Torontans, er, Toronto-ans, um, band from Toronto [Moxy Fruvous](http://www.fruvous.com/). Well BNL does a good show, but they're nothing close to Moxy Fruvous on stage. Definitely fun, don't get me wrong, but not nearly the quantity of digressions, ad-libs, and other wacky types of stuff that happens at a Moxy Fruvous show.
   
   
   
@@ -40,5 +40,5 @@ categories:
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/album/" title="album" rel="tag">album</a>, <a href="http://www.cavort.org/tag/music/" title="Music" rel="tag">Music</a>, <a href="http://www.cavort.org/tag/song/" title="song" rel="tag">song</a><br />
+  Tags: [album](http://www.cavort.org/tag/album/), [Music](http://www.cavort.org/tag/music/), [song](http://www.cavort.org/tag/song/)<br />
 </div>

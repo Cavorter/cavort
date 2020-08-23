@@ -11,7 +11,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:b963399d09c189f0a921c618281c97599a7d2c54'>
 
-I used a cache of rewards points this week to pick up a copy of <a href="http://driver-thegame.ubi.com/driver-san-francisco/en-US/home/" target="_blank">Driver: San Francisco</a>. I haven't quite finished absolutely everything in the game, but since I've finished the story and have played a bit of multiplayer I figured I'd put down some thoughts while they were still fresh.
+I used a cache of rewards points this week to pick up a copy of [Driver: San Francisco](http://driver-thegame.ubi.com/driver-san-francisco/en-US/home/). I haven't quite finished absolutely everything in the game, but since I've finished the story and have played a bit of multiplayer I figured I'd put down some thoughts while they were still fresh.
 
 For all that the game narrative is absolutely ridiculous on it's face, it was a lot of fun to play through it. The story is that you're a rogue cop who manages to get put into a coma while trying to take down your nemesis who just escaped from jail and then find that you can "shift" into people while they are driving and essentially run them like a puppet. See? Ridiculous! Also, entertaining.
 

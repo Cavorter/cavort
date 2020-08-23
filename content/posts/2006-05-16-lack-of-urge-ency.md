@@ -10,4 +10,4 @@ tags:
   - tech
   - links
 ---
-<a href="http://blogs.zdnet.com/Bott/?p=61">Ed Bott</a> doesn't like some of the clauses of the EULA in the new Windows Media Player and Urge services. Not that I can blame him with a couple of those. "our generous Advertisers" indeed.
+[Ed Bott](http://blogs.zdnet.com/Bott/?p=61) doesn't like some of the clauses of the EULA in the new Windows Media Player and Urge services. Not that I can blame him with a couple of those. "our generous Advertisers" indeed.

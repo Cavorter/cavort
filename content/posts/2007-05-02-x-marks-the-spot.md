@@ -10,10 +10,10 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:175bfb681a0c5a6468e78469d3663914d37d3722'>
 
-One of my favorite web comics, <a href="http://xkcd.com">XKCD</a>, has a really <a href="http://xkcd.com/c256.html">incredibly cool comic/map up today</a>. I'm trying to decide where cavort.org lies in The Blogipegilo.
+One of my favorite web comics, [XKCD](http://xkcd.com), has a really [incredibly cool comic/map up today](http://xkcd.com/c256.html). I'm trying to decide where cavort.org lies in The Blogipegilo.
 
 </div>
 
 <div class="st-post-tags">
-Tags: <a href="http://www.cavort.org/tag/comic/" title="comic" rel="tag">comic</a><br />
+Tags: [comic](http://www.cavort.org/tag/comic/)<br />
 </div>

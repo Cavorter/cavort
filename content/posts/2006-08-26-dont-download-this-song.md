@@ -10,10 +10,10 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:9fe55026ef79c11b742e4920cd54736d3d419304'>
   
-    <a href="http://www.dontdownloadthissong.com/" target="_blank">Weird Al gets political</a>.
+    [Weird Al gets political](http://www.dontdownloadthissong.com/).
   
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/song/" title="song" rel="tag">song</a><br />
+  Tags: [song](http://www.cavort.org/tag/song/)<br />
 </div>

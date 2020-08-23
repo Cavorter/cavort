@@ -12,11 +12,11 @@ categories:
 ---
 <div class='microid-http+http:sha1:ece9e5bbdb65604bd2f430b8853fb15bece1e406'>
 
-I finally got to see <a href="http://www.mamadigdown.com/">Mama Digdown's Brass Band</a> and <a href="http://www.youngbloodbrassband.com">Youngblood Brass Band</a> on Friday night live at the Cabooze.
+I finally got to see [Mama Digdown's Brass Band](http://www.mamadigdown.com/) and [Youngblood Brass Band](http://www.youngbloodbrassband.com) on Friday night live at the Cabooze.
 
 What a show!
 
-It was the "Blowin' Up Brass Band Summit III" with the 2 bands mentioned, as well as the <a href="http://www.jackbrassband.com/">Jack Brass Band</a>. I didn't honestly expect a lot from the Jack Brass Band from the little that I've heard of them from the web, but they were much better than expected and put on a good set.
+It was the "Blowin' Up Brass Band Summit III" with the 2 bands mentioned, as well as the [Jack Brass Band](http://www.jackbrassband.com/). I didn't honestly expect a lot from the Jack Brass Band from the little that I've heard of them from the web, but they were much better than expected and put on a good set.
 
 Mama Digdown's was really good, as expected, but there was something about their set that just wasn't quite right. I still can't put my finger on what it was, and they were damn good, but it wasn't quite perfect.
 

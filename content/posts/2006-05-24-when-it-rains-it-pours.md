@@ -9,4 +9,4 @@ categories:
 tags:
   - links
 ---
-<a href="http://www.startribune.com/462/story/452639.html">This</a> makes two issues in 4 days with local amusement parks. Do people actually expect this stuff to be safe?
+[This](http://www.startribune.com/462/story/452639.html) makes two issues in 4 days with local amusement parks. Do people actually expect this stuff to be safe?

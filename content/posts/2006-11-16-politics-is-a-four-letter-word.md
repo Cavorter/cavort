@@ -10,7 +10,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:f3414b8001130994197dcf521888b40d29fbca6a'>
   
-    After spending I have no idea how many millions of dollars to try and move cars and traffic <em>out</em> of downtown Minneapolis our illustrious, and sadly slightly flaky, Mayor has now decided that <a href="http://www.startribune.com/462/story/815949.html">maybe we need <em>more</em> traffic downtown</a> but with fewer buses.
+    After spending I have no idea how many millions of dollars to try and move cars and traffic <em>out</em> of downtown Minneapolis our illustrious, and sadly slightly flaky, Mayor has now decided that [maybe we need <em>more</em> traffic downtown](http://www.startribune.com/462/story/815949.html) but with fewer buses.
   
   
   

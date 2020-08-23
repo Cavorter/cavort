@@ -14,12 +14,12 @@ categories:
 
 Just in case any body else is keeping track, but the Twin Cities has reached critical mass as far as high end ice cream shops go.
 
-The latest to open is <a href="http://www.pumphousecreamery.com/index.htm">PumpHouse Creamery</a>, which I'm thinking I might try and drop by tomorrow afternoon to give a try. One of the reasons is that I'm very curious what all is in their "20 varieties" of bottled soda's they also carry.
+The latest to open is [PumpHouse Creamery](http://www.pumphousecreamery.com/index.htm), which I'm thinking I might try and drop by tomorrow afternoon to give a try. One of the reasons is that I'm very curious what all is in their "20 varieties" of bottled soda's they also carry.
 
 So with them and Izzy's, Sonny's, Sebastian Joe's, Edina Creamery, and Grand Ole Creamery (which are the ones I can remember off the top of my head) this is just crazy. Can we <em>really</em> support that many really good ice cream places?
 
 </div>
 
 <div class="st-post-tags">
-Tags: <a href="http://www.cavort.org/tag/soda/" title="Soda" rel="tag">Soda</a><br />
+Tags: [Soda](http://www.cavort.org/tag/soda/)<br />
 </div>

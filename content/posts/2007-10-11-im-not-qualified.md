@@ -10,12 +10,12 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:828f2a1f39281382e685fbd2fb1f693745226fc1'>
 
-I really want some one to do a feminist deconstruction of the the game: <a href="http://www.mousechief.com/dhsg/dg_gameinfo.html">Dangerous High School Girls in Trouble</a>.
+I really want some one to do a feminist deconstruction of the the game: [Dangerous High School Girls in Trouble](http://www.mousechief.com/dhsg/dg_gameinfo.html).
 
 No really. I honestly have no idea what to think about it. None at all.
 
 </div>
 
 <div class="st-post-tags">
-Tags: <a href="http://www.cavort.org/tag/game/" title="game" rel="tag">game</a><br />
+Tags: [game](http://www.cavort.org/tag/game/)<br />
 </div>

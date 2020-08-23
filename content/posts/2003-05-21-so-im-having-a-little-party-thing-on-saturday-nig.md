@@ -15,31 +15,31 @@ categories:
 So I'm having a little party thing on Saturday night (5/24/2003) and I'm putting together a bunch of odd and interesting soda's to get. The list so far:
 <ul>
 <li>
-<a href="http://www.dpsu.com/vernors.html">Vernor's</a> Ginger Soda (6 cans)
+[Vernor's](http://www.dpsu.com/vernors.html) Ginger Soda (6 cans)
 </li>
 <li>
-<a href="http://www.mountaindew.com/livewire">Mountain Dew Live-Wire</a> (2 bottles)
+[Mountain Dew Live-Wire](http://www.mountaindew.com/livewire) (2 bottles)
 </li>
 <li>
-<a href="http://www.spriteremix.com/">Sprite Remix</a> (2 bottles)
+[Sprite Remix](http://www.spriteremix.com/) (2 bottles)
 </li>
 <li>
-<a href="http://www.dnl-flipit.com">dn-l</a> (2 bottles)
+[dn-l](http://www.dnl-flipit.com) (2 bottles)
 </li>
 <li>
 Cock-n-Bull Ginger Beer (4 bottles)
 </li>
 <li>
-<a href="http://www.frostop.com/text/welcome.html">FrosTop Root Beer</a> (2 bottles)
+[FrosTop Root Beer](http://www.frostop.com/text/welcome.html) (2 bottles)
 </li>
 <li>
-<a href="http://www.pagebrewing.com/products/jp-rootbeer.html">Dorothy's Isle of Pine Root Beer</a> (6 bottles) [I hope]
+[Dorothy's Isle of Pine Root Beer](http://www.pagebrewing.com/products/jp-rootbeer.html) (6 bottles) [I hope]
 </li>
 <li>
-<a href="http://www.millstreambrewing.com/">Millstream Root Beer (2 bottles)</a>
+[Millstream Root Beer (2 bottles)](http://www.millstreambrewing.com/)
 </li>
 <li>
-<a href="http://www.sprecherbrewery.com/">Sprecher</a> Root Beer (2-4 bottles)
+[Sprecher](http://www.sprecherbrewery.com/) Root Beer (2-4 bottles)
 </li>
 <li>
 O'Sippie Root Beer (4 bottles)
@@ -51,7 +51,7 @@ O'Sippie Vanilla Cream (2 bottles)
 O'Sippie Orange Blossom (2 bottles)
 </li>
 <li>
-<a href="http://www.journeyfood.com/">Journey Foods</a> various (Whatever I can find?)
+[Journey Foods](http://www.journeyfood.com/) various (Whatever I can find?)
 </li>
 <li>
 Boylan's Birch Beer (2 bottles)
@@ -60,10 +60,10 @@ Boylan's Birch Beer (2 bottles)
 1919 (1 small fridge keg?)
 </li>
 <li>
-<a href="http://www.riggsforsythe.com/">Rigg's & Forsythe</a> Dry Cola (2 bottles)
+[Rigg's & Forsythe](http://www.riggsforsythe.com/) Dry Cola (2 bottles)
 </li>
 <li>
-<a href="http://www.riggsforsythe.com/">Rigg's & Forsythe</a> Bitter Lemon (2 bottles?)
+[Rigg's & Forsythe](http://www.riggsforsythe.com/) Bitter Lemon (2 bottles?)
 </li>
 </ul>
 If anyone wants to drop by, let me know. I'll be serving Chicken Curry at ~7pm.
@@ -71,5 +71,5 @@ If anyone wants to drop by, let me know. I'll be serving Chicken Curry at ~7pm.
 </div>
 
 <div class="st-post-tags">
-Tags: <a href="http://www.cavort.org/tag/brew/" title="brew" rel="tag">brew</a>, <a href="http://www.cavort.org/tag/brewing/" title="brewing" rel="tag">brewing</a>, <a href="http://www.cavort.org/tag/food/" title="Food" rel="tag">Food</a>, <a href="http://www.cavort.org/tag/ginger-beer/" title="Ginger Beer" rel="tag">Ginger Beer</a>, <a href="http://www.cavort.org/tag/root-beer/" title="Root Beer" rel="tag">Root Beer</a>, <a href="http://www.cavort.org/tag/soda/" title="Soda" rel="tag">Soda</a><br />
+Tags: [brew](http://www.cavort.org/tag/brew/), [brewing](http://www.cavort.org/tag/brewing/), [Food](http://www.cavort.org/tag/food/), [Ginger Beer](http://www.cavort.org/tag/ginger-beer/), [Root Beer](http://www.cavort.org/tag/root-beer/), [Soda](http://www.cavort.org/tag/soda/)<br />
 </div>

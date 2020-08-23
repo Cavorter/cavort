@@ -13,12 +13,12 @@ categories:
 ---
 <div class='microid-http+http:sha1:dbd8854d82c3db4adf8774a80778187bb740d6bb'>
 
-Netflix has recently started a beta of their own social networking-sort-of service called <a href="http://www.netflix.com/FriendPage">Netflix Friends</a>.
+Netflix has recently started a beta of their own social networking-sort-of service called [Netflix Friends](http://www.netflix.com/FriendPage).
 
 If you want an invitation, contact me and I'll be glad to send you an invite!
 
 </div>
 
 <div class="st-post-tags">
-Tags: <a href="http://www.cavort.org/tag/friends/" title="friends" rel="tag">friends</a>, <a href="http://www.cavort.org/tag/netflix/" title="Netflix" rel="tag">Netflix</a>, <a href="http://www.cavort.org/tag/social/" title="social" rel="tag">social</a><br />
+Tags: [friends](http://www.cavort.org/tag/friends/), [Netflix](http://www.cavort.org/tag/netflix/), [social](http://www.cavort.org/tag/social/)<br />
 </div>

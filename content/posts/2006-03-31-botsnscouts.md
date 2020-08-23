@@ -13,4 +13,4 @@ tags:
   - RoboRally
   - Java
 ---
-Java version of RoboRally: <a href="http://botsnscouts.sourceforge.net/index.php3">Bots'n'Scouts</a>
+Java version of RoboRally: [Bots'n'Scouts](http://botsnscouts.sourceforge.net/index.php3)

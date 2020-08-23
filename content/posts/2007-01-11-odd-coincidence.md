@@ -18,7 +18,7 @@ categories:
   
   
   
-    Likewise, the OpenID stuff here appears to be _mostly_ working pretty well. The small issue that I'm having right now is trying to tweak my comment spam detection package (<a href="http://unknowngenius.com/blog/wordpress/spam-karma/">Spam Karma 2</a>, Highly recommended) to stop dropping OpenID validated comments in the spam bucket because the Name listed is a URL. I think I've mostly got it figured out though finally.
+    Likewise, the OpenID stuff here appears to be _mostly_ working pretty well. The small issue that I'm having right now is trying to tweak my comment spam detection package ([Spam Karma 2](http://unknowngenius.com/blog/wordpress/spam-karma/), Highly recommended) to stop dropping OpenID validated comments in the spam bucket because the Name listed is a URL. I think I've mostly got it figured out though finally.
   
   
   

@@ -16,5 +16,5 @@ From Terry Pratchett:
 Let grammar, spelling and punctuation enter your life. Yes, publishers have people who will do this sort of thingâ€”and they are called authors.
 
 </blockquote>
-(I haven't been able to run down a link to the quote, and I only have it from an <a href="http://harpercollins.com/members/authortracker/index.aspx">AuthorTracker</a> message.)
+(I haven't been able to run down a link to the quote, and I only have it from an [AuthorTracker](http://harpercollins.com/members/authortracker/index.aspx) message.)
 

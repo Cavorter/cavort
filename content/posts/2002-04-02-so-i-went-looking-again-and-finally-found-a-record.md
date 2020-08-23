@@ -10,4 +10,4 @@ tags:
  - music
 
 ---
-So I went looking again and finally found a recording of <a href="http://www.euronet.nl/~amsmusic/bio_demeij.htm">Johan de Meij's</a> <a href="http://www.amazon.com/exec/obidos/ASIN/B00004U8BO/qid=1017782753/sr=2-1/ref=sr_2_1/002-2265082-9120869">Lord of the Rings Symphony #1</a> performed by a symphonic band, rather than the orchestral version. I've had the chance to perform it several times, and every time it was a wonderful experience. Someday, I will have a horn again.
+So I went looking again and finally found a recording of [Johan de Meij's](http://www.euronet.nl/~amsmusic/bio_demeij.htm) [Lord of the Rings Symphony #1](http://www.amazon.com/exec/obidos/ASIN/B00004U8BO/qid=1017782753/sr=2-1/ref=sr_2_1/002-2265082-9120869) performed by a symphonic band, rather than the orchestral version. I've had the chance to perform it several times, and every time it was a wonderful experience. Someday, I will have a horn again.

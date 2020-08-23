@@ -12,7 +12,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:cad9ba3e3155e02e54660767280476ffa8fb31e3'>
 
-Microsoft launched the second version of their Zune hardware yesterday and their software today. For the most part I am really very happy with the progress that the platform has made, but I am also quite disappointed in a couple of choices that I do really consider a big step back. I've already commented in a couple of locations about the change to the ratings system from 5 Star to Heart/Broken Heart, but I just posted the <a href="http://forums.zune.net/944/ShowPost.aspx#944">following message in the Zune Forums</a> about the lack of auto playlists:
+Microsoft launched the second version of their Zune hardware yesterday and their software today. For the most part I am really very happy with the progress that the platform has made, but I am also quite disappointed in a couple of choices that I do really consider a big step back. I've already commented in a couple of locations about the change to the ratings system from 5 Star to Heart/Broken Heart, but I just posted the [following message in the Zune Forums](http://forums.zune.net/944/ShowPost.aspx#944) about the lack of auto playlists:
 <blockquote>
 
 As a software engineer I do understand that sometimes the process of creating software involves making trade offs and sometimes good features get cut for good reasons. Given that auto playlists seemed to function pretty well in the first version of the software, what was the design decision around not implementing auto playlists in version 2? I am really honestly curious.
@@ -29,5 +29,5 @@ I hope I get an answer, though I don't expect the majority of the replies to kee
 </div>
 
 <div class="st-post-tags">
-Tags: <a href="http://www.cavort.org/tag/music/" title="Music" rel="tag">Music</a>, <a href="http://www.cavort.org/tag/zune-software/" title="Zune software" rel="tag">Zune software</a><br />
+Tags: [Music](http://www.cavort.org/tag/music/), [Zune software](http://www.cavort.org/tag/zune-software/)<br />
 </div>

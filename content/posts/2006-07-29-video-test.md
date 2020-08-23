@@ -10,7 +10,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:0c1baff5cb5fec7c2da358359b2ab1075e015cf4'>
   
-    I'm doing some testing of various video upload services for use with clips that I've been getting from my video camera. This is the <a href="http://www.youtube.com">YouTube</a> test.
+    I'm doing some testing of various video upload services for use with clips that I've been getting from my video camera. This is the [YouTube](http://www.youtube.com) test.
   
   
   
@@ -18,5 +18,5 @@ categories:
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/movie/" title="movie" rel="tag">movie</a>, <a href="http://www.cavort.org/tag/video/" title="Video" rel="tag">Video</a><br />
+  Tags: [movie](http://www.cavort.org/tag/movie/), [Video](http://www.cavort.org/tag/video/)<br />
 </div>

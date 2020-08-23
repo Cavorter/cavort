@@ -11,10 +11,10 @@ categories = [
 +++
 <div class='microid-http+http:sha1:6ba52a772486430ee5ca5cb1412305929ce54776'>
 
-CD's to look into finding copies of:<br /> <a href="http://www.arhoolie.com/titles/417.shtml">Treme Brass Band - Gimme My Money Back</a><br /> Carlo Jones & The Surinam Kaseko Troubadours (Self Titled) [MW Records title number MWCD 3011]<br /> <a href="http://www.donnasbarandgrill.com/foster.htm">The Michael Foster Project - Kick Some Brass</a><br /> <a href="http://www.rebirthbrassband.com/rbb/music.shtml">Rebirth Brass Band (complete discography)</a>
+CD's to look into finding copies of:<br /> [Treme Brass Band - Gimme My Money Back](http://www.arhoolie.com/titles/417.shtml)<br /> Carlo Jones & The Surinam Kaseko Troubadours (Self Titled) [MW Records title number MWCD 3011]<br /> [The Michael Foster Project - Kick Some Brass](http://www.donnasbarandgrill.com/foster.htm)<br /> [Rebirth Brass Band (complete discography)](http://www.rebirthbrassband.com/rbb/music.shtml)
 
 </div>
 
 <div class="st-post-tags">
-Tags: <a href="http://www.cavort.org/tag/music/" title="Music" rel="tag">Music</a><br />
+Tags: [Music](http://www.cavort.org/tag/music/)<br />
 </div>

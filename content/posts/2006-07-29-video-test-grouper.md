@@ -17,7 +17,7 @@ categories:
 ---
 <div class='microid-mailto+http:sha1:84be3097e21787f1807929c23c5e571424becdff'>
   
-    Second video test, this time using <a href="http://www.grouper.com">Grouper</a>. Which I think is a really stupid name for a video sharing website.
+    Second video test, this time using [Grouper](http://www.grouper.com). Which I think is a really stupid name for a video sharing website.
   
   
   
@@ -38,10 +38,10 @@ categories:
   </ul>
   
   
-    You can see the clip I uploaded <a href="http://grouper.com/video/Preview.ashx?id=1462938&#038;ap=1&#038;ex=1&#038;t=1.wmv">here</a> if you really want to.
+    You can see the clip I uploaded [here](http://grouper.com/video/Preview.ashx?id=1462938&#038;ap=1&#038;ex=1&#038;t=1.wmv) if you really want to.
   
 </div>
 
 <div class="st-post-tags">
-  Tags: <a href="http://www.cavort.org/tag/video/" title="Video" rel="tag">Video</a><br />
+  Tags: [Video](http://www.cavort.org/tag/video/)<br />
 </div>

@@ -20,5 +20,5 @@ categories:
   
   
   
-    Step 1. Tie <a href="http://img.engadget.com/common/images/7291976886464954.JPG?0.9341875457336202">these balloons</a> to your car<br /> Step 2. Drive VERY FAST.<br /> Step 3. Watch people freak out<br /> Step 4. Tell the officer you thought they were real!
+    Step 1. Tie [these balloons](http://img.engadget.com/common/images/7291976886464954.JPG?0.9341875457336202) to your car<br /> Step 2. Drive VERY FAST.<br /> Step 3. Watch people freak out<br /> Step 4. Tell the officer you thought they were real!
   

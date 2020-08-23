@@ -10,6 +10,6 @@ tags:
   - tech
   - links
 ---
-ArsTechnica is reporting that Sony's latest DRM system on audio CD's involves <a href="http://arstechnica.com/news.ars/post/20051101-5514.html">installing a rootkit on your system</a>.
+ArsTechnica is reporting that Sony's latest DRM system on audio CD's involves [installing a rootkit on your system](http://arstechnica.com/news.ars/post/20051101-5514.html).
 
 This is just rampant stupidity.

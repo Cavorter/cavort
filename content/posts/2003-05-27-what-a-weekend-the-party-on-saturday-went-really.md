@@ -16,7 +16,7 @@ What a weekend! The party on Saturday went really well and we drank a LOT of goo
 
 Unfortunately among them was one of the Journey Foods root beer flavors: Shenandoah Sassafras Root Beer. The problem is not that they use Star Anise as one of the ingredients, it's that they used a LOT of Star Anise as one of the ingredients. The first comment from someone who tried it was, "Tastes like raisins." Not that raisins are a bad thing, but it was just a very off taste and not very pleasant.
 
-The other unsuccessful one was the <a href="http://www.steapsoda.com/">Steap</a> line of sodas. All of them are based on Green Tea, which doesn't sound like a bad thing until you taste one. Ick. Someone said that their sweetie might like them and so took the rest home to see what happens. Good riddance and I hope they get some enjoyment out of them. I did try both the Cola and the Root Beer and both were pretty disgusting.
+The other unsuccessful one was the [Steap](http://www.steapsoda.com/) line of sodas. All of them are based on Green Tea, which doesn't sound like a bad thing until you taste one. Ick. Someone said that their sweetie might like them and so took the rest home to see what happens. Good riddance and I hope they get some enjoyment out of them. I did try both the Cola and the Root Beer and both were pretty disgusting.
 
 OTOH - on the good advice of someone close, I found some Sangria flavored Mexican sodas that were quite good. One of them was mostly grape soda flavored, but the other actually tasted like good sangria, but without the alcohol. [Now I just have to get around to calling her today after I didn't get a chance to this last weekend like I was supposed to. :-( ] Another really pleasant surprise was the Journey Foods Carribean Creme Soda, which had a very nice flavor of toasted coconut. It tempered the usual oversweet flavor of cream soda very well and was a big hit. I'll have to stock that in the fridge more often.
 
@@ -27,5 +27,5 @@ I'll try and come up with a revised list of the stuff that I actually did end up
 </div>
 
 <div class="st-post-tags">
-Tags: <a href="http://www.cavort.org/tag/dining/" title="dining" rel="tag">dining</a>, <a href="http://www.cavort.org/tag/food/" title="Food" rel="tag">Food</a>, <a href="http://www.cavort.org/tag/root-beer/" title="Root Beer" rel="tag">Root Beer</a>, <a href="http://www.cavort.org/tag/soda/" title="Soda" rel="tag">Soda</a><br />
+Tags: [dining](http://www.cavort.org/tag/dining/), [Food](http://www.cavort.org/tag/food/), [Root Beer](http://www.cavort.org/tag/root-beer/), [Soda](http://www.cavort.org/tag/soda/)<br />
 </div>
