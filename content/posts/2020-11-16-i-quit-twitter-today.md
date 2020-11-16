@@ -4,7 +4,7 @@ date = 2020-11-16T09:25:37-06:00
 images = []
 tags = []
 categories = ["personal"]
-draft = true
+draft = false
 +++
 
 The week before the US election I decided I was going to take a break from Twitter for at least two weeks. In order to make that decision actually stick I even went as far as uninstalling the app from my phone. For the following several days I found myself randomly picking up the phone and mindlessly unlocking and tapping where the app icon had been. It was kind of enlightening about how I had been using it and how it had been fitting in to my day to day.
