@@ -39,7 +39,7 @@ Tests done. Implementation done. Local unit tests green. Commit to repo. Done. R
 
 ```
 
-After checking through to see if it was a problem with Windows PowerShell vs PowerShell Core or Core on Linux vs Core on Windows and a whole host of other attempts to resolve the error, I finally figure out the problem: While PowerShell is great at auto-loading modules when you refer to functions it does not do any of that magically behavior when you are referring to a type that might be loaded by one of those modules so in this case the class was not available without first loading the module. Once I finally realized what was happening the solution was incredibly simple: load the module pre-emptively!
+After checking through to see if it was a problem with Windows PowerShell vs PowerShell Core or Core on Linux vs Core on Windows and a whole host of other attempts to resolve the error, I finally figure out the problem: While PowerShell is great at auto-loading modules when you refer to functions it does not do any of that magical behavior when you are referring to a type that might be loaded by one of those modules. In this case the class was not available without first loading the module. Once I finally realized what was happening the solution was incredibly simple: load the module pre-emptively!
 
 ```powershell
 Describe "My-Function" {
