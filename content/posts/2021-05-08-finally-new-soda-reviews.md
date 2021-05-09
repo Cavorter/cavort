@@ -10,7 +10,7 @@ If people know me at all it's for one of three things: LEGO, DevOps, or Soda. Af
 
 **But why wait?!** At the ripe old age of 46 (as of yesterday) it's time to just push forward even if the site isn't quite pefect so today I have posted a long overdue review of [Dad's Orange Cream Soda](https://https://www.soda.guide/review/dads-orange-cream/)!
 
-It's a little tempting to put up one of those animated constructions gifs we web content amateurs were so enamored of back in the nineties, but please just excute the warts. The sidebar in particular is a mess. I'll probably fix all the problems eventually.
+It's a little tempting to put up one of those animated constructions gifs we web content amateurs were so enamored of back in the nineties, but please just excuse the warts. The sidebar in particular is a mess. I'll probably fix all the problems eventually.
 
 _Probably_.
 
