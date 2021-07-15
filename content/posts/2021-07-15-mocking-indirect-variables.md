@@ -19,7 +19,7 @@ function My-Function {
 Describe "My-Function" {
     It "Returns the value of SomeKey from the response headers" {
         $goodResponse = "Woot!"
-        Mock -CommandName Invoke-RestMethod -MockWith { Set-Variable -Scope Script -Name responseHeaders -Value $goodResponse; return $true }
+        Mock -CommandName Invoke-RestMethod -MockWith { Set-Variable -Scope Script -Name responseHeaders -Value @{ SomeKey = $goodResponse }; return $true }
         My-Function | Should -Be $goodResponse
     }
 }
