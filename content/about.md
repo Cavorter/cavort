@@ -23,3 +23,7 @@ A note about spam that appears to have come from my domain, cavort.org. It appea
 If you wish to contact me please use my first name at virtualmicropolis.com or through [twitter](http://twitter.com/cavorter).
 
 [Find me on Flickr!](http://flickr.com/photos/cavort)
+
+# My Current Weather
+
+{{< weather >}}
