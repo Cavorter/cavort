@@ -6,6 +6,8 @@ copyright = "Copyright &copy; 2020 - Nathan Stohlmann"
 canonifyurls = true
 theme = "hugo-kiera-modified"
 
+ignoreErrors = ["error-remote-getjson"]
+
 paginate = 10
 
 [taxonomies]
