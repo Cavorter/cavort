@@ -23,7 +23,7 @@ pygmentsCodeFences = true
 [author]
     name = "Nathan Stohlmann"
     github = "Cavorter"
-    mastodon = "@cavorter@twit.social"
+    mastodon = "twit.social/@cavorter"
     # twitter = "cavorter"
     #gitlab = "username"
     #linkedin = "username"
