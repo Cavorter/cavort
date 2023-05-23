@@ -30,7 +30,7 @@ I am not a hard core privacy or security person. I'm not going to talk about how
 | [DuckDuckGo](#duckduckgo) | [Bing](https://help.duckduckgo.com/duckduckgo-help-pages/results/sources/) | Yes | Yes | No |
 | [Kagi](#kagi) | Proprietary | No | Trial | [$5-25/mo](https://kagi.com/pricing) |
 | [Qwant](#qwant) | Proprietary | Yes | Yes | No |
-| [StartPage](#startpage) | Google | Yes | Yes | $0 |
+| [StartPage](#startpage) | Google | Yes | Yes | No |
 
 ## Bing
 https://bing.com
