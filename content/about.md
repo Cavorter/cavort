@@ -18,8 +18,6 @@ I am a fan of [LEGO bricks](http://www.lego.com) and enjoy building with my mode
 
 I am an amateur musician. I formerly played Euphonium with a local community band and am trying to figure out how to add them or a different community band back into my schedule. I used to sing Baritone with [One Voice Mixed Chorus](http://ovmc.org), a nationally recognized LGBTQA choir. You can also almost always find me at one or more [TubaChristmas](http://tubachristmas.com) performances every year.
 
-A note about spam that appears to have come from my domain, cavort.org. It appears that at least one spammer has been using various addresses @cavort.org as the purported sender of the messages for at least 15 years. Please believe me when I say that if I could have that person in this room right now they would leave the room with an extremely funny walk. I do not send spam. This domain has never sent spam. It's not me and I am terribly sorry if you got crap from those shmucks but there is absolutely nothing that I can do about it at this point.
-
 If you wish to contact me please use my first name at virtualmicropolis.com or through [Mastodon](https://twit.social/@cavorter).
 
 [Find me on Flickr!](http://flickr.com/photos/cavort)
