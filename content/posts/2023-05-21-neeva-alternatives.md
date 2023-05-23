@@ -25,10 +25,10 @@ I am not a hard core privacy or security person. I'm not going to talk about how
 | Name | Index | Ads | Free | $$ |
 | --- | --- | --- | --- | --- |
 | [Bing](#bing) | Proprietary | Yes | Yes | No |
-| [Brave Search](#brave-search) | Proprietary | Yes | Yes | ? |
-| [Ecosia](#ecosia) | ? | Yes | Yes | $0 |
-| [DuckDuckGo](#duckduckgo) | ? | Yes | Yes | ? |
-| [Kagi](#kagi) | Proprietary | No | Trial | $5-25/mo |
+| [Brave Search](#brave-search) | Proprietary | Yes | Yes | [$3/mo](https://account.brave.com/?intent=checkout&product=search) |
+| [Ecosia](#ecosia) | [Bing](https://www.ethicalconsumer.org/technology/how-ethical-search-engine-ecosia) | Yes | Yes | No |
+| [DuckDuckGo](#duckduckgo) | [Bing](https://help.duckduckgo.com/duckduckgo-help-pages/results/sources/) | Yes | Yes | No |
+| [Kagi](#kagi) | Proprietary | No | Trial | [$5-25/mo](https://kagi.com/pricing) |
 | [Qwant](#qwant) | Proprietary | Yes | Yes | No |
 | [StartPage](#startpage) | Google | Yes | Yes | $0 |
 
@@ -69,4 +69,4 @@ I had looked into Qwant earlier this year when I was looking for a Google Maps a
 ## StartPage
 https://www.startpage.com
 
-At least their interface is pretty consistent, if full of too many ads. At least the PowerShell search had a mostly relevant ad, if only it wasn't from a site that I despise because they scrape Stack Overflow and sell the results as their own collected content. Still, could be a lot worse, and it was pretty quick.
+At least their interface is pretty consistent, if full of too many ads. At least the PowerShell search had a mostly relevant ad, if only it wasn't from a site that I despise because they scrape Stack Overflow and sell the results as their own collected content. Still, could be a lot worse, and it was pretty quick. StartPage also has a paid mail service that I've heard decent things about. I find it somewhat strange that people paying for that service don't get an ad-free version of their search.
